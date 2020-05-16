@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/author/mickael-lalande/</link>
+      <atom:link href="https://mickaellalande.github.io/author/mickael-lalande/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mickaël Lalande</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://mickaellalande.github.io/author/mickael-lalande/avatar_hue78c2b13e7d55cec4c948d390694bd82_1679328_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Mickaël Lalande</title>
+      <link>https://mickaellalande.github.io/author/mickael-lalande/</link>
+    </image>
+    
+  </channel>
+</rss>
