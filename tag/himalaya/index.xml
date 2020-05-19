@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Himalaya | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/himalaya/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/himalaya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Himalaya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 17:08:20 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Himalaya</title>
+      <link>https://mickaellalande.github.io/tag/himalaya/</link>
+    </image>
+    
+    <item>
+      <title>PhD (2019-2022)</title>
+      <link>https://mickaellalande.github.io/project/phd/</link>
+      <pubDate>Tue, 19 May 2020 17:08:20 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/project/phd/</guid>
+      <description>&lt;h2 id=&#34;modeling-climate-trends-and-variability-in-the-himalaya-to-understand-cryosphere-changes&#34;&gt;Modeling climate trends and variability in the Himalaya to understand cryosphere changes&lt;/h2&gt;
+&lt;p&gt;There is now evidence that the Earth climate changes at an unusual pace because of greenhouse gases and anthropogenic aerosol emissions. However, the regional imprint of climate change is still poorly understood, in particular, because it is mixed with large internal variability. Such uncertainty is even more pronounced in mountainous areas because: (i) meteorological in situ observations are scarce and (ii) the coarse resolution of global climate models is not adapted to reproduce the surface-atmosphere interactions and local circulation patterns over areas of complex topography. For these reasons, climate change is poorly known, and future scenarios are particularly uncertain in the Himalayan region, whereas they can be associated with major socio-environmental impacts, in particular in terms of water resources and natural hazards. This 
+&lt;a href=&#34;https://www.theses.fr/s226411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ph.D.&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; project aims to investigate trends and variability of the Himalayan climate with the 
+&lt;a href=&#34;https://lmdz.lmd.jussieu.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LMDZ&lt;/a&gt; global model with a stretched grid centered over this area. First, a 1900-2010 experiment will be run with a configuration nudged toward the ERA-20C atmospheric reanalysis. Long-term simulations will be used to investigate climate trends over the last century and decadal to multi-decadal changes of atmospheric conditions that could explain temporary positive trends of glacier mass balance in this area. Second, a subgrid-scale parameterization of the surface energy balance will be implemented in the model, with the aim to improve the representation of the climate and the snow cover in mountainous areas. Third, LMDZ will be used in configurations nudged toward future scenarios and experiments dedicated to the differentiation of aerosol and GHG forcings. This Ph.D. project will allow a better understanding of the climate and the cryosphere changes in the Himalaya, with the final goal to provide different climate scenarios for the next century in this mountainous area.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;supervised by 
+&lt;a href=&#34;http://pp.ige-grenoble.fr/pageperso/menegozm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Ménégoz&lt;/a&gt; and 
+&lt;a href=&#34;http://www.ige-grenoble.fr/-gerhard-krinner-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gerhard Krinner&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LMDZ for Regional Climate Studies</title>
+      <link>https://mickaellalande.github.io/talk/lmdz-pour-letude-du-climat-regional/</link>
+      <pubDate>Fri, 15 May 2020 09:30:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/lmdz-pour-letude-du-climat-regional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PEDALONS: Zoom and Regional Climates</title>
+      <link>https://mickaellalande.github.io/talk/zoom-and-regional-climates/</link>
+      <pubDate>Mon, 13 Jan 2020 09:30:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/zoom-and-regional-climates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis Day</title>
+      <link>https://mickaellalande.github.io/talk/thesis-day/</link>
+      <pubDate>Wed, 20 Nov 2019 09:00:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/thesis-day/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

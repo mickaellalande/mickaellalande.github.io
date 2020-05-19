@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Journée des thèses | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/journee-des-theses/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/journee-des-theses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Journée des thèses</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2019 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Journée des thèses</title>
+      <link>https://mickaellalande.github.io/tag/journee-des-theses/</link>
+    </image>
+    
+    <item>
+      <title>Thesis Day</title>
+      <link>https://mickaellalande.github.io/talk/thesis-day/</link>
+      <pubDate>Wed, 20 Nov 2019 09:00:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/thesis-day/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
