@@ -3,23 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mickaellalande.github.io/authors/</loc>
+    <loc>https://mickaellalande.github.io/tag/academic-themes/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mickaellalande.github.io/categories/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/github-pages/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/hugo/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tags/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/category/tutorials/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/website/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/authors/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mickaellalande.github.io/</loc>
+    <lastmod>2019-03-17T20:39:18+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mickaellalande.github.io/author/mickael-lalande/</loc>
+    <lastmod>2020-05-19T16:41:33+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mickaellalande.github.io/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
@@ -28,14 +68,12 @@
   
   <url>
     <loc>https://mickaellalande.github.io/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://mickaellalande.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mickaellalande.github.io/tags/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
 </urlset>
