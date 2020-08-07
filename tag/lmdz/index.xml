@@ -5,12 +5,21 @@
     <link>https://mickaellalande.github.io/tag/lmdz/</link>
       <atom:link href="https://mickaellalande.github.io/tag/lmdz/index.xml" rel="self" type="application/rss+xml" />
     <description>LMDZ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jun 2020 09:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 09:00:00 +0200</lastBuildDate>
     <image>
       <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
       <title>LMDZ</title>
       <link>https://mickaellalande.github.io/tag/lmdz/</link>
     </image>
+    
+    <item>
+      <title>Comite de Thèse - 1ère année</title>
+      <link>https://mickaellalande.github.io/talk/comite-de-these-1ere-annee/</link>
+      <pubDate>Thu, 10 Sep 2020 09:00:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/comite-de-these-1ere-annee/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTu5d7B3n9QVFkyTDi1z2rBVan_kz2q47CfUE9BOQEWbaDTQLOxrM1VTX87bMiiVqym-e-9nDaqjEhY/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Reunion Utilisateurs LMDZ</title>
