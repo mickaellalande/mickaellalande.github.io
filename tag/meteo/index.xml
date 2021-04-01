@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Météo | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/meteo/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/meteo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Météo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 16:22:32 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Météo</title>
+      <link>https://mickaellalande.github.io/tag/meteo/</link>
+    </image>
+    
+    <item>
+      <title>Allodocs #21</title>
+      <link>https://mickaellalande.github.io/post/podcast/allodocs/projections-climatiques-versus-meteo/</link>
+      <pubDate>Thu, 01 Apr 2021 16:22:32 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/post/podcast/allodocs/projections-climatiques-versus-meteo/</guid>
+      <description>&lt;iframe title=&#34;Embed Player&#34; width=&#34;100%&#34; height=&#34;188px&#34; src=&#34;https://embed.acast.com/af40ee8f-c60c-581f-b9b4-1d2f53f47b3d/60523dd24a772e26066630fc&#34; scrolling=&#34;no&#34; frameBorder=&#34;0&#34; style=&#34;border:none;overflow:hidden;&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Retrouvez l&amp;rsquo;article publié sur le site de notre laboratoire : &lt;a href=&#34;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&#34;&gt;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Et tous les autres Podcast Allodocs : &lt;a href=&#34;https://play.acast.com/s/hauteurs&#34;&gt;https://play.acast.com/s/hauteurs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Merci à Hauteurs UGA !&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

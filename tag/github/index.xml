@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/github/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/github/index.xml" rel="self" type="application/rss+xml" />
+    <description>Github</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 11:38:58 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Github</title>
+      <link>https://mickaellalande.github.io/tag/github/</link>
+    </image>
+    
+    <item>
+      <title>How to Create an Academic GitHub Page With Hugo?</title>
+      <link>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</link>
+      <pubDate>Tue, 19 May 2020 11:38:58 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</guid>
+      <description>&lt;p&gt;I guess you are wondering how to make an academic website on your GitHub with the address &lt;em&gt;.github.io&lt;/em&gt;. There are, of course, the solutions proposed directly by 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub page&lt;/a&gt;, however, it looks a bit &lt;em&gt;&amp;ldquo;old school&amp;rdquo;&lt;/em&gt; in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    You need to be a bit familiar with the basics of GitHub, but you don&amp;rsquo;t need any knowledge of html/css.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;1-make-a-github-page&#34;&gt;1. Make a GitHub page&lt;/h2&gt;
+&lt;p&gt;You can directly follow the instructions on their page: &lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2MsN8gpT6jY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;The important is to create the repository &lt;code&gt;your-name.github.io&lt;/code&gt;, then we will update the content of this repository automatically with the 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Theme&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;2-install-academic-theme-and-hugo&#34;&gt;2. Install Academic Theme and Hugo&lt;/h2&gt;
+&lt;p&gt;Again you&amp;rsquo;ll find the steps on their website: &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34;&gt;https://sourcethemes.com/academic/docs/install/#install-with-git&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&amp;rsquo;t find a way to link it to the GitHub page later, so I recommend to follow the Git installation from the link above.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h3&gt;
+&lt;p&gt;I had some trouble with installing 
+&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo with Homebrew on Linux&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt; If you do have the same problem, I advise you to try to install it with the 
+&lt;a href=&#34;https://gohugo.io/getting-started/installing/#snap-package&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;snap version&lt;/strong&gt;&lt;/a&gt; (don&amp;rsquo;t install it with &lt;strong&gt;apt-get&lt;/strong&gt; because the version is not updated: see this 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues/703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue&lt;/a&gt;). All this 
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme&lt;/a&gt; is based on the 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Framework&lt;/a&gt; so it is necessary to install it.&lt;/p&gt;
+&lt;h3 id=&#34;forkhttpsgithubcomsourcethemesacademic-kickstartfork-destination-box-the-academic-kickstart-repository&#34;&gt;
+&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository&lt;/h3&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+
+
+  &lt;img data-src=&#34;https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;999&#34; height=&#34;194&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;It will automatically create a new repository &lt;code&gt;academic-kickstart&lt;/code&gt; in your GitHub account. This repository will allow you to manage your website, and then to publish it into the previously create repository &lt;code&gt;your-name.github.io&lt;/code&gt;. Finally, you just need to clone and initialize the theme on your computer:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/your-name/academic-kickstart.git
+cd academic-kickstart
+git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;3-deploy-your-website-on-your-github-page&#34;&gt;3. Deploy your website on your GitHub page&lt;/h2&gt;
+&lt;p&gt;We need now to add &lt;code&gt;your-name.github.io&lt;/code&gt; repository as a submodule inside the &lt;strong&gt;public&lt;/strong&gt; folder of the &lt;code&gt;academic-kickstart&lt;/code&gt; repository as explained in this 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/deployment/#github-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule add -f -b master https://github.com/your-name/your-name.github.io.git public
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then you need to generate the website with the &lt;code&gt;hugo&lt;/code&gt; command. First, you can commit and push your changes from the &lt;code&gt;academic-kickstart&lt;/code&gt; repository on GitHub and then do the same for the &lt;code&gt;your-name.github.io&lt;/code&gt; submodule and your website will be available online!&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git add .
+git commit -m &amp;quot;Initial commit&amp;quot;
+git push -u origin master
+
+hugo # Generate the website inside the public directory
+cd public
+git add .
+git commit -m &amp;quot;Build website&amp;quot;
+git push origin master
+cd ..
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You can easily make this automatic with a bash script for the future, for example: 
+&lt;a href=&#34;https://github.com/mickaellalande/academic-kickstart/blob/master/update.sh&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;update.sh&lt;/a&gt;, and then you only have to write: &lt;code&gt;sh update.sh your_commit_message&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;4-update-your-content-and-customize-your-page&#34;&gt;4. Update your content and customize your page&lt;/h2&gt;
+&lt;p&gt;You can then follow the documentation &lt;em&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Getting Started With the Page Builder&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Customization&lt;/a&gt;&lt;/em&gt;, where you&amp;rsquo;ll find all the information! Basically before to start updating, launch the &lt;strong&gt;hugo server&lt;/strong&gt; from your local &lt;code&gt;academic-kickstart&lt;/code&gt; folder with the command:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;you will be able to have an instant preview in your browser before uploading it to GitHub. If you don&amp;rsquo;t know any editing software, I can advise you 
+&lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom&lt;/a&gt; in combination with 
+&lt;a href=&#34;https://www.typora.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;typora&lt;/a&gt; that is really convenient for directly editing the content with markdown.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Source Themes Academic 4.8.0 &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
