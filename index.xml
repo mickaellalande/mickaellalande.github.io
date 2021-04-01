@@ -5,7 +5,7 @@
     <link>https://mickaellalande.github.io/</link>
       <atom:link href="https://mickaellalande.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mickaël Lalande</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jan 2021 15:15:30 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 15:09:23 +0200</lastBuildDate>
     <image>
       <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
       <title>Mickaël Lalande</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>EGU2021 CMIP6 HMA</title>
+      <link>https://mickaellalande.github.io/talk/phd/egu/2021-cmip6-hma-paper/</link>
+      <pubDate>Thu, 01 Apr 2021 15:09:23 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/phd/egu/2021-cmip6-hma-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reunion Chantier HMA CMIP6</title>
+      <link>https://mickaellalande.github.io/talk/phd/chantier-hma/cmip6-hma-paper/</link>
+      <pubDate>Thu, 01 Apr 2021 15:06:32 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/phd/chantier-hma/cmip6-hma-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bienvenue sur la chaîne Science et Climat !</title>
-      <link>https://mickaellalande.github.io/post/bienvenue-sur-la-chaine-science-et-climat/</link>
+      <link>https://mickaellalande.github.io/post/science-et-climat/bienvenue-sur-la-chaine-science-et-climat/</link>
       <pubDate>Mon, 18 Jan 2021 15:15:30 +0100</pubDate>
-      <guid>https://mickaellalande.github.io/post/bienvenue-sur-la-chaine-science-et-climat/</guid>
+      <guid>https://mickaellalande.github.io/post/science-et-climat/bienvenue-sur-la-chaine-science-et-climat/</guid>
       <description>&lt;!-- ![](banner.png) --&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/jwt_Ei2Q9ro&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Lancement de la chaîne Science et Climat ! N’hésitez pas à vous abonner et partager pour faire connaître la chaîne avant la sortie des premières vidéos qui arriverons prochainement !&lt;/p&gt;
@@ -25,19 +41,19 @@
     </item>
     
     <item>
-      <title>Journée des Thèses</title>
-      <link>https://mickaellalande.github.io/talk/journee-des-these-ige-2020/</link>
+      <title>Journée des Thèses 2020</title>
+      <link>https://mickaellalande.github.io/talk/phd/journee-des-theses/2020/</link>
       <pubDate>Tue, 08 Dec 2020 15:00:00 +0100</pubDate>
-      <guid>https://mickaellalande.github.io/talk/journee-des-these-ige-2020/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/journee-des-theses/2020/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTQRjIiXlFPr8OopMkcyXm2-tw_4jRrDNIXCbgY-nRoUmZWJxfHTk2pkJDlewP2QM2eBIsJkZkRN6Ym/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Comite de Thèse - 1ère année</title>
-      <link>https://mickaellalande.github.io/talk/comite-de-these-1ere-annee/</link>
+      <link>https://mickaellalande.github.io/talk/phd/comite-de-these/1/</link>
       <pubDate>Thu, 10 Sep 2020 09:00:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/comite-de-these-1ere-annee/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/comite-de-these/1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;comite_de_these_1ere_annee_LALANDE_v2.pdf&#34;&gt;Résumé et prospectives&lt;/a&gt;&lt;/li&gt;
@@ -51,9 +67,9 @@
     
     <item>
       <title>Reunion Utilisateurs LMDZ</title>
-      <link>https://mickaellalande.github.io/talk/reunion-utilisateurs-lmdz/</link>
+      <link>https://mickaellalande.github.io/talk/phd/lmdz/reunion-utilisateurs-lmdz/</link>
       <pubDate>Fri, 05 Jun 2020 09:30:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/reunion-utilisateurs-lmdz/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/lmdz/reunion-utilisateurs-lmdz/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRHdY_eBNj2N4LVoaeEm87s_OBZ4gG7Y0ejHYTNQWgJQevWNfjYJaV354gs_hh9ueYR0Xt2aKhbNh7c/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
@@ -82,9 +98,9 @@
     
     <item>
       <title>How to Create an Academic GitHub Page With Hugo?</title>
-      <link>https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/</link>
+      <link>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</link>
       <pubDate>Tue, 19 May 2020 11:38:58 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/</guid>
+      <guid>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</guid>
       <description>&lt;p&gt;I guess you are wondering how to make an academic website on your GitHub with the address &lt;em&gt;.github.io&lt;/em&gt;. There are, of course, the solutions proposed directly by 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub page&lt;/a&gt;, however, it looks a bit &lt;em&gt;&amp;ldquo;old school&amp;rdquo;&lt;/em&gt; in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the 
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for 
@@ -136,10 +152,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;999&#34; height=&#34;194&#34;&gt;
+  &lt;img data-src=&#34;https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;999&#34; height=&#34;194&#34;&gt;
 &lt;/a&gt;
 
 
@@ -195,27 +211,27 @@ cd ..
     
     <item>
       <title>LMDZ for Regional Climate Studies</title>
-      <link>https://mickaellalande.github.io/talk/lmdz-pour-letude-du-climat-regional/</link>
+      <link>https://mickaellalande.github.io/talk/phd/lmdz/lmdz-pour-letude-du-climat-regional/</link>
       <pubDate>Fri, 15 May 2020 09:30:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/lmdz-pour-letude-du-climat-regional/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/lmdz/lmdz-pour-letude-du-climat-regional/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSIUjTMgnZdx-uGTJNGVGiiabu8b2AejUWLn_Ub05O3f0RDPWLp30S4yi5_6Q1Mqaq3y0aPXDAm8D3a/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>PEDALONS: Zoom and Regional Climates</title>
-      <link>https://mickaellalande.github.io/talk/zoom-and-regional-climates/</link>
+      <link>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113-zoom/</link>
       <pubDate>Mon, 13 Jan 2020 09:30:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/zoom-and-regional-climates/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113-zoom/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRfgdC4X65oRhwZvxGy_E5SRP4g5giU3mUo3z2Wjy-v5PaRm9dU076N9kzCRhLp0yOSe6WrxjhPV_4m/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
-      <title>Thesis Day</title>
-      <link>https://mickaellalande.github.io/talk/thesis-day/</link>
+      <title>Journée des Thèses 2019</title>
+      <link>https://mickaellalande.github.io/talk/phd/journee-des-theses/2019/</link>
       <pubDate>Wed, 20 Nov 2019 09:00:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/thesis-day/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/journee-des-theses/2019/</guid>
       <description>&lt;p&gt;Quick presentation of my PhD&lt;/p&gt;
 </description>
     </item>

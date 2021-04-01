@@ -14,9 +14,9 @@
     
     <item>
       <title>Bienvenue sur la chaîne Science et Climat !</title>
-      <link>https://mickaellalande.github.io/post/bienvenue-sur-la-chaine-science-et-climat/</link>
+      <link>https://mickaellalande.github.io/post/science-et-climat/bienvenue-sur-la-chaine-science-et-climat/</link>
       <pubDate>Mon, 18 Jan 2021 15:15:30 +0100</pubDate>
-      <guid>https://mickaellalande.github.io/post/bienvenue-sur-la-chaine-science-et-climat/</guid>
+      <guid>https://mickaellalande.github.io/post/science-et-climat/bienvenue-sur-la-chaine-science-et-climat/</guid>
       <description>&lt;!-- ![](banner.png) --&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/jwt_Ei2Q9ro&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;Lancement de la chaîne Science et Climat ! N’hésitez pas à vous abonner et partager pour faire connaître la chaîne avant la sortie des premières vidéos qui arriverons prochainement !&lt;/p&gt;
@@ -25,19 +25,19 @@
     </item>
     
     <item>
-      <title>Journée des Thèses</title>
-      <link>https://mickaellalande.github.io/talk/journee-des-these-ige-2020/</link>
+      <title>Journée des Thèses 2020</title>
+      <link>https://mickaellalande.github.io/talk/phd/journee-des-theses/2020/</link>
       <pubDate>Tue, 08 Dec 2020 15:00:00 +0100</pubDate>
-      <guid>https://mickaellalande.github.io/talk/journee-des-these-ige-2020/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/journee-des-theses/2020/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTQRjIiXlFPr8OopMkcyXm2-tw_4jRrDNIXCbgY-nRoUmZWJxfHTk2pkJDlewP2QM2eBIsJkZkRN6Ym/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Comite de Thèse - 1ère année</title>
-      <link>https://mickaellalande.github.io/talk/comite-de-these-1ere-annee/</link>
+      <link>https://mickaellalande.github.io/talk/phd/comite-de-these/1/</link>
       <pubDate>Thu, 10 Sep 2020 09:00:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/comite-de-these-1ere-annee/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/comite-de-these/1/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;a href=&#34;comite_de_these_1ere_annee_LALANDE_v2.pdf&#34;&gt;Résumé et prospectives&lt;/a&gt;&lt;/li&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>How to Create an Academic GitHub Page With Hugo?</title>
-      <link>https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/</link>
+      <link>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</link>
       <pubDate>Tue, 19 May 2020 11:38:58 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/</guid>
+      <guid>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</guid>
       <description>&lt;p&gt;I guess you are wondering how to make an academic website on your GitHub with the address &lt;em&gt;.github.io&lt;/em&gt;. There are, of course, the solutions proposed directly by 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub page&lt;/a&gt;, however, it looks a bit &lt;em&gt;&amp;ldquo;old school&amp;rdquo;&lt;/em&gt; in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the 
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for 
@@ -105,10 +105,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
 
 
-  &lt;img data-src=&#34;https://mickaellalande.github.io/post/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;999&#34; height=&#34;194&#34;&gt;
+  &lt;img data-src=&#34;https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/academic_hu4fbe3c82e62070f8600fb88ce793a387_133764_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;999&#34; height=&#34;194&#34;&gt;
 &lt;/a&gt;
 
 
