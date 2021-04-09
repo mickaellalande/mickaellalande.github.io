@@ -5,12 +5,21 @@
     <link>https://mickaellalande.github.io/tag/lmdz/</link>
       <atom:link href="https://mickaellalande.github.io/tag/lmdz/index.xml" rel="self" type="application/rss+xml" />
     <description>LMDZ</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 15:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Apr 2021 09:30:00 +0200</lastBuildDate>
     <image>
       <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
       <title>LMDZ</title>
       <link>https://mickaellalande.github.io/tag/lmdz/</link>
     </image>
+    
+    <item>
+      <title>PEDALONS: neige</title>
+      <link>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20210412_neige/</link>
+      <pubDate>Mon, 12 Apr 2021 09:30:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20210412_neige/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQbMQRfz0qD8uxLPvOA2Y9VTxuOHtDY1GiDRWwsr5lsEYREQ6HvjD0euhtrRTa_UoRb0F1JnhizCWdR/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Journée des Thèses 2020</title>
@@ -79,9 +88,9 @@
     
     <item>
       <title>PEDALONS: Zoom and Regional Climates</title>
-      <link>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113-zoom/</link>
+      <link>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113_zoom/</link>
       <pubDate>Mon, 13 Jan 2020 09:30:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113-zoom/</guid>
+      <guid>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113_zoom/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRfgdC4X65oRhwZvxGy_E5SRP4g5giU3mUo3z2Wjy-v5PaRm9dU076N9kzCRhLp0yOSe6WrxjhPV_4m/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
