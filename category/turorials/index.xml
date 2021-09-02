@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turorials | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/category/turorials/</link>
+      <atom:link href="https://mickaellalande.github.io/category/turorials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Turorials</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Sep 2021 14:05:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Turorials</title>
+      <link>https://mickaellalande.github.io/category/turorials/</link>
+    </image>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://mickaellalande.github.io/project/tutorials/</link>
+      <pubDate>Thu, 02 Sep 2021 14:05:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/project/tutorials/</guid>
+      <description>&lt;p&gt;Some tutorials about random stuff.&lt;/p&gt;
+&lt;p&gt;The MC-Toolkit GitHub page might also be usefull: &lt;a href=&#34;https://github.com/mickaellalande/MC-Toolkit&#34;&gt;https://github.com/mickaellalande/MC-Toolkit&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
