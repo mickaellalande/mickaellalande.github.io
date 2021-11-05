@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/category/work/</link>
+      <atom:link href="https://mickaellalande.github.io/category/work/index.xml" rel="self" type="application/rss+xml" />
+    <description>Work</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 10:45:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Work</title>
+      <link>https://mickaellalande.github.io/category/work/</link>
+    </image>
+    
+    <item>
+      <title>Validation of HMASR with snow depth stations</title>
+      <link>https://mickaellalande.github.io/post/phd/hmasr/</link>
+      <pubDate>Fri, 05 Nov 2021 10:45:00 +0100</pubDate>
+      <guid>https://mickaellalande.github.io/post/phd/hmasr/</guid>
+      <description>&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;HMASR: 
+&lt;a href=&#34;https://nsidc.org/data/HMA_SR_D&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;High Mountain Asia UCLA Daily Snow Reanalysis, Version 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;snow depth stations: 
+&lt;a href=&#34;https://data.tpdc.ac.cn/en/data/72d6dadf-8e1c-458b-b24e-91539042dfe6/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observational snow depth dataset of the Tibetan Plateau (Version 1.0) (1961-2013)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;map-hmasr--stations&#34;&gt;Map HMASR / stations&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Click on&lt;/strong&gt; the map bellow to access the interactive page ⤵️&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;HMASR_validation_with_TPDC_SD_stations.html&#34;&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All scripts and data can be found here: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
