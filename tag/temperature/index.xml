@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temperature | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/temperature/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/temperature/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temperature</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Temperature</title>
+      <link>https://mickaellalande.github.io/tag/temperature/</link>
+    </image>
+    
+    <item>
+      <title>Climate change in the High Mountain Asia in CMIP6</title>
+      <link>https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0100</pubDate>
+      <guid>https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/</guid>
+      <description>&lt;p&gt;A big thank you to my laboratory (
+&lt;a href=&#34;https://www.ige-grenoble.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut des Géosciences de l&amp;rsquo;Environnement&lt;/a&gt;) for the publication of news about this article:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;French version: 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Réchauffement exacerbé dans les Hautes Montagnes d’Asie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;English version: 
+&lt;a href=&#34;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exacerbated warming in the High Mountain Asia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;EN_twitter_source.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
