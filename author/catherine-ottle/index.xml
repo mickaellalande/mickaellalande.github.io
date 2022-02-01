@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catherine Ottlé | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/author/catherine-ottle/</link>
+      <atom:link href="https://mickaellalande.github.io/author/catherine-ottle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Catherine Ottlé</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 09:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Catherine Ottlé</title>
+      <link>https://mickaellalande.github.io/author/catherine-ottle/</link>
+    </image>
+    
+    <item>
+      <title>SnowHydro2022: Adaptation of a snow cover scheme for complex topography areas: regional calibration over High Mountain Asia and application in global models</title>
+      <link>https://mickaellalande.github.io/talk/phd/snowhydro/2022-scf-param/</link>
+      <pubDate>Wed, 02 Feb 2022 09:00:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/phd/snowhydro/2022-scf-param/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vT2UJg050QeNun44bNnQVZnv0gLPSgXocMn27U2Tin10oSAJFsveeZhWZ7cFMbkrK-kdJdMJdHeDaCU/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

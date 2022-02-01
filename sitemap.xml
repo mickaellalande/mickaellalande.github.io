@@ -3,12 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mickaellalande.github.io/category/article/</loc>
-    <lastmod>2021-12-02T15:16:39+01:00</lastmod>
+    <loc>https://mickaellalande.github.io/authors/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mickaellalande.github.io/authors/</loc>
+    <loc>https://mickaellalande.github.io/author/catherine-ottle/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/author/gerhard-krinner/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/hma/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/author/martin-menegoz/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/snow-cover/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/snow-cover-parameterization/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tag/snowhydro/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/talk/phd/snowhydro/2022-scf-param/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/tags/</loc>
+    <lastmod>2022-02-01T14:32:53+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mickaellalande.github.io/category/article/</loc>
     <lastmod>2021-12-02T15:16:39+01:00</lastmod>
   </url>
   
@@ -33,23 +83,8 @@
   </url>
   
   <url>
-    <loc>https://mickaellalande.github.io/tag/hma/</loc>
-    <lastmod>2021-12-02T15:16:39+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mickaellalande.github.io/</loc>
-    <lastmod>2021-12-02T15:16:39+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mickaellalande.github.io/post/phd/rechauffement-exacerbe-dans-les-hautes-montagnes-dasie/</loc>
     <lastmod>2021-11-28T14:43:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mickaellalande.github.io/tags/</loc>
-    <lastmod>2021-12-02T15:16:39+01:00</lastmod>
   </url>
   
   <url>
@@ -128,17 +163,7 @@
   </url>
   
   <url>
-    <loc>https://mickaellalande.github.io/author/gerhard-krinner/</loc>
-    <lastmod>2021-11-28T14:43:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mickaellalande.github.io/author/kathrin-naegeli/</loc>
-    <lastmod>2021-11-28T14:43:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mickaellalande.github.io/author/martin-menegoz/</loc>
     <lastmod>2021-11-28T14:43:00+01:00</lastmod>
   </url>
   
@@ -154,11 +179,6 @@
   
   <url>
     <loc>https://mickaellalande.github.io/publication_types/</loc>
-    <lastmod>2021-11-28T14:43:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mickaellalande.github.io/tag/snow-cover/</loc>
     <lastmod>2021-11-28T14:43:00+01:00</lastmod>
   </url>
   
@@ -319,11 +339,6 @@
   
   <url>
     <loc>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20210412_neige/</loc>
-    <lastmod>2021-04-09T16:29:12+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mickaellalande.github.io/tag/snow-cover-parameterization/</loc>
     <lastmod>2021-04-09T16:29:12+02:00</lastmod>
   </url>
   
