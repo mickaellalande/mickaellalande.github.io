@@ -277,14 +277,14 @@
   
   <meta property="og:site_name" content="Mickaël Lalande">
   <meta property="og:url" content="https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/">
-  <meta property="og:title" content="How to Create an Academic GitHub Page With Hugo? | Mickaël Lalande">
+  <meta property="og:title" content="How to Create an Academic/Wowchemy GitHub Page With Hugo? | Mickaël Lalande">
   <meta property="og:description" content=" "><meta property="og:image" content="https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/featured.jpg">
   <meta property="twitter:image" content="https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/featured.jpg"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-05-19T11:38:58&#43;02:00">
     
-    <meta property="article:modified_time" content="2021-09-02T14:23:50&#43;02:00">
+    <meta property="article:modified_time" content="2022-12-01T10:26:17&#43;01:00">
   
 
   
@@ -310,14 +310,14 @@
     "@type": "WebPage",
     "@id": "https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/"
   },
-  "headline": "How to Create an Academic GitHub Page With Hugo?",
+  "headline": "How to Create an Academic/Wowchemy GitHub Page With Hugo?",
   
   "image": [
     "https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/featured.jpg"
   ],
   
   "datePublished": "2020-05-19T11:38:58+02:00",
-  "dateModified": "2021-09-02T14:23:50+02:00",
+  "dateModified": "2022-12-01T10:26:17+01:00",
   
   "author": {
     "@type": "Person",
@@ -350,7 +350,7 @@
 
 
 
-  <title>How to Create an Academic GitHub Page With Hugo? | Mickaël Lalande</title>
+  <title>How to Create an Academic/Wowchemy GitHub Page With Hugo? | Mickaël Lalande</title>
 
 </head>
 
@@ -725,7 +725,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>How to Create an Academic GitHub Page With Hugo?</h1>
+  <h1>How to Create an Academic/Wowchemy GitHub Page With Hugo?</h1>
 
   
 
@@ -755,7 +755,7 @@
           Last updated on
       
     
-    Sep 2, 2021
+    Dec 1, 2022
   </span>
   
 
@@ -764,7 +764,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    3 min read
+    4 min read
   </span>
   
 
@@ -853,9 +853,14 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>I guess you are wondering how to make an academic website on your GitHub with the address <em>.github.io</em>. There are, of course, the solutions proposed directly by 
-<a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub page</a>, however, it looks a bit <em>&ldquo;old school&rdquo;</em> in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. Personally, I finally came across the 
-<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> for 
+      <div class="alert alert-warning">
+  <div>
+    Be aware that Academic theme seems to have become Wowchemy, hence this tutorial might be outdated. Nevertheless, it can be used as a basis, but please refer to the Wowchemy documentation first. I updated all the links below to refer to their new websites.
+  </div>
+</div>
+<p>I guess you are wondering how to make an academic website on your GitHub with the address <em>.github.io</em>. There are, of course, the solutions proposed directly by 
+<a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub page</a>, however, it looks a bit <em>&ldquo;old school&rdquo;</em> in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. I finally came across 
+<a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a><sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> for 
 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> that suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.</p>
 <div class="alert alert-note">
   <div>
@@ -865,24 +870,28 @@
 <h2 id="1-make-a-github-page">1. Make a GitHub page</h2>
 <p>You can directly follow the instructions on their page: <a href="https://pages.github.com/">https://pages.github.com/</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>The important is to create the repository <code>your-name.github.io</code>, then we will update the content of this repository automatically with the 
-<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Theme</a>.</p>
+<p>The important is to create the repository <code>your-name.github.io</code>, then we will update the content of this repository automatically with a 
+<a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy</a> Academic template.</p>
 <h2 id="2-install-academic-theme-and-hugo">2. Install Academic Theme and Hugo</h2>
-<p>Again you&rsquo;ll find the steps on their website: <a href="https://sourcethemes.com/academic/docs/install/#install-with-git">https://sourcethemes.com/academic/docs/install/#install-with-git</a></p>
+<p>Again you&rsquo;ll find the steps on their website: <a href="https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages">https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages</a></p>
 <div class="alert alert-note">
   <div>
-    There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&rsquo;t find a way to link it to the GitHub page later, so I recommend to follow the Git installation from the link above.
+    There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&rsquo;t find a way to link it to the GitHub page later, so I recommend following the Git installation from the link above.
   </div>
 </div>
 <h3 id="install-hugo">Install Hugo</h3>
 <p>I had some trouble with installing 
 <a href="https://gohugo.io/getting-started/installing/#quick-install" target="_blank" rel="noopener"><strong>Hugo with Homebrew on Linux</strong></a><strong>.</strong> If you do have the same problem, I advise you to try to install it with the 
 <a href="https://gohugo.io/getting-started/installing/#snap-package" target="_blank" rel="noopener"><strong>snap version</strong></a> (don&rsquo;t install it with <strong>apt-get</strong> because the version is not updated: see this 
-<a href="https://github.com/gcushen/hugo-academic/issues/703" target="_blank" rel="noopener">issue</a>). All this 
-<a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> is based on the 
+<a href="https://github.com/gcushen/hugo-academic/issues/703" target="_blank" rel="noopener">issue</a>). All this Academic theme is based on the 
 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo Framework</a> so it is necessary to install it.</p>
-<h3 id="forkhttpsgithubcomsourcethemesacademic-kickstartfork-destination-box-the-academic-kickstart-repository">
-<a href="https://github.com/sourcethemes/academic-kickstart#fork-destination-box" target="_blank" rel="noopener">Fork</a> the <em>Academic Kickstart</em> repository</h3>
+<h3 id="forkhttpsgithubcomwowchemystarter-hugo-academicfork-destination-box-the-academic-kickstart-repository">
+<a href="https://github.com/wowchemy/starter-hugo-academic#fork-destination-box" target="_blank" rel="noopener">Fork</a> the <em>Academic Kickstart</em> repository</h3>
+<div class="alert alert-warning">
+  <div>
+    The new repository name is: <code>wowchemy/starter-hugo-academic</code>, so replace <code>academic-kickstart</code> by <code>starter-hugo-academic</code> in the following paragraph.
+  </div>
+</div>
 
 
 
@@ -921,7 +930,12 @@ git submodule update --init --recursive
 </code></pre>
 <h2 id="3-deploy-your-website-on-your-github-page">3. Deploy your website on your GitHub page</h2>
 <p>We need now to add <code>your-name.github.io</code> repository as a submodule inside the <strong>public</strong> folder of the <code>academic-kickstart</code> repository as explained in this 
-<a href="https://sourcethemes.com/academic/docs/deployment/#github-pages" target="_blank" rel="noopener">documentation</a>.</p>
+<a href="https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages" target="_blank" rel="noopener">documentation</a>.</p>
+<div class="alert alert-warning">
+  <div>
+    The method bellow seems outdated, so follow the link above.
+  </div>
+</div>
 <pre><code class="language-bash">git submodule add -f -b master https://github.com/your-name/your-name.github.io.git public
 </code></pre>
 <p>Then you need to generate the website with the <code>hugo</code> command. First, you can commit and push your changes from the <code>academic-kickstart</code> repository on GitHub and then do the same for the <code>your-name.github.io</code> submodule and your website will be available online!</p>
@@ -940,13 +954,13 @@ cd ..
 <a href="https://github.com/mickaellalande/academic-kickstart/blob/master/update.sh" target="_blank" rel="noopener">update.sh</a>, and then you only have to write: <code>sh update.sh your_commit_message</code>.</p>
 <h2 id="4-update-your-content-and-customize-your-page">4. Update your content and customize your page</h2>
 <p>You can then follow the documentation <em>
-<a href="https://sourcethemes.com/academic/docs/page-builder/" target="_blank" rel="noopener">Getting Started With the Page Builder</a></em> and <em>
-<a href="https://sourcethemes.com/academic/docs/customization/" target="_blank" rel="noopener">Customization</a></em>, where you&rsquo;ll find all the information! Basically before to start updating, launch the <strong>hugo server</strong> from your local <code>academic-kickstart</code> folder with the command:</p>
+<a href="https://wowchemy.com/docs/getting-started/page-builder/" target="_blank" rel="noopener">Getting Started With the Page Builder</a></em> and <em>
+<a href="https://wowchemy.com/docs/getting-started/customization/" target="_blank" rel="noopener">Customization</a></em>, where you&rsquo;ll find all the information! Before to start updating, launch the <strong>hugo server</strong> from your local <code>academic-kickstart</code> folder with the command:</p>
 <pre><code class="language-bash">hugo server
 </code></pre>
 <p>you will be able to have an instant preview in your browser before uploading it to GitHub. If you don&rsquo;t know any editing software, I can advise you 
 <a href="https://atom.io/" target="_blank" rel="noopener">Atom</a> in combination with 
-<a href="https://www.typora.io/" target="_blank" rel="noopener">typora</a> that is really convenient for directly editing the content with markdown.</p>
+<a href="https://www.typora.io/" target="_blank" rel="noopener">typora</a> which is convenient for directly editing the content with markdown.</p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -988,7 +1002,7 @@ cd ..
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;text=How%20to%20Create%20an%20Academic%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;text=How%20to%20Create%20an%20Academic/Wowchemy%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1001,7 +1015,7 @@ cd ..
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;t=How%20to%20Create%20an%20Academic%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;t=How%20to%20Create%20an%20Academic/Wowchemy%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1014,7 +1028,7 @@ cd ..
       
       
       <li>
-        <a href="mailto:?subject=How%20to%20Create%20an%20Academic%20GitHub%20Page%20With%20Hugo?&amp;body=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=How%20to%20Create%20an%20Academic/Wowchemy%20GitHub%20Page%20With%20Hugo?&amp;body=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1027,7 +1041,7 @@ cd ..
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;title=How%20to%20Create%20an%20Academic%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;title=How%20to%20Create%20an%20Academic/Wowchemy%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1040,7 +1054,7 @@ cd ..
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=How%20to%20Create%20an%20Academic%20GitHub%20Page%20With%20Hugo?%20https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=How%20to%20Create%20an%20Academic/Wowchemy%20GitHub%20Page%20With%20Hugo?%20https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1053,7 +1067,7 @@ cd ..
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;title=How%20to%20Create%20an%20Academic%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/&amp;title=How%20to%20Create%20an%20Academic/Wowchemy%20GitHub%20Page%20With%20Hugo?" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
