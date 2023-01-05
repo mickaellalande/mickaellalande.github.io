@@ -50,7 +50,7 @@
     </item>
     
     <item>
-      <title>IGS 2022: Adaptation of a snow cover scheme for complex topography areas</title>
+      <title>IGS2022: Adaptation of a snow cover scheme for complex topography areas</title>
       <link>https://mickaellalande.github.io/talk/phd/igs/2022-scf-param/</link>
       <pubDate>Tue, 27 Sep 2022 09:45:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/talk/phd/igs/2022-scf-param/</guid>
@@ -59,7 +59,7 @@
     </item>
     
     <item>
-      <title>IMC 2022: Adaptation of a snow cover scheme for complex topography areas</title>
+      <title>IMC2022: Adaptation of a snow cover scheme for complex topography areas</title>
       <link>https://mickaellalande.github.io/talk/phd/imc/2022-scf-param/</link>
       <pubDate>Tue, 13 Sep 2022 14:20:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/talk/phd/imc/2022-scf-param/</guid>
@@ -682,20 +682,18 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
       <link>https://mickaellalande.github.io/project/phd/</link>
       <pubDate>Tue, 19 May 2020 17:08:20 +0200</pubDate>
       <guid>https://mickaellalande.github.io/project/phd/</guid>
-      <description>&lt;h2 id=&#34;modeling-climate-trends-and-variability-in-the-himalaya-to-understand-cryosphere-changes&#34;&gt;Modeling climate trends and variability in the Himalaya to understand cryosphere changes&lt;/h2&gt;
-&lt;p&gt;There is now evidence that the Earth climate changes at an unusual pace because of greenhouse gases and anthropogenic aerosol emissions. However, the regional imprint of climate change is still poorly understood, in particular, because it is mixed with large internal variability. Such uncertainty is even more pronounced in mountainous areas because: (i) meteorological in situ observations are scarce and (ii) the coarse resolution of global climate models is not adapted to reproduce the surface-atmosphere interactions and local circulation patterns over areas of complex topography. For these reasons, climate change is poorly known, and future scenarios are particularly uncertain in the Himalayan region, whereas they can be associated with major socio-environmental impacts, in particular in terms of water resources and natural hazards. This 
-&lt;a href=&#34;https://www.theses.fr/s226411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ph.D.&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; project aims to investigate trends and variability of the Himalayan climate with the 
-&lt;a href=&#34;https://lmdz.lmd.jussieu.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LMDZ&lt;/a&gt; global model with a stretched grid centered over this area. First, a 1900-2010 experiment will be run with a configuration nudged toward the ERA-20C atmospheric reanalysis. Long-term simulations will be used to investigate climate trends over the last century and decadal to multi-decadal changes of atmospheric conditions that could explain temporary positive trends of glacier mass balance in this area. Second, a subgrid-scale parameterization of the surface energy balance will be implemented in the model, with the aim to improve the representation of the climate and the snow cover in mountainous areas. Third, LMDZ will be used in configurations nudged toward future scenarios and experiments dedicated to the differentiation of aerosol and GHG forcings. This Ph.D. project will allow a better understanding of the climate and the cryosphere changes in the Himalaya, with the final goal to provide different climate scenarios for the next century in this mountainous area.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+      <description>&lt;h2 id=&#34;modeling-climate-trends-and-variability-in-high-mountain-asia-to-understand-cryosphere-changes&#34;&gt;Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes&lt;/h2&gt;
+&lt;p&gt;The High Mountain Asia (HMA) is hosting the largest ice stock after the polar regions. This resource provides a freshwater supply to nearly 1.4 billion people, making it a particularly vulnerable region to climate change. HMA includes the highest mountain ranges on Earth, including the Himalayas, Karakoram, and Hindu Kush, which surround the Tibetan Plateau (TP), an area of nearly 2.5 million km² with an average elevation of about 4000 m.&lt;/p&gt;
+&lt;p&gt;Studying climate change in HMA is challenging because of its complex topography which makes difficult the application of climate models in this area, and limits the possibility to collect observations. The aim of this thesis is to study the variability and trends of the climate in HMA. It is based on two main objectives: (1) studying and quantifying the climate change in HMA with general circulation models (GCMs) experiments and observation datasets, and (2) improving the simulated snow cover in mountainous regions in GCMs.&lt;/p&gt;
+&lt;p&gt;Current GCMs simulate a cold bias in HMA reaching an annual average value of -1.9 °C, associated with an overestimation of snow cover of 12 % and an excess of precipitation of 1.5 mm d$^{-1}$ (relative biases of 52 % and 143 % as compared to observations). Model biases and their ability to simulate trends do not show a clear link, suggesting that model bias is not a robust criterion to discard models in trend analysis.&lt;/p&gt;
+&lt;p&gt;The simulated median warming in HMA over 2081-2100 as compared to 1995-2014 reaches respectively 1.9 and 6.5 °C on the low (SSP1-2.6) and the high (SSP5-8.5) greenhouse gas emission scenarios. This warming is associated with a relative decrease in the snow cover extent of -9.4 to -32.2 % and a relative increase in precipitation of 8.5 to 24.9 % in these two respective scenarios. The warming is 11 % higher over HMA than over the other Northern Hemisphere continental surfaces, excluding the Arctic area.&lt;/p&gt;
+&lt;p&gt;5 parameterizations of the snow cover fraction (SCF) are tested, calibrated, and validated using a snow reanalysis in HMA. The relationship between SCF and snow depth (SD) differs strongly between flat and mountainous areas, leading to an overestimation of SCF in parameterizations that do not take into account the sub-grid topography. The SCF changes with respect to SD follow a hysteresis, with a rapid increase in SCF during the accumulation phase and a slower patchy retreat during ablation periods, discarding parameterizations that do not consider this effect.&lt;/p&gt;
+&lt;p&gt;The use of a new SCF parameterization adapted to mountain areas in LMDZ/ORCHIDEE reduces the simulated SCF bias over mountainous regions by 5 to 10 % in winter, reducing the mean annual cold bias in HMA from -1.8 °C to around -1 °C. However, this added value is sometimes masked by other model biases. Additional datasets covering other regions should be considered to allow an optimal tuning of the SCF parameterizations.&lt;/p&gt;
+&lt;p&gt;The lack of snowpack observations in mountainous regions is currently a major limitation to set up realistic SCF parameterizations. Improving SCF parameterizations is one of the important developments that need to be considered when developing the sub-grid parameterizations, which are required to improve the GCMs over mountainous areas.&lt;/p&gt;
 &lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;supervised by 
-&lt;a href=&#34;http://martinmenegoz.neowordpress.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Ménégoz&lt;/a&gt; and 
-&lt;a href=&#34;http://www.ige-grenoble.fr/-gerhard-krinner-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gerhard Krinner&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: High Mountain Asia, Mountain Areas, General Circulation Models, CMIP6, Snow Cover, Parameterizations&lt;/p&gt;
+&lt;p&gt;Supervised by Martin Ménégoz and 
+&lt;a href=&#34;http://www.ige-grenoble.fr/-gerhard-krinner-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gerhard Krinner&lt;/a&gt;. More details at: &lt;a href=&#34;https://www.theses.fr/s226411&#34;&gt;https://www.theses.fr/s226411&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

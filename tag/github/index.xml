@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Github | Mickaël Lalande</title>
+    <title>GitHub | Mickaël Lalande</title>
     <link>https://mickaellalande.github.io/tag/github/</link>
       <atom:link href="https://mickaellalande.github.io/tag/github/index.xml" rel="self" type="application/rss+xml" />
-    <description>Github</description>
+    <description>GitHub</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 11:38:58 +0200</lastBuildDate>
     <image>
       <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
-      <title>Github</title>
+      <title>GitHub</title>
       <link>https://mickaellalande.github.io/tag/github/</link>
     </image>
     

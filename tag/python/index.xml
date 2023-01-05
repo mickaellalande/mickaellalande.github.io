@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/python/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <description>Python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 10:00:36 +0200</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <title>Python</title>
+      <link>https://mickaellalande.github.io/tag/python/</link>
+    </image>
+    
+    <item>
+      <title>How to Install Jupyter Notebook on a Server?</title>
+      <link>https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/</link>
+      <pubDate>Thu, 22 Apr 2021 10:00:36 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/</guid>
+      <description>&lt;p&gt;First of all, I recommend you to look at what your server proposes as a method to launch Jupyter Notebooks. If however their method does not suit your needs and you want to install your own environment, here is the method I use (it works from a Linux workstation, you have to adapt if you are under another OS). This method is not official, nor generic, if you have other tips/methods don&amp;rsquo;t hesitate to share them in the comments below.&lt;/p&gt;
+&lt;h2 id=&#34;1-connect-to-your-server&#34;&gt;1. Connect to your server&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;ssh -XY -o ServerAliveInterval=60 login@server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Think to add the options &lt;code&gt;-XY&lt;/code&gt; otherwise you won&amp;rsquo;t be able to open Jupyter Notebooks in your browser. &lt;code&gt;ServerAliveInterval=60&lt;/code&gt; is optional, but it allows you not to get disconnected if you don&amp;rsquo;t have any activity for a while (it depends on servers).&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    You can directly make an &lt;code&gt;alias&lt;/code&gt; in your &lt;code&gt;bashrc&lt;/code&gt;, so you only have to type the alias in your terminal.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;gvim ~/.bashrc
+
+# And add this line at the end or in an alias section if you already have one
+alias server=&#39;ssh -XY -o ServerAliveInterval=60 login@server&#39;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;2-install-miniconda&#34;&gt;2. Install Miniconda&lt;/h2&gt;
+&lt;p&gt;In general, there is not infinite space on the servers and therefore I advise you to install the minimalist version of Anaconda : 
+&lt;a href=&#34;https://docs.conda.io/en/latest/miniconda.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miniconda&lt;/a&gt;, in order to install only what you need.&lt;/p&gt;
+&lt;p&gt;So first of all, I download Miniconda on the server and install it:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+sh Miniconda3-latest-Linux-x86_64.sh
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;During the installation, be careful to change the installation path to avoid installing it in your &lt;code&gt;home&lt;/code&gt;, otherwise, it may saturate your space very quickly! In general, it is recommended to install it in a &lt;code&gt;data&lt;/code&gt; space or another where you have more storage space.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[/home/login/miniconda3] &amp;gt;&amp;gt;&amp;gt; /data/login/miniconda3&lt;/code&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;At the end of the installation, I recommend that you initialize &lt;code&gt;conda&lt;/code&gt; so that it automatically adds the correct path to your &lt;code&gt;bashrc&lt;/code&gt; so that you can directly have the conda command available (if you prefer to put these lines somewhere else, you can adapt them).&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;Do you wish the installer to initialize Miniconda3
+by running conda init? [yes|no]
+[no] &amp;gt;&amp;gt;&amp;gt; yes
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then update your &lt;code&gt;bashrc&lt;/code&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;source ~/.bashrc
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;You should have a &lt;code&gt;(base)&lt;/code&gt; that should appear in front of your command line.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    If you are not happy, fucked up any step or you are scared&amp;hellip; that happens&amp;hellip; Just remove the folder &lt;code&gt;miniconda3&lt;/code&gt; (&lt;code&gt;rm -r /data/login/miniconda3&lt;/code&gt; or the path you put at the installation step) and then remove the lines that were added in your &lt;code&gt;bashrc&lt;/code&gt;. Then you can start over or forget about Miniconda forever :p
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;3-add-conda-forgehttpsconda-forgeorgdocsuserintroductionhtml-and-update-your-installation-optional-but-i-recommend&#34;&gt;3. Add 
+&lt;a href=&#34;https://conda-forge.org/docs/user/introduction.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;conda-forge&lt;/a&gt; and update your installation (optional but I recommend)&lt;/h2&gt;
+&lt;p&gt;This step is completely optional, but it allows to facilitate the installation of future packages that would not be the basic channel of conda.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;conda config --add channels conda-forge  
+conda config --set channel_priority strict  
+conda update -n base -c defaults conda  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;If you want to know more, click on the link in the title.&lt;/p&gt;
+&lt;h2 id=&#34;4-create-an-environment&#34;&gt;4. Create an environment&lt;/h2&gt;
+&lt;p&gt;I do not recommend that you use your base environment. By experience, it happened to me several times to break this environment without being able to go back and to have to finally reinstall everything. The problem is that when you are not familiar with the environment you don&amp;rsquo;t necessarily make a backup and it is sometimes difficult to get back to something functional!&lt;/p&gt;
+&lt;p&gt;So here is how I work on my side, I create an environment with the name of my project and a version (for example project_v0):&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;conda create -n project_v0
+conda activate project_v0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then install all the packages you need, especially &lt;code&gt;jupyter&lt;/code&gt; (+ &lt;code&gt;jupyterlab&lt;/code&gt; if you prefer from basic notebooks, which is my case).&lt;/p&gt;
+&lt;p&gt;I also recommend you to install the 
+&lt;a href=&#34;https://github.com/Anaconda-Platform/nb_conda_kernels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nb_conda_kernels&lt;/a&gt; package in each of your environments, which will allow you to switch from one environment to another, directly from your notebooks.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;conda install nb_conda_kernels
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Here is an example of an environment I created for my Ph.D.: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/envs/phd&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/envs/phd&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;To save and manage your environment, see at the end of this tutorial.&lt;/p&gt;
+&lt;p&gt;For simplicity, I also recommend that you add the line &lt;code&gt;conda activate project_v0&lt;/code&gt; to your &lt;code&gt;bashrc&lt;/code&gt; so you don&amp;rsquo;t have to activate it every time. This should replace the &lt;code&gt;(base)&lt;/code&gt; with the name of your environment.&lt;/p&gt;
+&lt;h2 id=&#34;5-configure-jupyter&#34;&gt;5. Configure Jupyter&lt;/h2&gt;
+&lt;p&gt;The problem with launching Jupyter on a server is that you will have to make an &lt;code&gt;ssh&lt;/code&gt; bridge between your machine and the server to open Jupyter directly on your internet browser. So you have to specify to Jupyter not to open a window on the server and to open Jupyter on a specific port (if needed).&lt;/p&gt;
+&lt;p&gt;There are two ways to do this, either you specify all this in your command when you run Jupyter, or you create a configuration file:&lt;/p&gt;
+&lt;h3 id=&#34;command-line&#34;&gt;Command line&lt;/h3&gt;
+&lt;p&gt;Here is an example of a command line (where XXXX would be your port number), but don&amp;rsquo;t run it yet, it would be for later!&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter lab --port XXXX --ip 0.0.0.0 --no-browser
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;configuration-file&#34;&gt;Configuration file&lt;/h3&gt;
+&lt;p&gt;Alternatively, you can put this directly into a configuration file and just run the command &lt;code&gt;jupyter lab&lt;/code&gt; (or &lt;code&gt;jupyter notebook&lt;/code&gt;):&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# Create a configuration file and edit it
+jupyter notebook --generate-config
+gvim ~/.jupyter/jupyter_notebook_config.py
+
+# Uncomment these lines and modify them as follow
+c.NotebookApp.allow_origin = &#39;*&#39;
+c.NotebookApp.ip = &#39;0.0.0.0&#39;
+c.NotebookApp.port = XXXX
+c.NotebookApp.open_browser = False
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;More informations:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jupyter-notebook.readthedocs.io/en/stable/public_server.html&#34;&gt;https://jupyter-notebook.readthedocs.io/en/stable/public_server.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server&#34;&gt;https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;report-errors-optionnal&#34;&gt;Report errors (optionnal)&lt;/h3&gt;
+&lt;p&gt;Optionally you can also send automatically report to Anaconda in case of errors:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;conda config --set report_errors true
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;6-launch-a-job&#34;&gt;6. Launch a job&lt;/h2&gt;
+&lt;p&gt;This step depends on the server you are on, so find out how to launch an interactive job. Depending on the servers and their security level, it can be more or less complicated (even more so during teleworking if you use intermediate machines!).&lt;/p&gt;
+&lt;p&gt;Think of adapting the memory you need, because very often jobs are killed if you exceed it.&lt;/p&gt;
+&lt;h2 id=&#34;7-run-jupyter-notebook-or-jupyter-lab&#34;&gt;7. Run Jupyter Notebook or Jupyter Lab&lt;/h2&gt;
+&lt;p&gt;Once your job is launched you can now directly run &lt;code&gt;jupyter lab&lt;/code&gt; or &lt;code&gt;jupyter notebook&lt;/code&gt; if you configured Jupyter (see above) otherwise:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter lab --port XXXX --ip 0.0.0.0 --no-browser
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Then you need to make a tunnel from your own terminal (on your PC, not the server), which is usually a command as:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;ssh -L XXXX:hostname:XXXX login@server
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;with possible other flags as &lt;code&gt;-fNL&lt;/code&gt; (but I&amp;rsquo;m not familiar with that, so go and look what you need, ex: &lt;a href=&#34;https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l&#34;&gt;https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Then you can open the link directly given from Jupyter on the server, which will open on your browser.&lt;/p&gt;
+&lt;p&gt;Here is an example of a script, to get automatically the &lt;code&gt;ssh&lt;/code&gt; tunnel from one of the servers I use and run jupyter lab (you can inspire yourself from that and adapt it to your needs): &lt;a href=&#34;https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/jupyterlab.sh&#34; target=&#34;_blank&#34;&gt;jupyterlab.sh&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;8-save-your-environment&#34;&gt;8. Save your environment&lt;/h2&gt;
+&lt;p&gt;Once you have something functional and stable enough. I advise you to save your environment and not to touch it anymore (not even to update it). If you want to update it or install new packages (which would cause version changes in your other packages), in that case I advise you to clone your current environment and do some tests then if you get something stable again, call it with the same project name and increment the version number by making a new backup. This way you can always go back to an old environment and/or rebuild it identically (at least on the machine you were on).&lt;/p&gt;
+&lt;p&gt;To save your environment here are the different methods I use:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;conda list --explicit &amp;gt; projet_v0.txt
+conda env export &amp;gt; projet_v0.yml
+conda env export --from-history &amp;gt; projet_v0_fh.yml
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The first one allows you to have the exact version of packages on the machine you are using and their dependencies, which will allow you to have exactly the same environment (however it might not work on some other machines). The second one is similar to the first one but with the yaml format. The last one allows you to only have the names of the packages you installed with their version number if specified (what I advise you to add otherwise it might not work in the future). This last one allows sharing your environment across different platforms/OS, but without a guaranty that it will work (knowing that some packages are not always available across all platforms) and even on your own machine/server if you didn&amp;rsquo;t specify all version numbers, it&amp;rsquo;s possible that you won&amp;rsquo;t succeed to make it work in the future. Hence I recommend saving your environment under different format/version.&lt;/p&gt;
+&lt;p&gt;To get more information, go and check the conda documentation: &lt;a href=&#34;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html&#34;&gt;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also recommend you to document your environment with a README, so you know how you set it up, what&amp;rsquo;s inside, etc., here is an example from my environment: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/envs/phd&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/envs/phd&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I hope this will help you! I&amp;rsquo;m not an expert with conda myself, but this is a sharing of the experience I&amp;rsquo;ve gained over the past few years. Feel free to ask questions in the comments and/or fill in any points that I haven&amp;rsquo;t explained well or that are missing!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
