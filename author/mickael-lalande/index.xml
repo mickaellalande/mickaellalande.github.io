@@ -7,10 +7,67 @@
     <description>Mickaël Lalande</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://mickaellalande.github.io/author/mickael-lalande/avatar_hue78c2b13e7d55cec4c948d390694bd82_1679328_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://mickaellalande.github.io/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_2.png</url>
       <title>Mickaël Lalande</title>
       <link>https://mickaellalande.github.io/author/mickael-lalande/</link>
     </image>
+    
+    <item>
+      <title>SnowC2 (2023-2025)</title>
+      <link>https://mickaellalande.github.io/project/snowc2/</link>
+      <pubDate>Tue, 10 Oct 2023 14:23:06 -0400</pubDate>
+      <guid>https://mickaellalande.github.io/project/snowc2/</guid>
+      <description>&lt;h2 id=&#34;snow-cover-heterogeneity-and-its-impact-on-the-climate-and-carbon-cycle-of-arctic-regions&#34;&gt;Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://climate.esa.int/en/esa-climate/esa-cci/fellowships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESA Climate Change Initiative Fellowship&lt;/a&gt; (2-years postdoc project from 01/10/2023 to 30/09/2025) supervised by 
+&lt;a href=&#34;https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&amp;amp;owa_bottin=&amp;amp;owa_no_fiche=3&amp;amp;owa_no_form_reponse=221924&amp;amp;owa_apercu=N&amp;amp;owa_imprimable=N&amp;amp;owa_brouillon=N&amp;amp;owa_fenetre_surgissante=N&amp;amp;owa_lettre=%25&amp;amp;owa_no_page=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christophe Kinnard&lt;/a&gt; at 
+&lt;a href=&#34;https://www.uqtr.ca/index.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UQTR&lt;/a&gt; / 
+&lt;a href=&#34;https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2137&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIVE&lt;/a&gt; / 
+&lt;a href=&#34;https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GLACIOLAB&lt;/a&gt; (Trois-Rivières, Canada)&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;One of the current limitations of the Canadian Land Surface Scheme including Biogeochemical Cycles (CLASSIC; 
+&lt;a href=&#34;https://doi.org/10.5194/gmd-13-2825-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Melton et al., 2020&lt;/a&gt;) is the use of a single-layer snow scheme, without an explicit parameterization for the snow cover fraction (SCF) and blowing snow sublimation losses. However, blowing snow sublimation losses are significant in the Arctic, and snowpacks are typically characterized by at least two distinct snow layers (e.g., a base depth hoar layer overlain by a wind slab), which have distinct physical characteristics. Moreover, the snow cover varies greatly at the typical scales from ~10-100 meters (due to snow–canopy interactions, snow redistribution by the wind, pronounced microtopography, etc.) to larger-scale (&amp;gt;1 km) due to climatic and orographic gradients (e.g., 
+&lt;a href=&#34;https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liston, 2004&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1029/2011WR010745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Clark et al., 2011&lt;/a&gt;). A poor representation of the spatial heterogeneity of these ‘snowscapes’ within continental-scale land surface models (LSMs) and catchment-scale hydrological models can result in biased snow cover and runoff simulations (e.g., 
+&lt;a href=&#34;http://www.jstor.org/stable/24908960&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Déry et al., 2004&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liston, 2004&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1175/2007JHM958.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dornes et al., 2008&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1080/02723646.2017.1283477&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Busseau et al., 2017&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1002/eap.1773&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mahoney et al., 2018&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1007/s00382-019-04789-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Castaneda-Gonzalez et al., 2019&lt;/a&gt;; 
+&lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Magnusson et al., 2019&lt;/a&gt;), compromising projections under climate change scenarios. As such, measuring and understanding snow cover heterogeneity, and representing it within process-based models represents one of the greatest ongoing challenges in atmospheric and hydrological sciences, which calls for innovative efforts to address this issue (
+&lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peters-Lidard et al., 2017&lt;/a&gt;). &lt;strong&gt;This project aims to improve our understanding of the spatial heterogeneity of the snow cover in Arctic regions and its representation within process models for more robust simulations of snow cover conditions and surface energy and carbon fluxes under current and future climates.&lt;/strong&gt; To that purpose, new SCF parameterizations will be developed, implemented, and tested in the CLASSIC LSM. Snow CCI products will be used for this purpose, in addition to in situ stations along a Subarctic-Arctic gradient that encompasses different bioclimatic zones. In a second step, an implementation of a two-layer snow scheme and blowing snow sublimation processes will be considered to improve the snowpack evolution in the Arctic region. The influence of these new developments will be assessed against the evolution of the Snow CCI variables for different land types and for the simulated surface energy and carbon fluxes. To achieve this work, collaboration with the French institutes: Institut Pierre Simon Laplace (IPSL) and Institut des Géosciences de l’Environnement (IGE) will be encouraged, in addition to contributing to the Snow CCI project by producing derived interpolated datasets to ease the comparison to climate models. CLASSIC will next be forced by an ensemble of climate projections from CMIP6, downscaled and bias-corrected to ERA5 to produce new improved land simulations over the whole Arctic region. Online (coupled) simulations within CanESM are envisaged through future collaboration with Environment and Climate Change Canada.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;Busseau, B.-C., Royer, A., Roy, A., Langlois, A., &amp;amp; Domine, F. (2017). Analysis of snow-vegetation interactions in the low Arctic-Subarctic transition zone (northeastern Canada). Physical Geography, 38(2), 159–175. &lt;a href=&#34;https://doi.org/10.1080/02723646.2017.1283477&#34;&gt;https://doi.org/10.1080/02723646.2017.1283477&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castaneda-Gonzalez, M., Poulin, A., Romero-Lopez, R., Arsenault, R., Brissette, F., &amp;amp; Turcotte, R. (2019). Sensitivity of seasonal flood simulations to regional climate model spatial resolution. Climate Dynamics, 53(7–8), 4337–4354. &lt;a href=&#34;https://doi.org/10.1007/s00382-019-04789-y&#34;&gt;https://doi.org/10.1007/s00382-019-04789-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., &amp;hellip; Woods, R. A. (2011). Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review. Water Resources Research, 47(7). &lt;a href=&#34;https://doi.org/10.1029/2011WR010745&#34;&gt;https://doi.org/10.1029/2011WR010745&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Déry, S. J., Crow, W. T., Stieglitz, M., &amp;amp; Wood, E. F. (2004). Modeling Snow-Cover Heterogeneity over Complex Arctic Terrain for Regional and Global Climate Models. Journal of Hydrometeorology, 5(1), 33–48. &lt;a href=&#34;http://www.jstor.org/stable/24908960&#34;&gt;http://www.jstor.org/stable/24908960&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dornes, P. F., Pomeroy, J. W., Pietroniro, A., &amp;amp; Verseghy, D. L. (2008). Effects of Spatial Aggregation of Initial Conditions and Forcing Data on Modeling Snowmelt Using a Land Surface Scheme. Journal of Hydrometeorology, 9(4), 789–803. &lt;a href=&#34;https://doi.org/10.1175/2007JHM958.1&#34;&gt;https://doi.org/10.1175/2007JHM958.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Liston, G. E. (2004). Representing Subgrid Snow Cover Heterogeneities in Regional and Global Models. Journal of Climate, 17(6), 1381–1397. 
+&lt;a href=&#34;https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1175/1520-0442(2004)017&amp;lt;1381:RSSCHI&amp;gt;2.0.CO;2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Magnusson, J., Eisner, S., Huang, S., Lussana, C., Mazzotti, G., Essery, R., &amp;hellip; Beldring, S. (2019). Influence of Spatial Resolution on Snow Cover Dynamics for a Coastal and Mountainous Region at High Latitudes (Norway). Water Resources Research, 55(7), 5612–5630. &lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34;&gt;https://doi.org/10.1029/2019WR024925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mahoney, P. J., Liston, G. E., LaPoint, S., Gurarie, E., Mangipane, B., Wells, A. G., &amp;hellip; Prugh, L. R. (2018). Navigating snowscapes: scale-dependent responses of mountain sheep to snowpack properties. Ecological Applications, 28(7), 1715–1729. &lt;a href=&#34;https://doi.org/10.1002/eap.1773&#34;&gt;https://doi.org/10.1002/eap.1773&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Melton, J. R., Arora, V. K., Wisernig-Cojoc, E., Seiler, C., Fortier, M., Chan, E., &amp;amp; Teckentrup, L. (2020). CLASSIC v1.0: the open-source community successor to the Canadian Land Surface Scheme (CLASS) and the Canadian Terrestrial Ecosystem Model (CTEM) – Part 1: Model framework and site-level performance. Geoscientific Model Development, 13(6), 2825–2850. &lt;a href=&#34;https://doi.org/10.5194/gmd-13-2825-2020&#34;&gt;https://doi.org/10.5194/gmd-13-2825-2020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., &amp;hellip; Woods, R. (2017). Scaling, similarity, and the fourth paradigm for hydrology. Hydrology and Earth System Sciences, 21(7), 3701–3713. &lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34;&gt;https://doi.org/10.5194/hess-21-3701-2017&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ORCHIDEE DEV: Reducing the High Mountain Asia cold bias in GCMs by adapting snow cover parameterization to complex topography areas</title>
+      <link>https://mickaellalande.github.io/talk/phd/orchidee-dev/2023-09-26/</link>
+      <pubDate>Tue, 26 Sep 2023 14:00:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/talk/phd/orchidee-dev/2023-09-26/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTqs2A1JLkUKQWCmYYcrjYcbNjAyIv1osUY4LvkSmZ7FLpwEBIf0dokCE69QLhFMWCwmdHOl5d_7X3E/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the recording of the meeting here: &lt;a href=&#34;https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z&#34;&gt;https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;and the slides of the meeting here: &lt;a href=&#34;https://forge.ipsl.jussieu.fr/orchidee/wiki/GroupActivities/Meetings/Developer&#34;&gt;https://forge.ipsl.jussieu.fr/orchidee/wiki/GroupActivities/Meetings/Developer&lt;/a&gt; .&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD defense: Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes</title>
@@ -350,31 +407,45 @@
     </item>
     
     <item>
-      <title>Medias</title>
-      <link>https://mickaellalande.github.io/project/medias/</link>
-      <pubDate>Thu, 02 Sep 2021 14:15:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/project/medias/</guid>
-      <description>&lt;p&gt;Compiles all media content.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tutorials</title>
-      <link>https://mickaellalande.github.io/project/tutorials/</link>
-      <pubDate>Thu, 02 Sep 2021 14:05:00 +0200</pubDate>
-      <guid>https://mickaellalande.github.io/project/tutorials/</guid>
-      <description>&lt;p&gt;Some tutorials about random stuff.&lt;/p&gt;
-&lt;p&gt;The MC-Toolkit GitHub page might also be usefull: &lt;a href=&#34;https://github.com/mickaellalande/MC-Toolkit&#34;&gt;https://github.com/mickaellalande/MC-Toolkit&lt;/a&gt;&lt;/p&gt;
+      <title>PhD (2019-2022)</title>
+      <link>https://mickaellalande.github.io/project/phd/</link>
+      <pubDate>Fri, 03 Sep 2021 14:15:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/project/phd/</guid>
+      <description>&lt;h2 id=&#34;modeling-climate-trends-and-variability-in-high-mountain-asia-to-understand-cryosphere-changes&#34;&gt;Modeling climate trends and variability in High Mountain Asia to understand cryosphere changes&lt;/h2&gt;
+&lt;p&gt;3-years PhD project from 01/10/2019 to 31/12/2022 supervised by 
+&lt;a href=&#34;https://scholar.google.es/citations?user=mouv8-IAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martin Ménégoz&lt;/a&gt; and 
+&lt;a href=&#34;http://www.ige-grenoble.fr/-gerhard-krinner-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gerhard Krinner&lt;/a&gt; at 
+&lt;a href=&#34;http://www.ige-grenoble.fr/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Environmental Geosciences&lt;/a&gt; (Grenoble, France)&lt;/p&gt;
+&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;The High Mountain Asia (HMA) is hosting the largest ice stock after the polar regions. This resource provides a freshwater supply to nearly 1.4 billion people, making it a particularly vulnerable region to climate change. HMA includes the highest mountain ranges on Earth, including the Himalayas, Karakoram, and Hindu Kush, which surround the Tibetan Plateau (TP), an area of nearly 2.5 million km² with an average elevation of about 4000 m.&lt;/p&gt;
+&lt;p&gt;Studying climate change in HMA is challenging because of its complex topography which makes difficult the application of climate models in this area, and limits the possibility to collect observations. The aim of this thesis is to study the variability and trends of the climate in HMA. It is based on two main objectives: (1) studying and quantifying the climate change in HMA with general circulation models (GCMs) experiments and observation datasets, and (2) improving the simulated snow cover in mountainous regions in GCMs.&lt;/p&gt;
+&lt;p&gt;Current GCMs simulate a cold bias in HMA reaching an annual average value of -1.9 °C, associated with an overestimation of snow cover of 12 % and an excess of precipitation of 1.5 mm d$^{-1}$ (relative biases of 52 % and 143 % as compared to observations). Model biases and their ability to simulate trends do not show a clear link, suggesting that model bias is not a robust criterion to discard models in trend analysis.&lt;/p&gt;
+&lt;p&gt;The simulated median warming in HMA over 2081-2100 as compared to 1995-2014 reaches respectively 1.9 and 6.5 °C on the low (SSP1-2.6) and the high (SSP5-8.5) greenhouse gas emission scenarios. This warming is associated with a relative decrease in the snow cover extent of -9.4 to -32.2 % and a relative increase in precipitation of 8.5 to 24.9 % in these two respective scenarios. The warming is 11 % higher over HMA than over the other Northern Hemisphere continental surfaces, excluding the Arctic area.&lt;/p&gt;
+&lt;p&gt;5 parameterizations of the snow cover fraction (SCF) are tested, calibrated, and validated using a snow reanalysis in HMA. The relationship between SCF and snow depth (SD) differs strongly between flat and mountainous areas, leading to an overestimation of SCF in parameterizations that do not take into account the sub-grid topography. The SCF changes with respect to SD follow a hysteresis, with a rapid increase in SCF during the accumulation phase and a slower patchy retreat during ablation periods, discarding parameterizations that do not consider this effect.&lt;/p&gt;
+&lt;p&gt;The use of a new SCF parameterization adapted to mountain areas in LMDZ/ORCHIDEE reduces the simulated SCF bias over mountainous regions by 5 to 10 % in winter, reducing the mean annual cold bias in HMA from -1.8 °C to around -1 °C. However, this added value is sometimes masked by other model biases. Additional datasets covering other regions should be considered to allow an optimal tuning of the SCF parameterizations.&lt;/p&gt;
+&lt;p&gt;The lack of snowpack observations in mountainous regions is currently a major limitation to set up realistic SCF parameterizations. Improving SCF parameterizations is one of the important developments that need to be considered when developing the sub-grid parameterizations, which are required to improve the GCMs over mountainous areas.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: High Mountain Asia, Mountain Areas, General Circulation Models, CMIP6, Snow Cover, Parameterizations&lt;/p&gt;
+&lt;p&gt;More details and PhD manuscript at: &lt;a href=&#34;https://www.theses.fr/s226411&#34;&gt;https://www.theses.fr/s226411&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Science et Climat</title>
       <link>https://mickaellalande.github.io/project/science-et-climat/</link>
-      <pubDate>Thu, 02 Sep 2021 13:42:00 +0200</pubDate>
+      <pubDate>Fri, 03 Sep 2021 13:42:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/project/science-et-climat/</guid>
       <description>&lt;p&gt;&lt;em&gt;Science et Climat&lt;/em&gt; is a French YouTube channel (English subtitles available) that intends to popularize climate related topics to better apprehend the issues raised by global warming.&lt;/p&gt;
 &lt;p&gt;Link: &lt;a href=&#34;https://www.youtube.com/c/ScienceetClimat&#34;&gt;https://www.youtube.com/c/ScienceetClimat&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medias</title>
+      <link>https://mickaellalande.github.io/project/medias/</link>
+      <pubDate>Thu, 02 Sep 2021 14:15:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/project/medias/</guid>
+      <description>&lt;p&gt;Compiles all media content.&lt;/p&gt;
 </description>
     </item>
     
@@ -454,6 +525,16 @@ Facebook / Twitter / Instagram / Tiktok
 &lt;/ul&gt;
 &lt;h2 id=&#34;résumé-instagram&#34;&gt;Résumé Instagram&lt;/h2&gt;
 &lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-permalink=&#34;https://www.instagram.com/p/CTSNYKfKEif/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; data-instgrm-version=&#34;14&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:16px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/CTSNYKfKEif/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&#34; target=&#34;_blank&#34;&gt; &lt;div style=&#34; display: flex; flex-direction: row; align-items: center;&#34;&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 19% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display:block; height:50px; margin:0 auto 12px; width:50px;&#34;&gt;&lt;svg width=&#34;50px&#34; height=&#34;50px&#34; viewBox=&#34;0 0 60 60&#34; version=&#34;1.1&#34; xmlns=&#34;https://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;https://www.w3.org/1999/xlink&#34;&gt;&lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;g transform=&#34;translate(-511.000000, -20.000000)&#34; fill=&#34;#000000&#34;&gt;&lt;g&gt;&lt;path d=&#34;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&#34;padding-top: 8px;&#34;&gt; &lt;div style=&#34; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&#34;&gt;Voir cette publication sur Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 12.5% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&#34;&gt;&lt;div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: 8px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: auto;&#34;&gt; &lt;div style=&#34; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/CTSNYKfKEif/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;Une publication partagée par Science et Climat (@scienceetclimat)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async src=&#34;//www.instagram.com/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://mickaellalande.github.io/project/tutorials/</link>
+      <pubDate>Wed, 01 Sep 2021 15:05:00 +0200</pubDate>
+      <guid>https://mickaellalande.github.io/project/tutorials/</guid>
+      <description>&lt;p&gt;Some tutorials about random stuff.&lt;/p&gt;
+&lt;p&gt;The MC-Toolkit GitHub page might also be usefull: &lt;a href=&#34;https://github.com/mickaellalande/MC-Toolkit&#34;&gt;https://github.com/mickaellalande/MC-Toolkit&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

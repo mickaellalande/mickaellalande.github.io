@@ -1,0 +1,1362 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Mickaël Lalande">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://mickaellalande.github.io/project/snowc2/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167118572-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-167118572-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://mickaellalande.github.io/project/snowc2/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@LalandeMickael">
+  <meta property="twitter:creator" content="@LalandeMickael">
+  
+  <meta property="og:site_name" content="Mickaël Lalande">
+  <meta property="og:url" content="https://mickaellalande.github.io/project/snowc2/">
+  <meta property="og:title" content="SnowC2 (2023-2025) | Mickaël Lalande">
+  <meta property="og:description" content="Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions"><meta property="og:image" content="https://mickaellalande.github.io/project/snowc2/featured.jpg">
+  <meta property="twitter:image" content="https://mickaellalande.github.io/project/snowc2/featured.jpg"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2023-10-10T14:23:06-04:00">
+    
+    <meta property="article:modified_time" content="2023-10-10T16:34:58-04:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://mickaellalande.github.io/project/snowc2/"
+  },
+  "headline": "SnowC2 (2023-2025)",
+  
+  "image": [
+    "https://mickaellalande.github.io/project/snowc2/featured.jpg"
+  ],
+  
+  "datePublished": "2023-10-10T14:23:06-04:00",
+  "dateModified": "2023-10-10T16:34:58-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mickaël Lalande"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mickaël Lalande",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>SnowC2 (2023-2025) | Mickaël Lalande</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Mickaël Lalande</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Mickaël Lalande</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-center" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Projects</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/#projects"><span>All</span></a>
+            
+              <a class="dropdown-item" href="/project/snowc2"><span>SnowC2 (2023-2025)</span></a>
+            
+              <a class="dropdown-item" href="/project/phd"><span>PhD (2019-2022)</span></a>
+            
+              <a class="dropdown-item" href="/project/science-et-climat"><span>Science et Climat</span></a>
+            
+              <a class="dropdown-item" href="/project/medias"><span>Medias</span></a>
+            
+              <a class="dropdown-item" href="/project/tutorials"><span>Tutorials</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/CV_LALANDE_2023_v2.1.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>SnowC2 (2023-2025)</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span><a href="/author/mickael-lalande/">Mickaël Lalande</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Oct 10, 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/postdoc/">Postdoc</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+  <div style="position: relative">
+    <img src="/project/snowc2/featured_hu27a04ef25002dea18d3520290194e4c7_882837_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="snow-cover-heterogeneity-and-its-impact-on-the-climate-and-carbon-cycle-of-arctic-regions">Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions</h2>
+<p>
+<a href="https://climate.esa.int/en/esa-climate/esa-cci/fellowships/" target="_blank" rel="noopener">ESA Climate Change Initiative Fellowship</a> (2-years postdoc project from 01/10/2023 to 30/09/2025) supervised by 
+<a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&amp;owa_bottin=&amp;owa_no_fiche=3&amp;owa_no_form_reponse=221924&amp;owa_apercu=N&amp;owa_imprimable=N&amp;owa_brouillon=N&amp;owa_fenetre_surgissante=N&amp;owa_lettre=%25&amp;owa_no_page=1" target="_blank" rel="noopener">Christophe Kinnard</a> at 
+<a href="https://www.uqtr.ca/index.shtml" target="_blank" rel="noopener">UQTR</a> / 
+<a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=2137" target="_blank" rel="noopener">RIVE</a> / 
+<a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=5528" target="_blank" rel="noopener">GLACIOLAB</a> (Trois-Rivières, Canada)</p>
+<h3 id="abstract">Abstract</h3>
+<p>One of the current limitations of the Canadian Land Surface Scheme including Biogeochemical Cycles (CLASSIC; 
+<a href="https://doi.org/10.5194/gmd-13-2825-2020" target="_blank" rel="noopener">Melton et al., 2020</a>) is the use of a single-layer snow scheme, without an explicit parameterization for the snow cover fraction (SCF) and blowing snow sublimation losses. However, blowing snow sublimation losses are significant in the Arctic, and snowpacks are typically characterized by at least two distinct snow layers (e.g., a base depth hoar layer overlain by a wind slab), which have distinct physical characteristics. Moreover, the snow cover varies greatly at the typical scales from ~10-100 meters (due to snow–canopy interactions, snow redistribution by the wind, pronounced microtopography, etc.) to larger-scale (&gt;1 km) due to climatic and orographic gradients (e.g., 
+<a href="https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2" target="_blank" rel="noopener">Liston, 2004</a>; 
+<a href="https://doi.org/10.1029/2011WR010745" target="_blank" rel="noopener">Clark et al., 2011</a>). A poor representation of the spatial heterogeneity of these ‘snowscapes’ within continental-scale land surface models (LSMs) and catchment-scale hydrological models can result in biased snow cover and runoff simulations (e.g., 
+<a href="http://www.jstor.org/stable/24908960" target="_blank" rel="noopener">Déry et al., 2004</a>; 
+<a href="https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2" target="_blank" rel="noopener">Liston, 2004</a>; 
+<a href="https://doi.org/10.1175/2007JHM958.1" target="_blank" rel="noopener">Dornes et al., 2008</a>; 
+<a href="https://doi.org/10.1080/02723646.2017.1283477" target="_blank" rel="noopener">Busseau et al., 2017</a>; 
+<a href="https://doi.org/10.1002/eap.1773" target="_blank" rel="noopener">Mahoney et al., 2018</a>; 
+<a href="https://doi.org/10.1007/s00382-019-04789-y" target="_blank" rel="noopener">Castaneda-Gonzalez et al., 2019</a>; 
+<a href="https://doi.org/10.1029/2019WR024925" target="_blank" rel="noopener">Magnusson et al., 2019</a>), compromising projections under climate change scenarios. As such, measuring and understanding snow cover heterogeneity, and representing it within process-based models represents one of the greatest ongoing challenges in atmospheric and hydrological sciences, which calls for innovative efforts to address this issue (
+<a href="https://doi.org/10.5194/hess-21-3701-2017" target="_blank" rel="noopener">Peters-Lidard et al., 2017</a>). <strong>This project aims to improve our understanding of the spatial heterogeneity of the snow cover in Arctic regions and its representation within process models for more robust simulations of snow cover conditions and surface energy and carbon fluxes under current and future climates.</strong> To that purpose, new SCF parameterizations will be developed, implemented, and tested in the CLASSIC LSM. Snow CCI products will be used for this purpose, in addition to in situ stations along a Subarctic-Arctic gradient that encompasses different bioclimatic zones. In a second step, an implementation of a two-layer snow scheme and blowing snow sublimation processes will be considered to improve the snowpack evolution in the Arctic region. The influence of these new developments will be assessed against the evolution of the Snow CCI variables for different land types and for the simulated surface energy and carbon fluxes. To achieve this work, collaboration with the French institutes: Institut Pierre Simon Laplace (IPSL) and Institut des Géosciences de l’Environnement (IGE) will be encouraged, in addition to contributing to the Snow CCI project by producing derived interpolated datasets to ease the comparison to climate models. CLASSIC will next be forced by an ensemble of climate projections from CMIP6, downscaled and bias-corrected to ERA5 to produce new improved land simulations over the whole Arctic region. Online (coupled) simulations within CanESM are envisaged through future collaboration with Environment and Climate Change Canada.</p>
+<h3 id="references">References</h3>
+<p>Busseau, B.-C., Royer, A., Roy, A., Langlois, A., &amp; Domine, F. (2017). Analysis of snow-vegetation interactions in the low Arctic-Subarctic transition zone (northeastern Canada). Physical Geography, 38(2), 159–175. <a href="https://doi.org/10.1080/02723646.2017.1283477">https://doi.org/10.1080/02723646.2017.1283477</a></p>
+<p>Castaneda-Gonzalez, M., Poulin, A., Romero-Lopez, R., Arsenault, R., Brissette, F., &amp; Turcotte, R. (2019). Sensitivity of seasonal flood simulations to regional climate model spatial resolution. Climate Dynamics, 53(7–8), 4337–4354. <a href="https://doi.org/10.1007/s00382-019-04789-y">https://doi.org/10.1007/s00382-019-04789-y</a></p>
+<p>Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., &hellip; Woods, R. A. (2011). Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review. Water Resources Research, 47(7). <a href="https://doi.org/10.1029/2011WR010745">https://doi.org/10.1029/2011WR010745</a></p>
+<p>Déry, S. J., Crow, W. T., Stieglitz, M., &amp; Wood, E. F. (2004). Modeling Snow-Cover Heterogeneity over Complex Arctic Terrain for Regional and Global Climate Models. Journal of Hydrometeorology, 5(1), 33–48. <a href="http://www.jstor.org/stable/24908960">http://www.jstor.org/stable/24908960</a></p>
+<p>Dornes, P. F., Pomeroy, J. W., Pietroniro, A., &amp; Verseghy, D. L. (2008). Effects of Spatial Aggregation of Initial Conditions and Forcing Data on Modeling Snowmelt Using a Land Surface Scheme. Journal of Hydrometeorology, 9(4), 789–803. <a href="https://doi.org/10.1175/2007JHM958.1">https://doi.org/10.1175/2007JHM958.1</a></p>
+<p>Liston, G. E. (2004). Representing Subgrid Snow Cover Heterogeneities in Regional and Global Models. Journal of Climate, 17(6), 1381–1397. 
+<a href="https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2" target="_blank" rel="noopener">https://doi.org/10.1175/1520-0442(2004)017&lt;1381:RSSCHI&gt;2.0.CO;2</a></p>
+<p>Magnusson, J., Eisner, S., Huang, S., Lussana, C., Mazzotti, G., Essery, R., &hellip; Beldring, S. (2019). Influence of Spatial Resolution on Snow Cover Dynamics for a Coastal and Mountainous Region at High Latitudes (Norway). Water Resources Research, 55(7), 5612–5630. <a href="https://doi.org/10.1029/2019WR024925">https://doi.org/10.1029/2019WR024925</a></p>
+<p>Mahoney, P. J., Liston, G. E., LaPoint, S., Gurarie, E., Mangipane, B., Wells, A. G., &hellip; Prugh, L. R. (2018). Navigating snowscapes: scale-dependent responses of mountain sheep to snowpack properties. Ecological Applications, 28(7), 1715–1729. <a href="https://doi.org/10.1002/eap.1773">https://doi.org/10.1002/eap.1773</a></p>
+<p>Melton, J. R., Arora, V. K., Wisernig-Cojoc, E., Seiler, C., Fortier, M., Chan, E., &amp; Teckentrup, L. (2020). CLASSIC v1.0: the open-source community successor to the Canadian Land Surface Scheme (CLASS) and the Canadian Terrestrial Ecosystem Model (CTEM) – Part 1: Model framework and site-level performance. Geoscientific Model Development, 13(6), 2825–2850. <a href="https://doi.org/10.5194/gmd-13-2825-2020">https://doi.org/10.5194/gmd-13-2825-2020</a></p>
+<p>Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., &hellip; Woods, R. (2017). Scaling, similarity, and the fourth paradigm for hydrology. Hydrology and Earth System Sciences, 21(7), 3701–3713. <a href="https://doi.org/10.5194/hess-21-3701-2017">https://doi.org/10.5194/hess-21-3701-2017</a></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/arctic/">Arctic</a>
+  
+  <a class="badge badge-light" href="/tag/classic/">CLASSIC</a>
+  
+  <a class="badge badge-light" href="/tag/climate/">Climate</a>
+  
+  <a class="badge badge-light" href="/tag/model/">Model</a>
+  
+  <a class="badge badge-light" href="/tag/snow/">Snow</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://mickaellalande.github.io/project/snowc2/&amp;text=SnowC2%20%282023-2025%29" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://mickaellalande.github.io/project/snowc2/&amp;t=SnowC2%20%282023-2025%29" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=SnowC2%20%282023-2025%29&amp;body=https://mickaellalande.github.io/project/snowc2/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://mickaellalande.github.io/project/snowc2/&amp;title=SnowC2%20%282023-2025%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=SnowC2%20%282023-2025%29%20https://mickaellalande.github.io/project/snowc2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://mickaellalande.github.io/project/snowc2/&amp;title=SnowC2%20%282023-2025%29" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_2.png" alt="Mickaël Lalande">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://mickaellalande.github.io/">Mickaël Lalande</a></h5>
+        <h6 class="card-subtitle">Postdoc Fellow</h6>
+        
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/mickaellalande" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/LalandeMickael" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/micka%C3%ABl-lalande-bb9b723a/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Mickael_Lalande" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-5014-5249" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=pN83kzcAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.instagram.com/mickaellalande/" target="_blank" rel="noopener">
+        <i class="fab fa-instagram"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q" target="_blank" rel="noopener">
+        <i class="fab fa-youtube"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/post/media/video/thesen-images/tfais-une-these/">Modéliser la neige en Himalaya - Mickaël Lalande || T&#39;fais une thèse ?</a></li>
+      
+      <li><a href="/talk/phd/igs/2022-scf-param/">IGS2022: Adaptation of a snow cover scheme for complex topography areas</a></li>
+      
+      <li><a href="/talk/phd/imc/2022-scf-param/">IMC2022: Adaptation of a snow cover scheme for complex topography areas</a></li>
+      
+      <li><a href="/talk/phd/egu/2022-scf-param/">EGU2022: Adaptation of a snow cover scheme for complex topography areas</a></li>
+      
+      <li><a href="/talk/phd/snowhydro/2022-scf-param/">SnowHydro2022: Adaptation of a snow cover scheme for complex topography areas</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r,%20bash.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    <script id="dsq-count-scr" src="https://https-mickaellalande-github-io.disqus.com/count.js" async></script>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
