@@ -7,7 +7,7 @@
     <description>Climate</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 14:23:06 -0400</lastBuildDate>
     <image>
-      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
       <title>Climate</title>
       <link>https://mickaellalande.github.io/tag/climate/</link>
     </image>
@@ -38,17 +38,26 @@
 &lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Magnusson et al., 2019&lt;/a&gt;), compromising projections under climate change scenarios. As such, measuring and understanding snow cover heterogeneity, and representing it within process-based models represents one of the greatest ongoing challenges in atmospheric and hydrological sciences, which calls for innovative efforts to address this issue (
 &lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peters-Lidard et al., 2017&lt;/a&gt;). &lt;strong&gt;This project aims to improve our understanding of the spatial heterogeneity of the snow cover in Arctic regions and its representation within process models for more robust simulations of snow cover conditions and surface energy and carbon fluxes under current and future climates.&lt;/strong&gt; To that purpose, new SCF parameterizations will be developed, implemented, and tested in the CLASSIC LSM. Snow CCI products will be used for this purpose, in addition to in situ stations along a Subarctic-Arctic gradient that encompasses different bioclimatic zones. In a second step, an implementation of a two-layer snow scheme and blowing snow sublimation processes will be considered to improve the snowpack evolution in the Arctic region. The influence of these new developments will be assessed against the evolution of the Snow CCI variables for different land types and for the simulated surface energy and carbon fluxes. To achieve this work, collaboration with the French institutes: Institut Pierre Simon Laplace (IPSL) and Institut des Géosciences de l’Environnement (IGE) will be encouraged, in addition to contributing to the Snow CCI project by producing derived interpolated datasets to ease the comparison to climate models. CLASSIC will next be forced by an ensemble of climate projections from CMIP6, downscaled and bias-corrected to ERA5 to produce new improved land simulations over the whole Arctic region. Online (coupled) simulations within CanESM are envisaged through future collaboration with Environment and Climate Change Canada.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;Busseau, B.-C., Royer, A., Roy, A., Langlois, A., &amp;amp; Domine, F. (2017). Analysis of snow-vegetation interactions in the low Arctic-Subarctic transition zone (northeastern Canada). Physical Geography, 38(2), 159–175. &lt;a href=&#34;https://doi.org/10.1080/02723646.2017.1283477&#34;&gt;https://doi.org/10.1080/02723646.2017.1283477&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Castaneda-Gonzalez, M., Poulin, A., Romero-Lopez, R., Arsenault, R., Brissette, F., &amp;amp; Turcotte, R. (2019). Sensitivity of seasonal flood simulations to regional climate model spatial resolution. Climate Dynamics, 53(7–8), 4337–4354. &lt;a href=&#34;https://doi.org/10.1007/s00382-019-04789-y&#34;&gt;https://doi.org/10.1007/s00382-019-04789-y&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., &amp;hellip; Woods, R. A. (2011). Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review. Water Resources Research, 47(7). &lt;a href=&#34;https://doi.org/10.1029/2011WR010745&#34;&gt;https://doi.org/10.1029/2011WR010745&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Déry, S. J., Crow, W. T., Stieglitz, M., &amp;amp; Wood, E. F. (2004). Modeling Snow-Cover Heterogeneity over Complex Arctic Terrain for Regional and Global Climate Models. Journal of Hydrometeorology, 5(1), 33–48. &lt;a href=&#34;http://www.jstor.org/stable/24908960&#34;&gt;http://www.jstor.org/stable/24908960&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dornes, P. F., Pomeroy, J. W., Pietroniro, A., &amp;amp; Verseghy, D. L. (2008). Effects of Spatial Aggregation of Initial Conditions and Forcing Data on Modeling Snowmelt Using a Land Surface Scheme. Journal of Hydrometeorology, 9(4), 789–803. &lt;a href=&#34;https://doi.org/10.1175/2007JHM958.1&#34;&gt;https://doi.org/10.1175/2007JHM958.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Busseau, B.-C., Royer, A., Roy, A., Langlois, A., &amp;amp; Domine, F. (2017). Analysis of snow-vegetation interactions in the low Arctic-Subarctic transition zone (northeastern Canada). Physical Geography, 38(2), 159–175. 
+&lt;a href=&#34;https://doi.org/10.1080/02723646.2017.1283477&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/02723646.2017.1283477&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castaneda-Gonzalez, M., Poulin, A., Romero-Lopez, R., Arsenault, R., Brissette, F., &amp;amp; Turcotte, R. (2019). Sensitivity of seasonal flood simulations to regional climate model spatial resolution. Climate Dynamics, 53(7–8), 4337–4354. 
+&lt;a href=&#34;https://doi.org/10.1007/s00382-019-04789-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s00382-019-04789-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., &amp;hellip; Woods, R. A. (2011). Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review. Water Resources Research, 47(7). 
+&lt;a href=&#34;https://doi.org/10.1029/2011WR010745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2011WR010745&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Déry, S. J., Crow, W. T., Stieglitz, M., &amp;amp; Wood, E. F. (2004). Modeling Snow-Cover Heterogeneity over Complex Arctic Terrain for Regional and Global Climate Models. Journal of Hydrometeorology, 5(1), 33–48. 
+&lt;a href=&#34;http://www.jstor.org/stable/24908960&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.jstor.org/stable/24908960&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dornes, P. F., Pomeroy, J. W., Pietroniro, A., &amp;amp; Verseghy, D. L. (2008). Effects of Spatial Aggregation of Initial Conditions and Forcing Data on Modeling Snowmelt Using a Land Surface Scheme. Journal of Hydrometeorology, 9(4), 789–803. 
+&lt;a href=&#34;https://doi.org/10.1175/2007JHM958.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1175/2007JHM958.1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Liston, G. E. (2004). Representing Subgrid Snow Cover Heterogeneities in Regional and Global Models. Journal of Climate, 17(6), 1381–1397. 
 &lt;a href=&#34;https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1175/1520-0442(2004)017&amp;lt;1381:RSSCHI&amp;gt;2.0.CO;2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Magnusson, J., Eisner, S., Huang, S., Lussana, C., Mazzotti, G., Essery, R., &amp;hellip; Beldring, S. (2019). Influence of Spatial Resolution on Snow Cover Dynamics for a Coastal and Mountainous Region at High Latitudes (Norway). Water Resources Research, 55(7), 5612–5630. &lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34;&gt;https://doi.org/10.1029/2019WR024925&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mahoney, P. J., Liston, G. E., LaPoint, S., Gurarie, E., Mangipane, B., Wells, A. G., &amp;hellip; Prugh, L. R. (2018). Navigating snowscapes: scale-dependent responses of mountain sheep to snowpack properties. Ecological Applications, 28(7), 1715–1729. &lt;a href=&#34;https://doi.org/10.1002/eap.1773&#34;&gt;https://doi.org/10.1002/eap.1773&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Melton, J. R., Arora, V. K., Wisernig-Cojoc, E., Seiler, C., Fortier, M., Chan, E., &amp;amp; Teckentrup, L. (2020). CLASSIC v1.0: the open-source community successor to the Canadian Land Surface Scheme (CLASS) and the Canadian Terrestrial Ecosystem Model (CTEM) – Part 1: Model framework and site-level performance. Geoscientific Model Development, 13(6), 2825–2850. &lt;a href=&#34;https://doi.org/10.5194/gmd-13-2825-2020&#34;&gt;https://doi.org/10.5194/gmd-13-2825-2020&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., &amp;hellip; Woods, R. (2017). Scaling, similarity, and the fourth paradigm for hydrology. Hydrology and Earth System Sciences, 21(7), 3701–3713. &lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34;&gt;https://doi.org/10.5194/hess-21-3701-2017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Magnusson, J., Eisner, S., Huang, S., Lussana, C., Mazzotti, G., Essery, R., &amp;hellip; Beldring, S. (2019). Influence of Spatial Resolution on Snow Cover Dynamics for a Coastal and Mountainous Region at High Latitudes (Norway). Water Resources Research, 55(7), 5612–5630. 
+&lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2019WR024925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mahoney, P. J., Liston, G. E., LaPoint, S., Gurarie, E., Mangipane, B., Wells, A. G., &amp;hellip; Prugh, L. R. (2018). Navigating snowscapes: scale-dependent responses of mountain sheep to snowpack properties. Ecological Applications, 28(7), 1715–1729. 
+&lt;a href=&#34;https://doi.org/10.1002/eap.1773&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/eap.1773&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Melton, J. R., Arora, V. K., Wisernig-Cojoc, E., Seiler, C., Fortier, M., Chan, E., &amp;amp; Teckentrup, L. (2020). CLASSIC v1.0: the open-source community successor to the Canadian Land Surface Scheme (CLASS) and the Canadian Terrestrial Ecosystem Model (CTEM) – Part 1: Model framework and site-level performance. Geoscientific Model Development, 13(6), 2825–2850. 
+&lt;a href=&#34;https://doi.org/10.5194/gmd-13-2825-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-13-2825-2020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., &amp;hellip; Woods, R. (2017). Scaling, similarity, and the fourth paradigm for hydrology. Hydrology and Earth System Sciences, 21(7), 3701–3713. 
+&lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/hess-21-3701-2017&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -67,24 +76,33 @@
 &lt;p&gt;Quelques liens utiles pour en savoir plus :&lt;/p&gt;
 &lt;p&gt;🌐 Modèles de climats&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/modeles-climat/&#34;&gt;https://www.encyclopedie-environnement.org/climat/modeles-climat/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&#34;&gt;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/modeles-climat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.encyclopedie-environnement.org/climat/modeles-climat/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;📖 Résumé du rapport du GIEC du groupe I grand public en français&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🏔️ Hautes Montagnes d’Asie&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&#34;&gt;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Retrouvez Thès&amp;rsquo;en Images également sur :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Facebook : &lt;a href=&#34;https://www.facebook.com/thesenimages&#34;&gt;https://www.facebook.com/thesenimages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Instagram : &lt;a href=&#34;https://www.instagram.com/thes.en.images/&#34;&gt;https://www.instagram.com/thes.en.images/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Youtube : &lt;a href=&#34;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&#34;&gt;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Linkedin : &lt;a href=&#34;https://www.linkedin.com/company/th%C3%A8s-en-images&#34;&gt;https://www.linkedin.com/company/th%C3%A8s-en-images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook : 
+&lt;a href=&#34;https://www.facebook.com/thesenimages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.facebook.com/thesenimages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram : 
+&lt;a href=&#34;https://www.instagram.com/thes.en.images/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.instagram.com/thes.en.images/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Youtube : 
+&lt;a href=&#34;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin : 
+&lt;a href=&#34;https://www.linkedin.com/company/th%C3%A8s-en-images&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/company/th%C3%A8s-en-images&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -94,7 +112,8 @@
       <link>https://mickaellalande.github.io/post/phd/rechauffement-exacerbe-dans-les-hautes-montagnes-dasie/</link>
       <pubDate>Wed, 10 Nov 2021 13:33:23 +0100</pubDate>
       <guid>https://mickaellalande.github.io/post/phd/rechauffement-exacerbe-dans-les-hautes-montagnes-dasie/</guid>
-      <description>&lt;p&gt;Suite à la sortie de mon premier article scientifique sur le changement climatique en Himalaya et sur le Plateau Tibétain (en utilisant la dernière génération de modèles CMIP6), voici un résumé grand public publié par mon laboratoire : &lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Suite à la sortie de mon premier article scientifique sur le changement climatique en Himalaya et sur le Plateau Tibétain (en utilisant la dernière génération de modèles CMIP6), voici un résumé grand public publié par mon laboratoire : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Article scientifique : 
 &lt;a href=&#34;https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/&#34;&gt;Climate change in the High Mountain Asia in CMIP6&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -112,11 +131,14 @@
 &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPCC AR6 WGI SPM&lt;/a&gt;) et également FAQ 3.1 : 
 &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How do we Know Humans are Responsible for Climate Change?&lt;/a&gt;. En complément voici également une courte vidéo que j&amp;rsquo;ai faite sur le sujet : 
 &lt;a href=&#34;https://www.facebook.com/watch/?v=385473679707365&amp;amp;ref=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quelle est l&amp;rsquo;origine du réchauffement climatique actuel ?&lt;/a&gt;, et ma dernière interview réalisé sur ma chaîne YouTube 
-&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science et Climat&lt;/a&gt; sur la partie des climato-sceptiques : &lt;a href=&#34;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;amp;t=446s&#34;&gt;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;amp;t=446s&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science et Climat&lt;/a&gt; sur la partie des climato-sceptiques : 
+&lt;a href=&#34;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;amp;t=446s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;t=446s&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;🔎 Pour en savoir plus sur les changements passés, je vous conseille également l&amp;rsquo;excellente vidéo de 
-&lt;a href=&#34;https://www.youtube.com/c/ScienceEtonnante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science étonnante&lt;/a&gt; sur les cycles de Milankovitch qui explique principalement les passages de périodes glaciaires à interglaciaires des 800 000 dernières années : &lt;a href=&#34;https://www.youtube.com/watch?v=MXcY8Cf6hsI&#34;&gt;https://www.youtube.com/watch?v=MXcY8Cf6hsI&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/c/ScienceEtonnante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science étonnante&lt;/a&gt; sur les cycles de Milankovitch qui explique principalement les passages de périodes glaciaires à interglaciaires des 800 000 dernières années : 
+&lt;a href=&#34;https://www.youtube.com/watch?v=MXcY8Cf6hsI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=MXcY8Cf6hsI&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;⌛ Et puis pour remonter encore plus loin dans le temps, n&amp;rsquo;hésitez pas à regarder également la vidéo de 
-&lt;a href=&#34;https://www.youtube.com/c/Pal%C3%A9oJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paleo-J&lt;/a&gt; sur l&amp;rsquo;évolution du climat jusqu&amp;rsquo;à des périodes de plusieurs dizaines de millions d&amp;rsquo;années dans le passé : &lt;a href=&#34;https://www.youtube.com/watch?v=We2a1wZRveo&amp;amp;t=1916s&#34;&gt;https://www.youtube.com/watch?v=We2a1wZRveo&amp;amp;t=1916s&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/c/Pal%C3%A9oJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paleo-J&lt;/a&gt; sur l&amp;rsquo;évolution du climat jusqu&amp;rsquo;à des périodes de plusieurs dizaines de millions d&amp;rsquo;années dans le passé : 
+&lt;a href=&#34;https://www.youtube.com/watch?v=We2a1wZRveo&amp;amp;t=1916s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=We2a1wZRveo&amp;t=1916s&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;▶️ Pour d&amp;rsquo;autres vidéos Flash sur pleins d&amp;rsquo;autres sujets tout aussi passionnant, je vous conseille d&amp;rsquo;aller voir la 
 &lt;a href=&#34;https://www.youtube.com/playlist?list=PLQj84RQkFU-OKOnsi_ZpPpr8cDQTqK0GE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Série Flash&lt;/a&gt; de l&amp;rsquo;OSUG sur YouTube. Pensez à vous abonner à leur chaîne et les suivre sur 
 &lt;a href=&#34;https://twitter.com/OSUG_fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt; et 
@@ -127,9 +149,12 @@
 &lt;a href=&#34;https://www.ige-grenoble.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut des Géosciences de l&amp;rsquo;Environnement&lt;/a&gt; ! 😀&lt;/p&gt;
 &lt;p&gt;Publications également sur :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Twitter : &lt;a href=&#34;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&#34;&gt;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook : &lt;a href=&#34;https://fb.watch/9ze4ev_A2x/&#34;&gt;https://fb.watch/9ze4ev_A2x/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;IGE : &lt;a href=&#34;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&#34;&gt;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter : 
+&lt;a href=&#34;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook : 
+&lt;a href=&#34;https://fb.watch/9ze4ev_A2x/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fb.watch/9ze4ev_A2x/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IGE : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -139,7 +164,8 @@
       <link>https://mickaellalande.github.io/post/phd/exacerbated-warming-in-the-high-mountain-asia/</link>
       <pubDate>Wed, 03 Nov 2021 13:33:23 +0100</pubDate>
       <guid>https://mickaellalande.github.io/post/phd/exacerbated-warming-in-the-high-mountain-asia/</guid>
-      <description>&lt;p&gt;Following the release of my first scientific paper on climate change in the Himalayas and the Tibetan Plateau (using the latest generation of CMIP6 models), here is a general public summary published by my laboratory: &lt;a href=&#34;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&#34;&gt;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Following the release of my first scientific paper on climate change in the Himalayas and the Tibetan Plateau (using the latest generation of CMIP6 models), here is a general public summary published by my laboratory: 
+&lt;a href=&#34;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Scientific article: 
 &lt;a href=&#34;https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/&#34;&gt;Climate change in the High Mountain Asia in CMIP6&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -151,8 +177,10 @@
       <pubDate>Thu, 01 Apr 2021 16:22:32 +0200</pubDate>
       <guid>https://mickaellalande.github.io/post/media/podcast/allodocs/projections-climatiques-versus-meteo/</guid>
       <description>&lt;iframe title=&#34;Embed Player&#34; width=&#34;100%&#34; height=&#34;188px&#34; src=&#34;https://embed.acast.com/af40ee8f-c60c-581f-b9b4-1d2f53f47b3d/60523dd24a772e26066630fc&#34; scrolling=&#34;no&#34; frameBorder=&#34;0&#34; style=&#34;border:none;overflow:hidden;&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Retrouvez l&amp;rsquo;article publié sur le site de notre laboratoire : &lt;a href=&#34;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&#34;&gt;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Et tous les autres Podcast Allodocs : &lt;a href=&#34;https://play.acast.com/s/hauteurs&#34;&gt;https://play.acast.com/s/hauteurs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Retrouvez l&amp;rsquo;article publié sur le site de notre laboratoire : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Et tous les autres Podcast Allodocs : 
+&lt;a href=&#34;https://play.acast.com/s/hauteurs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://play.acast.com/s/hauteurs&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Merci à Hauteurs UGA !&lt;/p&gt;
 </description>
     </item>

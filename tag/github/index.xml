@@ -7,7 +7,7 @@
     <description>GitHub</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 11:38:58 +0200</lastBuildDate>
     <image>
-      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
       <title>GitHub</title>
       <link>https://mickaellalande.github.io/tag/github/</link>
     </image>
@@ -32,12 +32,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;1-make-a-github-page&#34;&gt;1. Make a GitHub page&lt;/h2&gt;
-&lt;p&gt;You can directly follow the instructions on their page: &lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can directly follow the instructions on their page: 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pages.github.com/&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2MsN8gpT6jY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;The important is to create the repository &lt;code&gt;your-name.github.io&lt;/code&gt;, then we will update the content of this repository automatically with a 
 &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; Academic template.&lt;/p&gt;
 &lt;h2 id=&#34;2-install-academic-theme-and-hugo&#34;&gt;2. Install Academic Theme and Hugo&lt;/h2&gt;
-&lt;p&gt;Again you&amp;rsquo;ll find the steps on their website: &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&#34;&gt;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Again you&amp;rsquo;ll find the steps on their website: 
+&lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&amp;rsquo;t find a way to link it to the GitHub page later, so I recommend following the Git installation from the link above.
@@ -125,17 +127,17 @@ cd ..
 &lt;p&gt;you will be able to have an instant preview in your browser before uploading it to GitHub. If you don&amp;rsquo;t know any editing software, I can advise you 
 &lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom&lt;/a&gt; in combination with 
 &lt;a href=&#34;https://www.typora.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;typora&lt;/a&gt; which is convenient for directly editing the content with markdown.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Source Themes Academic 4.8.0 &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Source Themes Academic 4.8.0&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     

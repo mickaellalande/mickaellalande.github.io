@@ -7,7 +7,7 @@
     <description>Redouane Lguensat</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
       <title>Redouane Lguensat</title>
       <link>https://mickaellalande.github.io/author/redouane-lguensat/</link>
     </image>
@@ -18,7 +18,8 @@
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://mickaellalande.github.io/talk/master/agu/</guid>
       <description>&lt;p&gt;The variability of sea-level anomalies (SLA) observed by satellite altimeters combines two components: a forced component paced by the atmospheric variability, and an intrinsic and chaotic component emerging from the ocean itself.This work presents a deep convolutional neural network (ConvNet) trained to estimate the forced variability from SLA observations. The ConvNet is trained on the available OCCIPUT 50-member ensemble of global oceanic hindcasts. The use of global SLA fields to train the ConvNet being computationally impossible, representative regions of the ocean dynamics were carefully selected to allow training the ConvNet in an acceptable time.The algorithm yields an estimation of the forced model variability with a 2~cm RMS error and a temporal correlation of 0.9. We compare this performance to that of a bandpass filter proposed recently, and show that our ConvNet has the advantage to adapt its cutoff scales locally and identify larger-scale intrinsic patterns.The algorithm is applied to global altimetric observations, and shown to significantly increase the variance of winter SLA explained by the North Atlantic Oscillation (NAO) index.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&#34;&gt;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -28,7 +29,8 @@
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mickaellalande.github.io/talk/master/ostst/</guid>
       <description>&lt;p&gt;The variability of sea-level anomalies (SLA) observed by satellite altimeters combines two components: a forced component paced by the atmospheric variability, and an intrinsic and chaotic component emerging from the ocean itself. This paper presents a Machine Learning algorithm, trained on ensemble simulation outputs, to estimate the forced variability from SLA observations. Our algorithm estimates the forced model variability with a 2  cm RMS error and a temporal correlation of 0.9, a skill similar to that of a bandpass filter proposed recently, but with the additional ability to adapt its cutoff scales locally. The algorithm is applied to global altimetric observations, and shown to increase the variance of winter SLA explained by the variance of the North Atlantic Oscillation (NAO) index significantly.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03000854/&#34;&gt;https://hal.archives-ouvertes.fr/hal-03000854/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03000854/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hal.archives-ouvertes.fr/hal-03000854/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

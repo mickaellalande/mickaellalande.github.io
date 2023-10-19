@@ -7,7 +7,7 @@
     <description>Mickaël Lalande</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://mickaellalande.github.io/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_2.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
       <title>Mickaël Lalande</title>
       <link>https://mickaellalande.github.io/author/mickael-lalande/</link>
     </image>
@@ -38,17 +38,26 @@
 &lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Magnusson et al., 2019&lt;/a&gt;), compromising projections under climate change scenarios. As such, measuring and understanding snow cover heterogeneity, and representing it within process-based models represents one of the greatest ongoing challenges in atmospheric and hydrological sciences, which calls for innovative efforts to address this issue (
 &lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peters-Lidard et al., 2017&lt;/a&gt;). &lt;strong&gt;This project aims to improve our understanding of the spatial heterogeneity of the snow cover in Arctic regions and its representation within process models for more robust simulations of snow cover conditions and surface energy and carbon fluxes under current and future climates.&lt;/strong&gt; To that purpose, new SCF parameterizations will be developed, implemented, and tested in the CLASSIC LSM. Snow CCI products will be used for this purpose, in addition to in situ stations along a Subarctic-Arctic gradient that encompasses different bioclimatic zones. In a second step, an implementation of a two-layer snow scheme and blowing snow sublimation processes will be considered to improve the snowpack evolution in the Arctic region. The influence of these new developments will be assessed against the evolution of the Snow CCI variables for different land types and for the simulated surface energy and carbon fluxes. To achieve this work, collaboration with the French institutes: Institut Pierre Simon Laplace (IPSL) and Institut des Géosciences de l’Environnement (IGE) will be encouraged, in addition to contributing to the Snow CCI project by producing derived interpolated datasets to ease the comparison to climate models. CLASSIC will next be forced by an ensemble of climate projections from CMIP6, downscaled and bias-corrected to ERA5 to produce new improved land simulations over the whole Arctic region. Online (coupled) simulations within CanESM are envisaged through future collaboration with Environment and Climate Change Canada.&lt;/p&gt;
 &lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-&lt;p&gt;Busseau, B.-C., Royer, A., Roy, A., Langlois, A., &amp;amp; Domine, F. (2017). Analysis of snow-vegetation interactions in the low Arctic-Subarctic transition zone (northeastern Canada). Physical Geography, 38(2), 159–175. &lt;a href=&#34;https://doi.org/10.1080/02723646.2017.1283477&#34;&gt;https://doi.org/10.1080/02723646.2017.1283477&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Castaneda-Gonzalez, M., Poulin, A., Romero-Lopez, R., Arsenault, R., Brissette, F., &amp;amp; Turcotte, R. (2019). Sensitivity of seasonal flood simulations to regional climate model spatial resolution. Climate Dynamics, 53(7–8), 4337–4354. &lt;a href=&#34;https://doi.org/10.1007/s00382-019-04789-y&#34;&gt;https://doi.org/10.1007/s00382-019-04789-y&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., &amp;hellip; Woods, R. A. (2011). Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review. Water Resources Research, 47(7). &lt;a href=&#34;https://doi.org/10.1029/2011WR010745&#34;&gt;https://doi.org/10.1029/2011WR010745&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Déry, S. J., Crow, W. T., Stieglitz, M., &amp;amp; Wood, E. F. (2004). Modeling Snow-Cover Heterogeneity over Complex Arctic Terrain for Regional and Global Climate Models. Journal of Hydrometeorology, 5(1), 33–48. &lt;a href=&#34;http://www.jstor.org/stable/24908960&#34;&gt;http://www.jstor.org/stable/24908960&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Dornes, P. F., Pomeroy, J. W., Pietroniro, A., &amp;amp; Verseghy, D. L. (2008). Effects of Spatial Aggregation of Initial Conditions and Forcing Data on Modeling Snowmelt Using a Land Surface Scheme. Journal of Hydrometeorology, 9(4), 789–803. &lt;a href=&#34;https://doi.org/10.1175/2007JHM958.1&#34;&gt;https://doi.org/10.1175/2007JHM958.1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Busseau, B.-C., Royer, A., Roy, A., Langlois, A., &amp;amp; Domine, F. (2017). Analysis of snow-vegetation interactions in the low Arctic-Subarctic transition zone (northeastern Canada). Physical Geography, 38(2), 159–175. 
+&lt;a href=&#34;https://doi.org/10.1080/02723646.2017.1283477&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/02723646.2017.1283477&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Castaneda-Gonzalez, M., Poulin, A., Romero-Lopez, R., Arsenault, R., Brissette, F., &amp;amp; Turcotte, R. (2019). Sensitivity of seasonal flood simulations to regional climate model spatial resolution. Climate Dynamics, 53(7–8), 4337–4354. 
+&lt;a href=&#34;https://doi.org/10.1007/s00382-019-04789-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s00382-019-04789-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clark, M. P., Hendrikx, J., Slater, A. G., Kavetski, D., Anderson, B., Cullen, N. J., &amp;hellip; Woods, R. A. (2011). Representing spatial variability of snow water equivalent in hydrologic and land-surface models: A review. Water Resources Research, 47(7). 
+&lt;a href=&#34;https://doi.org/10.1029/2011WR010745&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2011WR010745&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Déry, S. J., Crow, W. T., Stieglitz, M., &amp;amp; Wood, E. F. (2004). Modeling Snow-Cover Heterogeneity over Complex Arctic Terrain for Regional and Global Climate Models. Journal of Hydrometeorology, 5(1), 33–48. 
+&lt;a href=&#34;http://www.jstor.org/stable/24908960&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.jstor.org/stable/24908960&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Dornes, P. F., Pomeroy, J. W., Pietroniro, A., &amp;amp; Verseghy, D. L. (2008). Effects of Spatial Aggregation of Initial Conditions and Forcing Data on Modeling Snowmelt Using a Land Surface Scheme. Journal of Hydrometeorology, 9(4), 789–803. 
+&lt;a href=&#34;https://doi.org/10.1175/2007JHM958.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1175/2007JHM958.1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Liston, G. E. (2004). Representing Subgrid Snow Cover Heterogeneities in Regional and Global Models. Journal of Climate, 17(6), 1381–1397. 
 &lt;a href=&#34;https://doi.org/10.1175/1520-0442%282004%29017%3c1381:RSSCHI%3e2.0.CO;2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1175/1520-0442(2004)017&amp;lt;1381:RSSCHI&amp;gt;2.0.CO;2&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Magnusson, J., Eisner, S., Huang, S., Lussana, C., Mazzotti, G., Essery, R., &amp;hellip; Beldring, S. (2019). Influence of Spatial Resolution on Snow Cover Dynamics for a Coastal and Mountainous Region at High Latitudes (Norway). Water Resources Research, 55(7), 5612–5630. &lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34;&gt;https://doi.org/10.1029/2019WR024925&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Mahoney, P. J., Liston, G. E., LaPoint, S., Gurarie, E., Mangipane, B., Wells, A. G., &amp;hellip; Prugh, L. R. (2018). Navigating snowscapes: scale-dependent responses of mountain sheep to snowpack properties. Ecological Applications, 28(7), 1715–1729. &lt;a href=&#34;https://doi.org/10.1002/eap.1773&#34;&gt;https://doi.org/10.1002/eap.1773&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Melton, J. R., Arora, V. K., Wisernig-Cojoc, E., Seiler, C., Fortier, M., Chan, E., &amp;amp; Teckentrup, L. (2020). CLASSIC v1.0: the open-source community successor to the Canadian Land Surface Scheme (CLASS) and the Canadian Terrestrial Ecosystem Model (CTEM) – Part 1: Model framework and site-level performance. Geoscientific Model Development, 13(6), 2825–2850. &lt;a href=&#34;https://doi.org/10.5194/gmd-13-2825-2020&#34;&gt;https://doi.org/10.5194/gmd-13-2825-2020&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., &amp;hellip; Woods, R. (2017). Scaling, similarity, and the fourth paradigm for hydrology. Hydrology and Earth System Sciences, 21(7), 3701–3713. &lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34;&gt;https://doi.org/10.5194/hess-21-3701-2017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Magnusson, J., Eisner, S., Huang, S., Lussana, C., Mazzotti, G., Essery, R., &amp;hellip; Beldring, S. (2019). Influence of Spatial Resolution on Snow Cover Dynamics for a Coastal and Mountainous Region at High Latitudes (Norway). Water Resources Research, 55(7), 5612–5630. 
+&lt;a href=&#34;https://doi.org/10.1029/2019WR024925&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2019WR024925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mahoney, P. J., Liston, G. E., LaPoint, S., Gurarie, E., Mangipane, B., Wells, A. G., &amp;hellip; Prugh, L. R. (2018). Navigating snowscapes: scale-dependent responses of mountain sheep to snowpack properties. Ecological Applications, 28(7), 1715–1729. 
+&lt;a href=&#34;https://doi.org/10.1002/eap.1773&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/eap.1773&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Melton, J. R., Arora, V. K., Wisernig-Cojoc, E., Seiler, C., Fortier, M., Chan, E., &amp;amp; Teckentrup, L. (2020). CLASSIC v1.0: the open-source community successor to the Canadian Land Surface Scheme (CLASS) and the Canadian Terrestrial Ecosystem Model (CTEM) – Part 1: Model framework and site-level performance. Geoscientific Model Development, 13(6), 2825–2850. 
+&lt;a href=&#34;https://doi.org/10.5194/gmd-13-2825-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-13-2825-2020&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Peters-Lidard, C. D., Clark, M., Samaniego, L., Verhoest, N. E. C., van Emmerik, T., Uijlenhoet, R., &amp;hellip; Woods, R. (2017). Scaling, similarity, and the fourth paradigm for hydrology. Hydrology and Earth System Sciences, 21(7), 3701–3713. 
+&lt;a href=&#34;https://doi.org/10.5194/hess-21-3701-2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/hess-21-3701-2017&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -60,10 +69,12 @@
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTqs2A1JLkUKQWCmYYcrjYcbNjAyIv1osUY4LvkSmZ7FLpwEBIf0dokCE69QLhFMWCwmdHOl5d_7X3E/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;the recording of the meeting here: &lt;a href=&#34;https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z&#34;&gt;https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;the recording of the meeting here: 
+&lt;a href=&#34;https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sharebox.lsce.ipsl.fr/index.php/s/RVi4DOkiolV5J8z&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;and the slides of the meeting here: &lt;a href=&#34;https://forge.ipsl.jussieu.fr/orchidee/wiki/GroupActivities/Meetings/Developer&#34;&gt;https://forge.ipsl.jussieu.fr/orchidee/wiki/GroupActivities/Meetings/Developer&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;and the slides of the meeting here: 
+&lt;a href=&#34;https://forge.ipsl.jussieu.fr/orchidee/wiki/GroupActivities/Meetings/Developer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forge.ipsl.jussieu.fr/orchidee/wiki/GroupActivities/Meetings/Developer&lt;/a&gt; .&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -89,7 +100,8 @@
 &lt;li&gt;Frédérique CHERUY (CR CNRS, examinatrice)&lt;/li&gt;
 &lt;li&gt;Invité : Martin MÉNÉGOZ (CR CNRS, co-encadrant)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Le manuscrit sera présent ici à partir de début 2024 : &lt;a href=&#34;https://www.theses.fr/s226411&#34;&gt;https://www.theses.fr/s226411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Le manuscrit sera présent ici à partir de début 2024 : 
+&lt;a href=&#34;https://www.theses.fr/s226411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theses.fr/s226411&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -108,24 +120,33 @@
 &lt;p&gt;Quelques liens utiles pour en savoir plus :&lt;/p&gt;
 &lt;p&gt;🌐 Modèles de climats&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/modeles-climat/&#34;&gt;https://www.encyclopedie-environnement.org/climat/modeles-climat/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&#34;&gt;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/modeles-climat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.encyclopedie-environnement.org/climat/modeles-climat/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/les-modeles-climatiques-sont-ils-fiables/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;📖 Résumé du rapport du GIEC du groupe I grand public en français&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_French.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;🏔️ Hautes Montagnes d’Asie&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&#34;&gt;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Retrouvez Thès&amp;rsquo;en Images également sur :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Facebook : &lt;a href=&#34;https://www.facebook.com/thesenimages&#34;&gt;https://www.facebook.com/thesenimages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Instagram : &lt;a href=&#34;https://www.instagram.com/thes.en.images/&#34;&gt;https://www.instagram.com/thes.en.images/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Youtube : &lt;a href=&#34;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&#34;&gt;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Linkedin : &lt;a href=&#34;https://www.linkedin.com/company/th%C3%A8s-en-images&#34;&gt;https://www.linkedin.com/company/th%C3%A8s-en-images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook : 
+&lt;a href=&#34;https://www.facebook.com/thesenimages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.facebook.com/thesenimages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram : 
+&lt;a href=&#34;https://www.instagram.com/thes.en.images/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.instagram.com/thes.en.images/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Youtube : 
+&lt;a href=&#34;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/channel/UCtNiS3G0-jXHiZhgHDEvIAw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linkedin : 
+&lt;a href=&#34;https://www.linkedin.com/company/th%C3%A8s-en-images&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/company/th%C3%A8s-en-images&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -155,7 +176,8 @@
       <guid>https://mickaellalande.github.io/talk/phd/egu/2022-scf-param/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTQmgApDi7N-0FyIOqZcEtiggiv7qK0JQAlFh3lBhZP5cs-oFfbJ0ixvll5bXBSAcagAGbfpc2izIQI/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;
-&lt;p&gt;Link: &lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU22/EGU22-615.html&#34;&gt;https://meetingorganizer.copernicus.org/EGU22/EGU22-615.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link: 
+&lt;a href=&#34;https://meetingorganizer.copernicus.org/EGU22/EGU22-615.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://meetingorganizer.copernicus.org/EGU22/EGU22-615.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -173,7 +195,8 @@
       <link>https://mickaellalande.github.io/post/phd/rechauffement-exacerbe-dans-les-hautes-montagnes-dasie/</link>
       <pubDate>Wed, 10 Nov 2021 13:33:23 +0100</pubDate>
       <guid>https://mickaellalande.github.io/post/phd/rechauffement-exacerbe-dans-les-hautes-montagnes-dasie/</guid>
-      <description>&lt;p&gt;Suite à la sortie de mon premier article scientifique sur le changement climatique en Himalaya et sur le Plateau Tibétain (en utilisant la dernière génération de modèles CMIP6), voici un résumé grand public publié par mon laboratoire : &lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Suite à la sortie de mon premier article scientifique sur le changement climatique en Himalaya et sur le Plateau Tibétain (en utilisant la dernière génération de modèles CMIP6), voici un résumé grand public publié par mon laboratoire : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Rechauffement-exacerbe-dans-les&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Article scientifique : 
 &lt;a href=&#34;https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/&#34;&gt;Climate change in the High Mountain Asia in CMIP6&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -191,11 +214,14 @@
 &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM_final.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPCC AR6 WGI SPM&lt;/a&gt;) et également FAQ 3.1 : 
 &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/faqs/IPCC_AR6_WGI_FAQs.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How do we Know Humans are Responsible for Climate Change?&lt;/a&gt;. En complément voici également une courte vidéo que j&amp;rsquo;ai faite sur le sujet : 
 &lt;a href=&#34;https://www.facebook.com/watch/?v=385473679707365&amp;amp;ref=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quelle est l&amp;rsquo;origine du réchauffement climatique actuel ?&lt;/a&gt;, et ma dernière interview réalisé sur ma chaîne YouTube 
-&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science et Climat&lt;/a&gt; sur la partie des climato-sceptiques : &lt;a href=&#34;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;amp;t=446s&#34;&gt;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;amp;t=446s&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science et Climat&lt;/a&gt; sur la partie des climato-sceptiques : 
+&lt;a href=&#34;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;amp;t=446s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=hcPrkgepTiI&amp;t=446s&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;🔎 Pour en savoir plus sur les changements passés, je vous conseille également l&amp;rsquo;excellente vidéo de 
-&lt;a href=&#34;https://www.youtube.com/c/ScienceEtonnante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science étonnante&lt;/a&gt; sur les cycles de Milankovitch qui explique principalement les passages de périodes glaciaires à interglaciaires des 800 000 dernières années : &lt;a href=&#34;https://www.youtube.com/watch?v=MXcY8Cf6hsI&#34;&gt;https://www.youtube.com/watch?v=MXcY8Cf6hsI&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/c/ScienceEtonnante&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science étonnante&lt;/a&gt; sur les cycles de Milankovitch qui explique principalement les passages de périodes glaciaires à interglaciaires des 800 000 dernières années : 
+&lt;a href=&#34;https://www.youtube.com/watch?v=MXcY8Cf6hsI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=MXcY8Cf6hsI&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;⌛ Et puis pour remonter encore plus loin dans le temps, n&amp;rsquo;hésitez pas à regarder également la vidéo de 
-&lt;a href=&#34;https://www.youtube.com/c/Pal%C3%A9oJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paleo-J&lt;/a&gt; sur l&amp;rsquo;évolution du climat jusqu&amp;rsquo;à des périodes de plusieurs dizaines de millions d&amp;rsquo;années dans le passé : &lt;a href=&#34;https://www.youtube.com/watch?v=We2a1wZRveo&amp;amp;t=1916s&#34;&gt;https://www.youtube.com/watch?v=We2a1wZRveo&amp;amp;t=1916s&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;https://www.youtube.com/c/Pal%C3%A9oJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paleo-J&lt;/a&gt; sur l&amp;rsquo;évolution du climat jusqu&amp;rsquo;à des périodes de plusieurs dizaines de millions d&amp;rsquo;années dans le passé : 
+&lt;a href=&#34;https://www.youtube.com/watch?v=We2a1wZRveo&amp;amp;t=1916s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=We2a1wZRveo&amp;t=1916s&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;▶️ Pour d&amp;rsquo;autres vidéos Flash sur pleins d&amp;rsquo;autres sujets tout aussi passionnant, je vous conseille d&amp;rsquo;aller voir la 
 &lt;a href=&#34;https://www.youtube.com/playlist?list=PLQj84RQkFU-OKOnsi_ZpPpr8cDQTqK0GE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Série Flash&lt;/a&gt; de l&amp;rsquo;OSUG sur YouTube. Pensez à vous abonner à leur chaîne et les suivre sur 
 &lt;a href=&#34;https://twitter.com/OSUG_fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt; et 
@@ -206,9 +232,12 @@
 &lt;a href=&#34;https://www.ige-grenoble.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut des Géosciences de l&amp;rsquo;Environnement&lt;/a&gt; ! 😀&lt;/p&gt;
 &lt;p&gt;Publications également sur :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Twitter : &lt;a href=&#34;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&#34;&gt;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook : &lt;a href=&#34;https://fb.watch/9ze4ev_A2x/&#34;&gt;https://fb.watch/9ze4ev_A2x/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;IGE : &lt;a href=&#34;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&#34;&gt;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter : 
+&lt;a href=&#34;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/OSUG_fr/status/1456607322470498307?s=20&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook : 
+&lt;a href=&#34;https://fb.watch/9ze4ev_A2x/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fb.watch/9ze4ev_A2x/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IGE : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Deux-videos-sur-le-climat-l&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -229,7 +258,8 @@
 &lt;p&gt;&lt;strong&gt;Click on&lt;/strong&gt; the map bellow to access the interactive page ⤵️&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;HMASR_validation_with_TPDC_SD_stations.html&#34;&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;All scripts and data can be found here: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All scripts and data can be found here: 
+&lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -238,7 +268,8 @@
       <link>https://mickaellalande.github.io/post/phd/exacerbated-warming-in-the-high-mountain-asia/</link>
       <pubDate>Wed, 03 Nov 2021 13:33:23 +0100</pubDate>
       <guid>https://mickaellalande.github.io/post/phd/exacerbated-warming-in-the-high-mountain-asia/</guid>
-      <description>&lt;p&gt;Following the release of my first scientific paper on climate change in the Himalayas and the Tibetan Plateau (using the latest generation of CMIP6 models), here is a general public summary published by my laboratory: &lt;a href=&#34;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&#34;&gt;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Following the release of my first scientific paper on climate change in the Himalayas and the Tibetan Plateau (using the latest generation of CMIP6 models), here is a general public summary published by my laboratory: 
+&lt;a href=&#34;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hma.osug.fr/Exacerbated-warming-in-the-High-Mountain-Asia&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Scientific article: 
 &lt;a href=&#34;https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/&#34;&gt;Climate change in the High Mountain Asia in CMIP6&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -250,70 +281,112 @@
       <pubDate>Sat, 30 Oct 2021 11:00:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/post/science-et-climat/interview-giec/</guid>
       <description>&lt;p&gt;Où en est-on du #réchauffementclimatique 🌡 ? Interview de Gerhard Krinner auteur du dernier rapport du #GIEC !&lt;/p&gt;
-&lt;p&gt;Un grand merci à Gerhard Krinner pour avoir accepté cette interview et également à l’IGE (&lt;a href=&#34;https://www.ige-grenoble.fr/&#34;&gt;https://www.ige-grenoble.fr/&lt;/a&gt;) et l’OSUG (&lt;a href=&#34;https://www.osug.fr/&#34;&gt;https://www.osug.fr/&lt;/a&gt;) pour l’aide à la réalisation de cette interview !&lt;/p&gt;
+&lt;p&gt;Un grand merci à Gerhard Krinner pour avoir accepté cette interview et également à l’IGE (
+&lt;a href=&#34;https://www.ige-grenoble.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/&lt;/a&gt;) et l’OSUG (
+&lt;a href=&#34;https://www.osug.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.osug.fr/&lt;/a&gt;) pour l’aide à la réalisation de cette interview !&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Rapport du GIEC (IPCC AR6 WGI): &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Atlas : &lt;a href=&#34;https://interactive-atlas.ipcc.ch/&#34;&gt;https://interactive-atlas.ipcc.ch/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rapport du GIEC (IPCC AR6 WGI): 
+&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Atlas : 
+&lt;a href=&#34;https://interactive-atlas.ipcc.ch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://interactive-atlas.ipcc.ch/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hcPrkgepTiI&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Chaîne Science et Climat : &lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Vidéo d’analyse de quelques figures de ce dernier rapport : &lt;a href=&#34;https://youtu.be/behuh6tbBZ8&#34;&gt;https://youtu.be/behuh6tbBZ8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chaîne Science et Climat : 
+&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vidéo d’analyse de quelques figures de ce dernier rapport : 
+&lt;a href=&#34;https://youtu.be/behuh6tbBZ8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/behuh6tbBZ8&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Pour en savoir plus :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Protocole de Kyoto : &lt;a href=&#34;https://fr.wikipedia.org/wiki/Protocole_de_Kyoto&#34;&gt;https://fr.wikipedia.org/wiki/Protocole_de_Kyoto&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Protocole de Montréal : &lt;a href=&#34;https://fr.wikipedia.org/wiki/Protocole_de_Montr%C3%A9al&#34;&gt;https://fr.wikipedia.org/wiki/Protocole_de_Montr%C3%A9al&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Accord de Paris : &lt;a href=&#34;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/l-accord-de-paris&#34;&gt;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/l-accord-de-paris&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;NDCs: &lt;a href=&#34;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/nationally-determined-contributions-ndcs/contributions-determinees-au-niveau-national-ndcs&#34;&gt;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/nationally-determined-contributions-ndcs/contributions-determinees-au-niveau-national-ndcs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Connaissez-vous votre empreinte sur le climat ? : &lt;a href=&#34;https://nosgestesclimat.fr/&#34;&gt;https://nosgestesclimat.fr/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Prix Nobel Syukuro Manabe : &lt;a href=&#34;https://twitter.com/NobelPrize/status/1445325550222983174&#34;&gt;https://twitter.com/NobelPrize/status/1445325550222983174&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Protocole de Kyoto : 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Protocole_de_Kyoto&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fr.wikipedia.org/wiki/Protocole_de_Kyoto&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Protocole de Montréal : 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/Protocole_de_Montr%C3%A9al&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fr.wikipedia.org/wiki/Protocole_de_Montr%C3%A9al&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Accord de Paris : 
+&lt;a href=&#34;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/l-accord-de-paris&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/l-accord-de-paris&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NDCs: 
+&lt;a href=&#34;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/nationally-determined-contributions-ndcs/contributions-determinees-au-niveau-national-ndcs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://unfccc.int/fr/processus-et-reunions/l-accord-de-paris/nationally-determined-contributions-ndcs/contributions-determinees-au-niveau-national-ndcs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Connaissez-vous votre empreinte sur le climat ? : 
+&lt;a href=&#34;https://nosgestesclimat.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nosgestesclimat.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Prix Nobel Syukuro Manabe : 
+&lt;a href=&#34;https://twitter.com/NobelPrize/status/1445325550222983174&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/NobelPrize/status/1445325550222983174&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Articles :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Synthèse et analyse du nouveau rapport du GIEC : &lt;a href=&#34;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&#34;&gt;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Climat : peut-on vraiment faire confiance au GIEC ? :  &lt;a href=&#34;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&#34;&gt;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Le rapport du GIEC en 18 graphiques : &lt;a href=&#34;https://www.lemonde.fr/blog/huet/2021/08/09/le-rapport-du-giec-en-18-graphiques/&#34;&gt;https://www.lemonde.fr/blog/huet/2021/08/09/le-rapport-du-giec-en-18-graphiques/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Synthèse et analyse du nouveau rapport du GIEC : 
+&lt;a href=&#34;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Climat : peut-on vraiment faire confiance au GIEC ? :  
+&lt;a href=&#34;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Le rapport du GIEC en 18 graphiques : 
+&lt;a href=&#34;https://www.lemonde.fr/blog/huet/2021/08/09/le-rapport-du-giec-en-18-graphiques/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.lemonde.fr/blog/huet/2021/08/09/le-rapport-du-giec-en-18-graphiques/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Podcasts:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Faire sa part : l&amp;rsquo;impact de nos comportements individuels : &lt;a href=&#34;https://podcast.ausha.co/time-to-shift/8-faire-sa-part-l-impact-de-nos-comportements-individuels&#34;&gt;https://podcast.ausha.co/time-to-shift/8-faire-sa-part-l-impact-de-nos-comportements-individuels&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Au coeur de la machine climatique : retour sur le 6ème rapport du GIEC Tome ⅓ : &lt;a href=&#34;https://podcast.ausha.co/time-to-shift/au-coeur-de-la-machine-climatique-retour-sur-le-6eme-rapport-du-giec-tome-1-3&#34;&gt;https://podcast.ausha.co/time-to-shift/au-coeur-de-la-machine-climatique-retour-sur-le-6eme-rapport-du-giec-tome-1-3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dérive climatique et responsabilité : &lt;a href=&#34;https://www.presages.fr/blog/2021/valerie-masson-delmotte&#34;&gt;https://www.presages.fr/blog/2021/valerie-masson-delmotte&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GIEC : un nouveau rapport sur le climat qui fait pschitt ? : &lt;a href=&#34;https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-du-lundi-30-aout-2021&#34;&gt;https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-du-lundi-30-aout-2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Faire sa part : l&amp;rsquo;impact de nos comportements individuels : 
+&lt;a href=&#34;https://podcast.ausha.co/time-to-shift/8-faire-sa-part-l-impact-de-nos-comportements-individuels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://podcast.ausha.co/time-to-shift/8-faire-sa-part-l-impact-de-nos-comportements-individuels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Au coeur de la machine climatique : retour sur le 6ème rapport du GIEC Tome ⅓ : 
+&lt;a href=&#34;https://podcast.ausha.co/time-to-shift/au-coeur-de-la-machine-climatique-retour-sur-le-6eme-rapport-du-giec-tome-1-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://podcast.ausha.co/time-to-shift/au-coeur-de-la-machine-climatique-retour-sur-le-6eme-rapport-du-giec-tome-1-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Dérive climatique et responsabilité : 
+&lt;a href=&#34;https://www.presages.fr/blog/2021/valerie-masson-delmotte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.presages.fr/blog/2021/valerie-masson-delmotte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GIEC : un nouveau rapport sur le climat qui fait pschitt ? : 
+&lt;a href=&#34;https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-du-lundi-30-aout-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-du-lundi-30-aout-2021&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Vidéos :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Comment le réchauffement climatique va bouleverser l’humanité (Le Monde) : &lt;a href=&#34;https://youtu.be/8nzRXxPnlPQ&#34;&gt;https://youtu.be/8nzRXxPnlPQ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Comprendre le GIEC et ses rapports (Le Réveilleur) : &lt;a href=&#34;https://youtu.be/C_UTlTiVQ_0&#34;&gt;https://youtu.be/C_UTlTiVQ_0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Le rapport qui annonce l&amp;rsquo;apocalypse ? Valérie Masson-Delmotte et Pierre Larrouturou (Thinkerview) : &lt;a href=&#34;https://youtu.be/9X4bV9fYkfs&#34;&gt;https://youtu.be/9X4bV9fYkfs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Comment le réchauffement climatique va bouleverser l’humanité (Le Monde) : 
+&lt;a href=&#34;https://youtu.be/8nzRXxPnlPQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/8nzRXxPnlPQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Comprendre le GIEC et ses rapports (Le Réveilleur) : 
+&lt;a href=&#34;https://youtu.be/C_UTlTiVQ_0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/C_UTlTiVQ_0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Le rapport qui annonce l&amp;rsquo;apocalypse ? Valérie Masson-Delmotte et Pierre Larrouturou (Thinkerview) : 
+&lt;a href=&#34;https://youtu.be/9X4bV9fYkfs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/9X4bV9fYkfs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sources :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Tweet CSA : &lt;a href=&#34;https://twitter.com/valmasdel/status/1412445359968854022?s=09&#34;&gt;https://twitter.com/valmasdel/status/1412445359968854022?s=09&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ADEME : &lt;a href=&#34;https://librairie.ademe.fr/cadic/1440/enquete-representations-sociales-changement-climatique-20-vague.pdf&#34;&gt;https://librairie.ademe.fr/cadic/1440/enquete-representations-sociales-changement-climatique-20-vague.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Petit et al. (1999): &lt;a href=&#34;https://www.nature.com/articles/20859&#34;&gt;https://www.nature.com/articles/20859&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Premier rapport du GIEC : &lt;a href=&#34;https://www.ipcc.ch/report/climate-change-the-ipcc-1990-and-1992-assessments/&#34;&gt;https://www.ipcc.ch/report/climate-change-the-ipcc-1990-and-1992-assessments/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Canicule 2003 : &lt;a href=&#34;https://www.ouest-france.fr/meteo/canicule/recit-canicule-en-2003-la-france-suffoquait-et-comptait-ses-morts-5899028&#34;&gt;https://www.ouest-france.fr/meteo/canicule/recit-canicule-en-2003-la-france-suffoquait-et-comptait-ses-morts-5899028&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Regional fact sheet - Europe: &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/factsheets/IPCC_AR6_WGI_Regional_Fact_Sheet_Europe.pdf&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/downloads/factsheets/IPCC_AR6_WGI_Regional_Fact_Sheet_Europe.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;FCCC/PA/CMA/2021/8: &lt;a href=&#34;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&#34;&gt;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Context for interpreting equilibrium climate sensitivity and transient climate response from the CMIP6 Earth system models:  &lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.aba1981#F1&#34;&gt;https://www.science.org/doi/10.1126/sciadv.aba1981#F1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tweet CSA : 
+&lt;a href=&#34;https://twitter.com/valmasdel/status/1412445359968854022?s=09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/valmasdel/status/1412445359968854022?s=09&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ADEME : 
+&lt;a href=&#34;https://librairie.ademe.fr/cadic/1440/enquete-representations-sociales-changement-climatique-20-vague.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://librairie.ademe.fr/cadic/1440/enquete-representations-sociales-changement-climatique-20-vague.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Petit et al. (1999): 
+&lt;a href=&#34;https://www.nature.com/articles/20859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/20859&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Premier rapport du GIEC : 
+&lt;a href=&#34;https://www.ipcc.ch/report/climate-change-the-ipcc-1990-and-1992-assessments/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/report/climate-change-the-ipcc-1990-and-1992-assessments/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Canicule 2003 : 
+&lt;a href=&#34;https://www.ouest-france.fr/meteo/canicule/recit-canicule-en-2003-la-france-suffoquait-et-comptait-ses-morts-5899028&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ouest-france.fr/meteo/canicule/recit-canicule-en-2003-la-france-suffoquait-et-comptait-ses-morts-5899028&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Regional fact sheet - Europe: 
+&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/downloads/factsheets/IPCC_AR6_WGI_Regional_Fact_Sheet_Europe.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/downloads/factsheets/IPCC_AR6_WGI_Regional_Fact_Sheet_Europe.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;FCCC/PA/CMA/2021/8: 
+&lt;a href=&#34;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Context for interpreting equilibrium climate sensitivity and transient climate response from the CMIP6 Earth system models:  
+&lt;a href=&#34;https://www.science.org/doi/10.1126/sciadv.aba1981#F1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.science.org/doi/10.1126/sciadv.aba1981#F1&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Crédits :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;How Ice Ages Happen: The Milankovitch Cycles (It&amp;rsquo;s Just Astronomical!): &lt;a href=&#34;https://youtu.be/iA788usYNWA&#34;&gt;https://youtu.be/iA788usYNWA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;PALEOMAP: &lt;a href=&#34;https://www.researchgate.net/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene&#34;&gt;https://www.researchgate.net/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;La modélisation du climat (IPSL): &lt;a href=&#34;https://youtu.be/iP7hY9mgMHc&#34;&gt;https://youtu.be/iP7hY9mgMHc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Gulf Stream (NASA) : &lt;a href=&#34;https://svs.gsfc.nasa.gov/3913&#34;&gt;https://svs.gsfc.nasa.gov/3913&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Antarctique (NASA) : &lt;a href=&#34;https://images.nasa.gov/details-145_NoTurningBack&#34;&gt;https://images.nasa.gov/details-145_NoTurningBack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bedmap2 (Fretwell et al., 2013; Fig. 9): &lt;a href=&#34;https://tc.copernicus.org/articles/7/375/2013/&#34;&gt;https://tc.copernicus.org/articles/7/375/2013/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Atmospheric CO₂ concentration: &lt;a href=&#34;https://ourworldindata.org/grapher/co2-concentration-long-term&#34;&gt;https://ourworldindata.org/grapher/co2-concentration-long-term&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Average temperature anomaly: &lt;a href=&#34;https://ourworldindata.org/grapher/temperature-anomaly?time=earliest..2001&amp;amp;country=~Global&#34;&gt;https://ourworldindata.org/grapher/temperature-anomaly?time=earliest..2001&amp;amp;country=~Global&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How Ice Ages Happen: The Milankovitch Cycles (It&amp;rsquo;s Just Astronomical!): 
+&lt;a href=&#34;https://youtu.be/iA788usYNWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/iA788usYNWA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PALEOMAP: 
+&lt;a href=&#34;https://www.researchgate.net/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;La modélisation du climat (IPSL): 
+&lt;a href=&#34;https://youtu.be/iP7hY9mgMHc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/iP7hY9mgMHc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gulf Stream (NASA) : 
+&lt;a href=&#34;https://svs.gsfc.nasa.gov/3913&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://svs.gsfc.nasa.gov/3913&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Antarctique (NASA) : 
+&lt;a href=&#34;https://images.nasa.gov/details-145_NoTurningBack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://images.nasa.gov/details-145_NoTurningBack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bedmap2 (Fretwell et al., 2013; Fig. 9): 
+&lt;a href=&#34;https://tc.copernicus.org/articles/7/375/2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tc.copernicus.org/articles/7/375/2013/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Atmospheric CO₂ concentration: 
+&lt;a href=&#34;https://ourworldindata.org/grapher/co2-concentration-long-term&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ourworldindata.org/grapher/co2-concentration-long-term&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Average temperature anomaly: 
+&lt;a href=&#34;https://ourworldindata.org/grapher/temperature-anomaly?time=earliest..2001&amp;amp;country=~Global&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ourworldindata.org/grapher/temperature-anomaly?time=earliest..2001&amp;country=~Global&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Retrouvez-nous aussi sur :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Facebook : &lt;a href=&#34;https://www.facebook.com/scienceetclimat&#34;&gt;https://www.facebook.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter : &lt;a href=&#34;https://twitter.com/scienceetclimat&#34;&gt;https://twitter.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Instagram : &lt;a href=&#34;https://www.instagram.com/scienceetclimat/&#34;&gt;https://www.instagram.com/scienceetclimat/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tiktok : &lt;a href=&#34;https://www.tiktok.com/@scienceetclimat&#34;&gt;https://www.tiktok.com/@scienceetclimat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook : 
+&lt;a href=&#34;https://www.facebook.com/scienceetclimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.facebook.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter : 
+&lt;a href=&#34;https://twitter.com/scienceetclimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram : 
+&lt;a href=&#34;https://www.instagram.com/scienceetclimat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.instagram.com/scienceetclimat/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tiktok : 
+&lt;a href=&#34;https://www.tiktok.com/@scienceetclimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tiktok.com/@scienceetclimat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sous-titres : Mickaël Lalande / Clara Burgard&lt;/p&gt;
 </description>
@@ -328,7 +401,8 @@
 &lt;a href=&#34;https://www.linfodurable.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Info Durable&lt;/a&gt; pour cet article sur ma chaîne 
 &lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science et Climat&lt;/a&gt; !&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;linfodurable.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Retrouvez l&amp;rsquo;article complet ici : &lt;a href=&#34;https://www.linfodurable.fr/culture/climat-cinq-chaines-youtube-decouvrir-ou-revoir-29231&#34;&gt;https://www.linfodurable.fr/culture/climat-cinq-chaines-youtube-decouvrir-ou-revoir-29231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Retrouvez l&amp;rsquo;article complet ici : 
+&lt;a href=&#34;https://www.linfodurable.fr/culture/climat-cinq-chaines-youtube-decouvrir-ou-revoir-29231&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linfodurable.fr/culture/climat-cinq-chaines-youtube-decouvrir-ou-revoir-29231&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Et puis n&amp;rsquo;hésitez pas à découvrir la chaîne sur les différents réseaux : 
 &lt;a href=&#34;https://mickaellalande.github.io/project/science-et-climat/&#34;&gt;Science et Climat&lt;/a&gt; !&lt;/p&gt;
 </description>
@@ -339,43 +413,63 @@
       <link>https://mickaellalande.github.io/post/science-et-climat/rapport-giec/</link>
       <pubDate>Sat, 16 Oct 2021 12:00:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/post/science-et-climat/rapport-giec/</guid>
-      <description>&lt;p&gt;Compilation de vidéos TikTok d’analyse de 8 figures du résumé pour décideur (summary for polymakers) de la première partie du dernier rapport du GIEC sur le bases physiques du réchauffement climatique (IPCC AR6 WGI SPM : &lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/&lt;/a&gt;)&lt;/p&gt;
+      <description>&lt;p&gt;Compilation de vidéos TikTok d’analyse de 8 figures du résumé pour décideur (summary for polymakers) de la première partie du dernier rapport du GIEC sur le bases physiques du réchauffement climatique (IPCC AR6 WGI SPM : 
+&lt;a href=&#34;https://www.ipcc.ch/report/ar6/wg1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/report/ar6/wg1/&lt;/a&gt;)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Instagram : &lt;a href=&#34;https://www.instagram.com/scienceetclimat/&#34;&gt;https://www.instagram.com/scienceetclimat/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Tiktok : &lt;a href=&#34;https://www.tiktok.com/@scienceetclimat&#34;&gt;https://www.tiktok.com/@scienceetclimat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Facebook : &lt;a href=&#34;https://www.facebook.com/scienceetclimat&#34;&gt;https://www.facebook.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Twitter : &lt;a href=&#34;https://twitter.com/scienceetclimat&#34;&gt;https://twitter.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Instagram : 
+&lt;a href=&#34;https://www.instagram.com/scienceetclimat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.instagram.com/scienceetclimat/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tiktok : 
+&lt;a href=&#34;https://www.tiktok.com/@scienceetclimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tiktok.com/@scienceetclimat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Facebook : 
+&lt;a href=&#34;https://www.facebook.com/scienceetclimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.facebook.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter : 
+&lt;a href=&#34;https://twitter.com/scienceetclimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/scienceetclimat&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/behuh6tbBZ8&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Chaîne Science et Climat : &lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chaîne Science et Climat : 
+&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Pour en savoir plus :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Connaissez-vous votre empreinte sur le climat ? : &lt;a href=&#34;https://nosgestesclimat.fr/&#34;&gt;https://nosgestesclimat.fr/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Les infographies Bon Pote : &lt;a href=&#34;https://bonpote.com/les-infographies-bon-pote/&#34;&gt;https://bonpote.com/les-infographies-bon-pote/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Connaissez-vous votre empreinte sur le climat ? : 
+&lt;a href=&#34;https://nosgestesclimat.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://nosgestesclimat.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Les infographies Bon Pote : 
+&lt;a href=&#34;https://bonpote.com/les-infographies-bon-pote/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/les-infographies-bon-pote/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Articles&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Synthèse et analyse du nouveau rapport du GIEC (Le Bon Pote) : &lt;a href=&#34;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&#34;&gt;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Climat : peut-on vraiment faire confiance au GIEC ? (Le Bon Pote) :  &lt;a href=&#34;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&#34;&gt;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Synthèse et analyse du nouveau rapport du GIEC (Le Bon Pote) : 
+&lt;a href=&#34;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/synthese-et-analyse-du-nouveau-rapport-du-giec/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Climat : peut-on vraiment faire confiance au GIEC ? (Le Bon Pote) :  
+&lt;a href=&#34;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/climat-peut-on-vraiment-faire-confiance-au-giec/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Vidéos :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Comprendre le GIEC et ses rapports (Le Réveilleur) : &lt;a href=&#34;https://youtu.be/C_UTlTiVQ_0&#34;&gt;https://youtu.be/C_UTlTiVQ_0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Comment le réchauffement climatique va bouleverser l’humanité (Le Monde) : &lt;a href=&#34;https://youtu.be/8nzRXxPnlPQ&#34;&gt;https://youtu.be/8nzRXxPnlPQ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How Ice Ages Happen: The Milankovitch Cycles (It&amp;rsquo;s Just Astronomical!): &lt;a href=&#34;https://youtu.be/iA788usYNWA&#34;&gt;https://youtu.be/iA788usYNWA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Comprendre le GIEC et ses rapports (Le Réveilleur) : 
+&lt;a href=&#34;https://youtu.be/C_UTlTiVQ_0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/C_UTlTiVQ_0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Comment le réchauffement climatique va bouleverser l’humanité (Le Monde) : 
+&lt;a href=&#34;https://youtu.be/8nzRXxPnlPQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/8nzRXxPnlPQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How Ice Ages Happen: The Milankovitch Cycles (It&amp;rsquo;s Just Astronomical!): 
+&lt;a href=&#34;https://youtu.be/iA788usYNWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/iA788usYNWA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sources :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Petit et al. (1999): &lt;a href=&#34;https://www.nature.com/articles/20859&#34;&gt;https://www.nature.com/articles/20859&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Riahi et al. (2017): &lt;a href=&#34;https://doi.org/10.1016/j.gloenvcha.2016.05.009&#34;&gt;https://doi.org/10.1016/j.gloenvcha.2016.05.009&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CAT: &lt;a href=&#34;https://climateactiontracker.org/global/cat-emissions-gaps/&#34;&gt;https://climateactiontracker.org/global/cat-emissions-gaps/&lt;/a&gt; (date accessed: 16/10/2021)&lt;/li&gt;
-&lt;li&gt;FCCC/PA/CMA/2021/8: &lt;a href=&#34;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&#34;&gt;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;L’empreinte carbone des Français reste stable : &lt;a href=&#34;https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-204-l-empreinte-carbone-des-francais-reste-%20stable-janvier2020.pdf&#34;&gt;https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-204-l-empreinte-carbone-des-francais-reste-%20stable-janvier2020.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Petit et al. (1999): 
+&lt;a href=&#34;https://www.nature.com/articles/20859&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/20859&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Riahi et al. (2017): 
+&lt;a href=&#34;https://doi.org/10.1016/j.gloenvcha.2016.05.009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.gloenvcha.2016.05.009&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CAT: 
+&lt;a href=&#34;https://climateactiontracker.org/global/cat-emissions-gaps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://climateactiontracker.org/global/cat-emissions-gaps/&lt;/a&gt; (date accessed: 16/10/2021)&lt;/li&gt;
+&lt;li&gt;FCCC/PA/CMA/2021/8: 
+&lt;a href=&#34;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://unfccc.int/sites/default/files/resource/cma2021_08_adv_1.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;L’empreinte carbone des Français reste stable : 
+&lt;a href=&#34;https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-204-l-empreinte-carbone-des-francais-reste-%20stable-janvier2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.statistiques.developpement-durable.gouv.fr/sites/default/files/2020-01/datalab-essentiel-204-l-empreinte-carbone-des-francais-reste-%20stable-janvier2020.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Crédits :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;La modélisation du climat (IPSL): &lt;a href=&#34;https://youtu.be/iP7hY9mgMHc&#34;&gt;https://youtu.be/iP7hY9mgMHc&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Simulated clouds and aerosols (NASA&amp;rsquo;s Scientific Visualization Studio): &lt;a href=&#34;https://climate.nasa.gov/climate_resources/146/video-simulated-clouds-and-aerosols&#34;&gt;https://climate.nasa.gov/climate_resources/146/video-simulated-clouds-and-aerosols&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;La modélisation du climat (IPSL): 
+&lt;a href=&#34;https://youtu.be/iP7hY9mgMHc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/iP7hY9mgMHc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Simulated clouds and aerosols (NASA&amp;rsquo;s Scientific Visualization Studio): 
+&lt;a href=&#34;https://climate.nasa.gov/climate_resources/146/video-simulated-clouds-and-aerosols&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://climate.nasa.gov/climate_resources/146/video-simulated-clouds-and-aerosols&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -386,7 +480,8 @@
       <pubDate>Thu, 30 Sep 2021 12:00:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/post/media/instagram/chercheurs-de-montagnes/</guid>
       <description>&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-permalink=&#34;https://www.instagram.com/p/CUdGskSNqA5/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; data-instgrm-version=&#34;14&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:16px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/CUdGskSNqA5/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&#34; target=&#34;_blank&#34;&gt; &lt;div style=&#34; display: flex; flex-direction: row; align-items: center;&#34;&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 19% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display:block; height:50px; margin:0 auto 12px; width:50px;&#34;&gt;&lt;svg width=&#34;50px&#34; height=&#34;50px&#34; viewBox=&#34;0 0 60 60&#34; version=&#34;1.1&#34; xmlns=&#34;https://www.w3.org/2000/svg&#34; xmlns:xlink=&#34;https://www.w3.org/1999/xlink&#34;&gt;&lt;g stroke=&#34;none&#34; stroke-width=&#34;1&#34; fill=&#34;none&#34; fill-rule=&#34;evenodd&#34;&gt;&lt;g transform=&#34;translate(-511.000000, -20.000000)&#34; fill=&#34;#000000&#34;&gt;&lt;g&gt;&lt;path d=&#34;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&#34;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&#34;padding-top: 8px;&#34;&gt; &lt;div style=&#34; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&#34;&gt;Voir cette publication sur Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;padding: 12.5% 0;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&#34;&gt;&lt;div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: 8px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&#34;margin-left: auto;&#34;&gt; &lt;div style=&#34; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&#34;&gt;&lt;/div&gt; &lt;div style=&#34; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&#34;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&#34;&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&#34;&gt;&lt;/div&gt; &lt;div style=&#34; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/CUdGskSNqA5/?utm_source=ig_embed&amp;amp;utm_campaign=loading&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;Une publication partagée par Chercheur.e.s de montagnes (@chercheur.e.s_de_montagnes)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async src=&#34;//www.instagram.com/embed.js&#34;&gt;&lt;/script&gt;
-&lt;p&gt;Merci au compte Instagram &lt;code&gt;Chercheur.e.s de montagnes&lt;/code&gt; pour ce portrait ! N&amp;rsquo;hésitez pas à suivre leurs compte : &lt;a href=&#34;https://www.instagram.com/chercheur.e.s_de_montagnes/&#34;&gt;https://www.instagram.com/chercheur.e.s_de_montagnes/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Merci au compte Instagram &lt;code&gt;Chercheur.e.s de montagnes&lt;/code&gt; pour ce portrait ! N&amp;rsquo;hésitez pas à suivre leurs compte : 
+&lt;a href=&#34;https://www.instagram.com/chercheur.e.s_de_montagnes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.instagram.com/chercheur.e.s_de_montagnes/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -426,7 +521,8 @@
 &lt;p&gt;The lack of snowpack observations in mountainous regions is currently a major limitation to set up realistic SCF parameterizations. Improving SCF parameterizations is one of the important developments that need to be considered when developing the sub-grid parameterizations, which are required to improve the GCMs over mountainous areas.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: High Mountain Asia, Mountain Areas, General Circulation Models, CMIP6, Snow Cover, Parameterizations&lt;/p&gt;
-&lt;p&gt;More details and PhD manuscript at: &lt;a href=&#34;https://www.theses.fr/s226411&#34;&gt;https://www.theses.fr/s226411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More details and PhD manuscript at: 
+&lt;a href=&#34;https://www.theses.fr/s226411&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.theses.fr/s226411&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -436,7 +532,8 @@
       <pubDate>Fri, 03 Sep 2021 13:42:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/project/science-et-climat/</guid>
       <description>&lt;p&gt;&lt;em&gt;Science et Climat&lt;/em&gt; is a French YouTube channel (English subtitles available) that intends to popularize climate related topics to better apprehend the issues raised by global warming.&lt;/p&gt;
-&lt;p&gt;Link: &lt;a href=&#34;https://www.youtube.com/c/ScienceetClimat&#34;&gt;https://www.youtube.com/c/ScienceetClimat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link: 
+&lt;a href=&#34;https://www.youtube.com/c/ScienceetClimat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/c/ScienceetClimat&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -456,57 +553,101 @@
       <guid>https://mickaellalande.github.io/post/science-et-climat/niveau-des-mers/</guid>
       <description>&lt;p&gt;Alors je pense que vous avez tous déjà entendu parler que le niveau des mers est en train de monter, c&amp;rsquo;est ce qu&amp;rsquo;on entend assez régulièrement dans les médias avec des hausses allant de quelques dizaines de centimètres plusieurs mètres, dont on sait d&amp;rsquo;ailleurs plus vraiment à quoi s&amp;rsquo;en tenir, et qui menace nos côtes, certaines grandes villes et impacte déjà certaines îles ! Mais alors qu&amp;rsquo;est-ce qui est vraiment à l’origine de tout ça ? On sent bien qu’avec le réchauffement climatique, on a d’un côté les glaciers qui fondent, les calottes ou encore la glace de mer mais alors qu’est-ce qui contribue réellement à cette élévation, de quelle manière le niveau des mers a varié par le passé et à quoi est-ce que l’on peut s’attendre dans le futur ? Et pourquoi est-ce que l’on voit des chiffres aussi différents à chaque fois que l’on parle de ce sujet… ? C’est exactement ce que nous allons voir dans ce deuxième épisode de Science et Climat ! Accrochez-vous c’est parti !&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ncV7ze-YqSU&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Chaîne Science et Climat : &lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chaîne Science et Climat : 
+&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Pour en savoir plus :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;page Wikipédia : &lt;a href=&#34;https://fr.wikipedia.org/wiki/%C3%89l%C3%A9vation_du_niveau_de_la_mer&#34;&gt;https://fr.wikipedia.org/wiki/%C3%89l%C3%A9vation_du_niveau_de_la_mer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Climat : 4 SCÉNARIOS pour 1 SEUL AVENIR (Osons Causer) : &lt;a href=&#34;https://youtu.be/5ZXYSuSsRew&#34;&gt;https://youtu.be/5ZXYSuSsRew&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Calculating glacier ice volumes and sea level equivalents: &lt;a href=&#34;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&#34;&gt;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Limiter le réchauffement de la planète à 1,5°C pour réduire de moitié la contribution de la glace terrestre au niveau de la mer au cours du siècle (IGE) : &lt;a href=&#34;https://www.ige-grenoble.fr/Limiter-le-rechauffement-de-la&#34;&gt;https://www.ige-grenoble.fr/Limiter-le-rechauffement-de-la&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sea level science episode 1 - how can we predict sea level rise in the future? (Protect Sealevelrise) : &lt;a href=&#34;https://youtu.be/JXekORobBaA&#34;&gt;https://youtu.be/JXekORobBaA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hausse du niveau de la mer et changement climatique (bonpote) : &lt;a href=&#34;https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/&#34;&gt;https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Limiting warming to 1.5C would ‘halve’ land-ice contribution to sea level rise by 2100 (carbonbrief): &lt;a href=&#34;https://www.carbonbrief.org/limiting-warming-to-1-5c-would-halve-land-ice-contribution-to-sea-level-rise-by-2100&#34;&gt;https://www.carbonbrief.org/limiting-warming-to-1-5c-would-halve-land-ice-contribution-to-sea-level-rise-by-2100&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Calculating glacier ice volumes and sea level equivalents: &lt;a href=&#34;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&#34;&gt;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;World glaciers explorer (OGGM-Edu) :  &lt;a href=&#34;https://bokeh.oggm.org/explorer/app&#34;&gt;https://bokeh.oggm.org/explorer/app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;page Wikipédia : 
+&lt;a href=&#34;https://fr.wikipedia.org/wiki/%C3%89l%C3%A9vation_du_niveau_de_la_mer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://fr.wikipedia.org/wiki/%C3%89l%C3%A9vation_du_niveau_de_la_mer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Climat : 4 SCÉNARIOS pour 1 SEUL AVENIR (Osons Causer) : 
+&lt;a href=&#34;https://youtu.be/5ZXYSuSsRew&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/5ZXYSuSsRew&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Calculating glacier ice volumes and sea level equivalents: 
+&lt;a href=&#34;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Limiter le réchauffement de la planète à 1,5°C pour réduire de moitié la contribution de la glace terrestre au niveau de la mer au cours du siècle (IGE) : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Limiter-le-rechauffement-de-la&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Limiter-le-rechauffement-de-la&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sea level science episode 1 - how can we predict sea level rise in the future? (Protect Sealevelrise) : 
+&lt;a href=&#34;https://youtu.be/JXekORobBaA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/JXekORobBaA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hausse du niveau de la mer et changement climatique (bonpote) : 
+&lt;a href=&#34;https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bonpote.com/hausse-du-niveau-de-la-mer-et-changement-climatique/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Limiting warming to 1.5C would ‘halve’ land-ice contribution to sea level rise by 2100 (carbonbrief): 
+&lt;a href=&#34;https://www.carbonbrief.org/limiting-warming-to-1-5c-would-halve-land-ice-contribution-to-sea-level-rise-by-2100&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.carbonbrief.org/limiting-warming-to-1-5c-would-halve-land-ice-contribution-to-sea-level-rise-by-2100&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Calculating glacier ice volumes and sea level equivalents: 
+&lt;a href=&#34;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;World glaciers explorer (OGGM-Edu) :  
+&lt;a href=&#34;https://bokeh.oggm.org/explorer/app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://bokeh.oggm.org/explorer/app&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sources (articles scientifiques) :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;[1] Karlsen et al. (2020): &lt;a href=&#34;https://doi.org/10.1016/j.cageo.2020.104508&#34;&gt;https://doi.org/10.1016/j.cageo.2020.104508&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[2] Karlsen et al. (2019): &lt;a href=&#34;https://doi.org/10.1029/2019GC008232&#34;&gt;https://doi.org/10.1029/2019GC008232&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[3] Conrad (2013): &lt;a href=&#34;https://doi.org/10.1130/B30764.1&#34;&gt;https://doi.org/10.1130/B30764.1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[4] SROCC (2019): &lt;a href=&#34;https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/&#34;&gt;https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[5] Miller et al. (2005): &lt;a href=&#34;https://science.sciencemag.org/content/310/5752/1293&#34;&gt;https://science.sciencemag.org/content/310/5752/1293&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[6] Tierney et al. (2020): &lt;a href=&#34;https://www.nature.com/articles/s41586-020-2617-x&#34;&gt;https://www.nature.com/articles/s41586-020-2617-x&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[7] Noerdlinger and Brower (2007): &lt;a href=&#34;https://doi.org/10.1111/j.1365-246X.2007.03472.x&#34;&gt;https://doi.org/10.1111/j.1365-246X.2007.03472.x&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[8] Jenkins and Holland (2007): &lt;a href=&#34;https://doi.org/10.1029/2007GL030784&#34;&gt;https://doi.org/10.1029/2007GL030784&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[9] Sea Level Change (IPCC, 2013): &lt;a href=&#34;https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf&#34;&gt;https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[10] SROCC (2019; Chap 4, Table 4.1): &lt;a href=&#34;https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/&#34;&gt;https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[11] Nerem et al. (2010): &lt;a href=&#34;https://doi.org/10.1080/01490419.2010.491031&#34;&gt;https://doi.org/10.1080/01490419.2010.491031&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[12] Church &amp;amp; White (2011): &lt;a href=&#34;https://link.springer.com/article/10.1007/s10712-011-9119-1&#34;&gt;https://link.springer.com/article/10.1007/s10712-011-9119-1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[13] Dangendorf et al. (2017): &lt;a href=&#34;https://doi.org/10.1073/pnas.1616007114&#34;&gt;https://doi.org/10.1073/pnas.1616007114&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[14] Kierulf et al. (2014): &lt;a href=&#34;https://doi.org/10.1002/2013JB010889&#34;&gt;https://doi.org/10.1002/2013JB010889&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[15] Farinotti et al. (2019): &lt;a href=&#34;https://www.nature.com/articles/s41561-019-0300-3&#34;&gt;https://www.nature.com/articles/s41561-019-0300-3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[16] Morlighem et al. (2017): &lt;a href=&#34;https://doi.org/10.1002/2017GL074954&#34;&gt;https://doi.org/10.1002/2017GL074954&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[17] Fretwell et al. (2013): &lt;a href=&#34;https://doi.org/10.5194/tc-7-375-2013&#34;&gt;https://doi.org/10.5194/tc-7-375-2013&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[18] Edwards et al (2021): &lt;a href=&#34;https://doi.org/10.1038/s41586-021-03302-y&#34;&gt;https://doi.org/10.1038/s41586-021-03302-y&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[19] Breedam et al. (2020): &lt;a href=&#34;https://doi.org/10.5194/esd-11-953-2020&#34;&gt;https://doi.org/10.5194/esd-11-953-2020&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[20] Global sea-level budget 1993–present (WCRP Global Sea Level Budget Group, 2018): &lt;a href=&#34;https://doi.org/10.5194/essd-10-1551-2018&#34;&gt;https://doi.org/10.5194/essd-10-1551-2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[1] Karlsen et al. (2020): 
+&lt;a href=&#34;https://doi.org/10.1016/j.cageo.2020.104508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.cageo.2020.104508&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[2] Karlsen et al. (2019): 
+&lt;a href=&#34;https://doi.org/10.1029/2019GC008232&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2019GC008232&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[3] Conrad (2013): 
+&lt;a href=&#34;https://doi.org/10.1130/B30764.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1130/B30764.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[4] SROCC (2019): 
+&lt;a href=&#34;https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/srocc/chapter/summary-for-policymakers/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[5] Miller et al. (2005): 
+&lt;a href=&#34;https://science.sciencemag.org/content/310/5752/1293&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://science.sciencemag.org/content/310/5752/1293&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[6] Tierney et al. (2020): 
+&lt;a href=&#34;https://www.nature.com/articles/s41586-020-2617-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s41586-020-2617-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[7] Noerdlinger and Brower (2007): 
+&lt;a href=&#34;https://doi.org/10.1111/j.1365-246X.2007.03472.x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/j.1365-246X.2007.03472.x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[8] Jenkins and Holland (2007): 
+&lt;a href=&#34;https://doi.org/10.1029/2007GL030784&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1029/2007GL030784&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[9] Sea Level Change (IPCC, 2013): 
+&lt;a href=&#34;https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter13_FINAL.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[10] SROCC (2019; Chap 4, Table 4.1): 
+&lt;a href=&#34;https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ipcc.ch/srocc/chapter/chapter-4-sea-level-rise-and-implications-for-low-lying-islands-coasts-and-communities/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[11] Nerem et al. (2010): 
+&lt;a href=&#34;https://doi.org/10.1080/01490419.2010.491031&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1080/01490419.2010.491031&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[12] Church &amp;amp; White (2011): 
+&lt;a href=&#34;https://link.springer.com/article/10.1007/s10712-011-9119-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://link.springer.com/article/10.1007/s10712-011-9119-1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[13] Dangendorf et al. (2017): 
+&lt;a href=&#34;https://doi.org/10.1073/pnas.1616007114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1073/pnas.1616007114&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[14] Kierulf et al. (2014): 
+&lt;a href=&#34;https://doi.org/10.1002/2013JB010889&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/2013JB010889&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[15] Farinotti et al. (2019): 
+&lt;a href=&#34;https://www.nature.com/articles/s41561-019-0300-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s41561-019-0300-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[16] Morlighem et al. (2017): 
+&lt;a href=&#34;https://doi.org/10.1002/2017GL074954&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/2017GL074954&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[17] Fretwell et al. (2013): 
+&lt;a href=&#34;https://doi.org/10.5194/tc-7-375-2013&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/tc-7-375-2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[18] Edwards et al (2021): 
+&lt;a href=&#34;https://doi.org/10.1038/s41586-021-03302-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41586-021-03302-y&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[19] Breedam et al. (2020): 
+&lt;a href=&#34;https://doi.org/10.5194/esd-11-953-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/esd-11-953-2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[20] Global sea-level budget 1993–present (WCRP Global Sea Level Budget Group, 2018): 
+&lt;a href=&#34;https://doi.org/10.5194/essd-10-1551-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/essd-10-1551-2018&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Crédits :&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;The Geography of the Ice Age (Atlas Pro) : &lt;a href=&#34;https://youtu.be/Pg0Z3LappEM&#34;&gt;https://youtu.be/Pg0Z3LappEM&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;How Ice Ages Happen: The Milankovitch Cycles (It&amp;rsquo;s Just Astronomical!) : &lt;a href=&#34;https://youtu.be/iA788usYNWA&#34;&gt;https://youtu.be/iA788usYNWA&lt;/a&gt; (&lt;a href=&#34;https://www.youtube.com/watch?v=eB3DJtQZVsw&#34;&gt;https://www.youtube.com/watch?v=eB3DJtQZVsw&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;PALEOMAP: &lt;a href=&#34;https://www.researchgate.net/profile/Christopher-Scotese/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene/links/54b4a16c0cf28ebe92e48107/Map-Folio-2-Last-Glacial-Maximum-21-ky-Pleistocene.pdf&#34;&gt;https://www.researchgate.net/profile/Christopher-Scotese/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene/links/54b4a16c0cf28ebe92e48107/Map-Folio-2-Last-Glacial-Maximum-21-ky-Pleistocene.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Lövgrund, the Celsius island, 4 June 2019 : &lt;a href=&#34;http://sybelisama.blogspot.com/2019/06/lovgrund-celsius-island-4th-june-2019.html&#34;&gt;http://sybelisama.blogspot.com/2019/06/lovgrund-celsius-island-4th-june-2019.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ICEMAP :  &lt;a href=&#34;https://icemap.rhewlif.xyz/&#34;&gt;https://icemap.rhewlif.xyz/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Earth Observatory of Singapore : &lt;a href=&#34;https://earthobservatory.sg/resource-type/illustrations&#34;&gt;https://earthobservatory.sg/resource-type/illustrations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Flood Maps : &lt;a href=&#34;http://flood.firetree.net/&#34;&gt;http://flood.firetree.net/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Melting and Sea Level Rise: &lt;a href=&#34;https://earthtime.org/&#34;&gt;https://earthtime.org/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Sea level science episode 1 - how can we predict sea level rise in the future? (Protect Sealevelrise) : &lt;a href=&#34;https://youtu.be/JXekORobBaA&#34;&gt;https://youtu.be/JXekORobBaA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ScienceCast 145: No Turning Back: West Antarctic Glaciers in Irreversible Decline (NASA) : &lt;a href=&#34;https://images.nasa.gov/details-145_NoTurningBack&#34;&gt;https://images.nasa.gov/details-145_NoTurningBack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Bedmap2 (Fretwell et al., 2013; Fig. 9) : &lt;a href=&#34;https://tc.copernicus.org/articles/7/375/2013/&#34;&gt;https://tc.copernicus.org/articles/7/375/2013/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Projected land ice contributions to twenty-first-century sea-level rise (PROTECT) : &lt;a href=&#34;https://protect-slr.eu/data-visualisations-and-infographics/&#34;&gt;https://protect-slr.eu/data-visualisations-and-infographics/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Multi-millennial response of the Greenland Ice Sheet to anthropogenic warming (Petrini et al., EGU 2021): &lt;a href=&#34;https://vimeo.com/user99847887&#34;&gt;https://vimeo.com/user99847887&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Geography of the Ice Age (Atlas Pro) : 
+&lt;a href=&#34;https://youtu.be/Pg0Z3LappEM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/Pg0Z3LappEM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;How Ice Ages Happen: The Milankovitch Cycles (It&amp;rsquo;s Just Astronomical!) : 
+&lt;a href=&#34;https://youtu.be/iA788usYNWA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/iA788usYNWA&lt;/a&gt; (
+&lt;a href=&#34;https://www.youtube.com/watch?v=eB3DJtQZVsw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/watch?v=eB3DJtQZVsw&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;PALEOMAP: 
+&lt;a href=&#34;https://www.researchgate.net/profile/Christopher-Scotese/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene/links/54b4a16c0cf28ebe92e48107/Map-Folio-2-Last-Glacial-Maximum-21-ky-Pleistocene.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/profile/Christopher-Scotese/publication/270762739_Map_Folio_2_Last_Glacial_Maximum_21_ky_Pleistocene/links/54b4a16c0cf28ebe92e48107/Map-Folio-2-Last-Glacial-Maximum-21-ky-Pleistocene.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lövgrund, the Celsius island, 4 June 2019 : 
+&lt;a href=&#34;http://sybelisama.blogspot.com/2019/06/lovgrund-celsius-island-4th-june-2019.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://sybelisama.blogspot.com/2019/06/lovgrund-celsius-island-4th-june-2019.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ICEMAP :  
+&lt;a href=&#34;https://icemap.rhewlif.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://icemap.rhewlif.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Earth Observatory of Singapore : 
+&lt;a href=&#34;https://earthobservatory.sg/resource-type/illustrations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://earthobservatory.sg/resource-type/illustrations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Flood Maps : 
+&lt;a href=&#34;http://flood.firetree.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://flood.firetree.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Melting and Sea Level Rise: 
+&lt;a href=&#34;https://earthtime.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://earthtime.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sea level science episode 1 - how can we predict sea level rise in the future? (Protect Sealevelrise) : 
+&lt;a href=&#34;https://youtu.be/JXekORobBaA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/JXekORobBaA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ScienceCast 145: No Turning Back: West Antarctic Glaciers in Irreversible Decline (NASA) : 
+&lt;a href=&#34;https://images.nasa.gov/details-145_NoTurningBack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://images.nasa.gov/details-145_NoTurningBack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Bedmap2 (Fretwell et al., 2013; Fig. 9) : 
+&lt;a href=&#34;https://tc.copernicus.org/articles/7/375/2013/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://tc.copernicus.org/articles/7/375/2013/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Projected land ice contributions to twenty-first-century sea-level rise (PROTECT) : 
+&lt;a href=&#34;https://protect-slr.eu/data-visualisations-and-infographics/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://protect-slr.eu/data-visualisations-and-infographics/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Multi-millennial response of the Greenland Ice Sheet to anthropogenic warming (Petrini et al., EGU 2021): 
+&lt;a href=&#34;https://vimeo.com/user99847887&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://vimeo.com/user99847887&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Retrouvez-nous aussi sur :
 Facebook / Twitter / Instagram / Tiktok
@@ -534,7 +675,8 @@ Facebook / Twitter / Instagram / Tiktok
       <pubDate>Wed, 01 Sep 2021 15:05:00 +0200</pubDate>
       <guid>https://mickaellalande.github.io/project/tutorials/</guid>
       <description>&lt;p&gt;Some tutorials about random stuff.&lt;/p&gt;
-&lt;p&gt;The MC-Toolkit GitHub page might also be usefull: &lt;a href=&#34;https://github.com/mickaellalande/MC-Toolkit&#34;&gt;https://github.com/mickaellalande/MC-Toolkit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The MC-Toolkit GitHub page might also be usefull: 
+&lt;a href=&#34;https://github.com/mickaellalande/MC-Toolkit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mickaellalande/MC-Toolkit&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -616,7 +758,8 @@ conda activate project_v0
 &lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Here is an example of an environment I created for my Ph.D.: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/envs/phd&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/envs/phd&lt;/a&gt;
+    Here is an example of an environment I created for my Ph.D.: 
+&lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/envs/phd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/envs/phd&lt;/a&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;To save and manage your environment, see at the end of this tutorial.&lt;/p&gt;
@@ -642,8 +785,10 @@ c.NotebookApp.open_browser = False
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;More informations:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jupyter-notebook.readthedocs.io/en/stable/public_server.html&#34;&gt;https://jupyter-notebook.readthedocs.io/en/stable/public_server.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server&#34;&gt;https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://jupyter-notebook.readthedocs.io/en/stable/public_server.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://jupyter-notebook.readthedocs.io/en/stable/public_server.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;report-errors-optionnal&#34;&gt;Report errors (optionnal)&lt;/h3&gt;
 &lt;p&gt;Optionally you can also send automatically report to Anaconda in case of errors:&lt;/p&gt;
@@ -659,7 +804,8 @@ c.NotebookApp.open_browser = False
 &lt;p&gt;Then you need to make a tunnel from your own terminal (on your PC, not the server), which is usually a command as:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;ssh -L XXXX:hostname:XXXX login@server
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;with possible other flags as &lt;code&gt;-fNL&lt;/code&gt; (but I&amp;rsquo;m not familiar with that, so go and look what you need, ex: &lt;a href=&#34;https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l&#34;&gt;https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;with possible other flags as &lt;code&gt;-fNL&lt;/code&gt; (but I&amp;rsquo;m not familiar with that, so go and look what you need, ex: 
+&lt;a href=&#34;https://explainshell.com/explain?cmd=ssh&amp;#43;-L&amp;#43;-N&amp;#43;-f&amp;#43;-l&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Then you can open the link directly given from Jupyter on the server, which will open on your browser.&lt;/p&gt;
 &lt;p&gt;Here is an example of a script, to get automatically the &lt;code&gt;ssh&lt;/code&gt; tunnel from one of the servers I use and run jupyter lab (you can inspire yourself from that and adapt it to your needs): &lt;a href=&#34;https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/jupyterlab.sh&#34; target=&#34;_blank&#34;&gt;jupyterlab.sh&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;8-save-your-environment&#34;&gt;8. Save your environment&lt;/h2&gt;
@@ -670,8 +816,10 @@ conda env export &amp;gt; projet_v0.yml
 conda env export --from-history &amp;gt; projet_v0_fh.yml
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The first one allows you to have the exact version of packages on the machine you are using and their dependencies, which will allow you to have exactly the same environment (however it might not work on some other machines). The second one is similar to the first one but with the yaml format. The last one allows you to only have the names of the packages you installed with their version number if specified (what I advise you to add otherwise it might not work in the future). This last one allows sharing your environment across different platforms/OS, but without a guaranty that it will work (knowing that some packages are not always available across all platforms) and even on your own machine/server if you didn&amp;rsquo;t specify all version numbers, it&amp;rsquo;s possible that you won&amp;rsquo;t succeed to make it work in the future. Hence I recommend saving your environment under different format/version.&lt;/p&gt;
-&lt;p&gt;To get more information, go and check the conda documentation: &lt;a href=&#34;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html&#34;&gt;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I also recommend you to document your environment with a README, so you know how you set it up, what&amp;rsquo;s inside, etc., here is an example from my environment: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/envs/phd&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/envs/phd&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To get more information, go and check the conda documentation: 
+&lt;a href=&#34;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I also recommend you to document your environment with a README, so you know how you set it up, what&amp;rsquo;s inside, etc., here is an example from my environment: 
+&lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/envs/phd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/envs/phd&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I hope this will help you! I&amp;rsquo;m not an expert with conda myself, but this is a sharing of the experience I&amp;rsquo;ve gained over the past few years. Feel free to ask questions in the comments and/or fill in any points that I haven&amp;rsquo;t explained well or that are missing!&lt;/p&gt;
 </description>
     </item>
@@ -692,7 +840,8 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
       <guid>https://mickaellalande.github.io/post/science-et-climat/albedo/</guid>
       <description>&lt;p&gt;Est-ce que vous vous êtes déjà demandé pourquoi on a tendance à bronzer au ski alors que l’on est en plein hiver ? Ou encore pourquoi est-ce que l’on a plus chaud avec un t-shirt noir qu’avec un t-shirt blanc ? Et qu’est-ce que tout cela a avoir avec le réchauffement climatique ? C’est justement ce que nous allons voir ensemble dans cette première vidéo sur l’albédo !&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Qhd_4bt4fWs&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;Chaîne Science et Climat : &lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Chaîne Science et Climat : 
+&lt;a href=&#34;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.youtube.com/channel/UCisQk7COaz17d7dg3qSb10Q&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -702,8 +851,10 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
       <pubDate>Thu, 01 Apr 2021 16:22:32 +0200</pubDate>
       <guid>https://mickaellalande.github.io/post/media/podcast/allodocs/projections-climatiques-versus-meteo/</guid>
       <description>&lt;iframe title=&#34;Embed Player&#34; width=&#34;100%&#34; height=&#34;188px&#34; src=&#34;https://embed.acast.com/af40ee8f-c60c-581f-b9b4-1d2f53f47b3d/60523dd24a772e26066630fc&#34; scrolling=&#34;no&#34; frameBorder=&#34;0&#34; style=&#34;border:none;overflow:hidden;&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Retrouvez l&amp;rsquo;article publié sur le site de notre laboratoire : &lt;a href=&#34;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&#34;&gt;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Et tous les autres Podcast Allodocs : &lt;a href=&#34;https://play.acast.com/s/hauteurs&#34;&gt;https://play.acast.com/s/hauteurs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Retrouvez l&amp;rsquo;article publié sur le site de notre laboratoire : 
+&lt;a href=&#34;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.ige-grenoble.fr/Deux-doctorants-de-l-IGE-sur&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Et tous les autres Podcast Allodocs : 
+&lt;a href=&#34;https://play.acast.com/s/hauteurs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://play.acast.com/s/hauteurs&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Merci à Hauteurs UGA !&lt;/p&gt;
 </description>
     </item>
@@ -774,12 +925,14 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;1-make-a-github-page&#34;&gt;1. Make a GitHub page&lt;/h2&gt;
-&lt;p&gt;You can directly follow the instructions on their page: &lt;a href=&#34;https://pages.github.com/&#34;&gt;https://pages.github.com/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can directly follow the instructions on their page: 
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pages.github.com/&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2MsN8gpT6jY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;The important is to create the repository &lt;code&gt;your-name.github.io&lt;/code&gt;, then we will update the content of this repository automatically with a 
 &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; Academic template.&lt;/p&gt;
 &lt;h2 id=&#34;2-install-academic-theme-and-hugo&#34;&gt;2. Install Academic Theme and Hugo&lt;/h2&gt;
-&lt;p&gt;Again you&amp;rsquo;ll find the steps on their website: &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&#34;&gt;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Again you&amp;rsquo;ll find the steps on their website: 
+&lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&amp;rsquo;t find a way to link it to the GitHub page later, so I recommend following the Git installation from the link above.
@@ -867,17 +1020,17 @@ cd ..
 &lt;p&gt;you will be able to have an instant preview in your browser before uploading it to GitHub. If you don&amp;rsquo;t know any editing software, I can advise you 
 &lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atom&lt;/a&gt; in combination with 
 &lt;a href=&#34;https://www.typora.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;typora&lt;/a&gt; which is convenient for directly editing the content with markdown.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Source Themes Academic 4.8.0 &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Source Themes Academic 4.8.0&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -896,7 +1049,8 @@ cd ..
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://mickaellalande.github.io/talk/master/agu/</guid>
       <description>&lt;p&gt;The variability of sea-level anomalies (SLA) observed by satellite altimeters combines two components: a forced component paced by the atmospheric variability, and an intrinsic and chaotic component emerging from the ocean itself.This work presents a deep convolutional neural network (ConvNet) trained to estimate the forced variability from SLA observations. The ConvNet is trained on the available OCCIPUT 50-member ensemble of global oceanic hindcasts. The use of global SLA fields to train the ConvNet being computationally impossible, representative regions of the ocean dynamics were carefully selected to allow training the ConvNet in an acceptable time.The algorithm yields an estimation of the forced model variability with a 2~cm RMS error and a temporal correlation of 0.9. We compare this performance to that of a bandpass filter proposed recently, and show that our ConvNet has the advantage to adapt its cutoff scales locally and identify larger-scale intrinsic patterns.The algorithm is applied to global altimetric observations, and shown to significantly increase the variance of winter SLA explained by the North Atlantic Oscillation (NAO) index.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&#34;&gt;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ui.adsabs.harvard.edu/abs/2019AGUFMGC31L1373L/abstract&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -915,7 +1069,8 @@ cd ..
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://mickaellalande.github.io/talk/master/ostst/</guid>
       <description>&lt;p&gt;The variability of sea-level anomalies (SLA) observed by satellite altimeters combines two components: a forced component paced by the atmospheric variability, and an intrinsic and chaotic component emerging from the ocean itself. This paper presents a Machine Learning algorithm, trained on ensemble simulation outputs, to estimate the forced variability from SLA observations. Our algorithm estimates the forced model variability with a 2  cm RMS error and a temporal correlation of 0.9, a skill similar to that of a bandpass filter proposed recently, but with the additional ability to adapt its cutoff scales locally. The algorithm is applied to global altimetric observations, and shown to increase the variance of winter SLA explained by the variance of the North Atlantic Oscillation (NAO) index significantly.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03000854/&#34;&gt;https://hal.archives-ouvertes.fr/hal-03000854/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hal.archives-ouvertes.fr/hal-03000854/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hal.archives-ouvertes.fr/hal-03000854/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

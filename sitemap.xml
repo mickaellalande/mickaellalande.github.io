@@ -1,559 +1,337 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mickaellalande.github.io/tag/arctic/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/authors/</loc>
     <lastmod>2023-10-11T16:10:32-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/categories/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/classic/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/climate/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/</loc>
     <lastmod>2023-10-11T16:10:32-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/model/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/postdoc/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/project/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/snow/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/project/snowc2/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tags/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/and-frederique-cheruy/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/catherine-ottle/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/gcm/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/gerhard-krinner/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/high-mountain-asia/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/lmdz/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/martin-menegoz/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/orchidee/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/orchidee-dev/2023-09-26/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/parameterization/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/cmip6/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/phd-defense/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/media/video/thesen-images/tfais-une-these/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/mountain-areas/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/phd/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/video/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/igs/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/igs/2022-scf-param/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/imc/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/imc/2022-scf-param/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/egu/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/egu/2022-scf-param/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/snowhydro/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/snowhydro/2022-scf-param/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/article/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/phd/rechauffement-exacerbe-dans-les-hautes-montagnes-dasie/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/media/video/osug/le-rechauffement-climatique-en-cours-est-il-du-a-lhomme/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/ipcc/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/dataset/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/hmasr/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/tpdc/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/phd/hmasr/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/work/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/phd/exacerbated-warming-in-the-high-mountain-asia/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/publication-type/2/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/and-stefan-wunderle/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/publication/phd/climate-change-in-the-high-mountain-asia-in-cmip6/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/kathrin-naegeli/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/mickael-lalande/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/precipitation/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/publication_types/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/temperature/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/science-et-climat/interview-giec/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/science-et-climat/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/youtube/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/media/article/linfodurable/climat-cinq-chaines-youtube-decouvrir-ou-revoir/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/science-et-climat/rapport-giec/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/instagram/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/portrait/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/media/instagram/chercheurs-de-montagnes/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/comite-de-these/2/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/phd/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/project/phd/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/project/science-et-climat/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/media/</loc>
     <lastmod>2021-09-02T14:23:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/project/medias/</loc>
     <lastmod>2021-09-02T14:23:50+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/niveau-des-mers/</loc>
     <lastmod>2021-11-01T09:14:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/science-et-climat/niveau-des-mers/</loc>
     <lastmod>2021-11-01T09:14:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/turorials/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/project/tutorials/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/egu/2021-cmip6-hma-paper/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/linux/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/python/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/server/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/tutorial/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20210412_neige/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/albedo/</loc>
     <lastmod>2021-11-01T09:14:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/science-et-climat/albedo/</loc>
     <lastmod>2021-11-01T09:14:47+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/media/podcast/allodocs/projections-climatiques-versus-meteo/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/meteo/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/podcast/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/category/podcast/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/chantier-hma/cmip6-hma-paper/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/science-et-climat/bienvenue-sur-la-chaine-science-et-climat/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/science/</loc>
     <lastmod>2023-01-06T12:00:16+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/journee-des-theses/2020/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/comite-de-these/1/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/lmdz/reunion-utilisateurs-lmdz/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/github/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/website/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/lmdz/lmdz-pour-letude-du-climat-regional/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/lmdz/pedalons/20200113_zoom/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/agu/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/master/agu/</loc>
     <lastmod>2023-01-05T15:26:03+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/deep-learning/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/ocean/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/redouane-lguensat/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/sally-close/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/thierry-penduff/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/journee-des-theses/2019/</loc>
     <lastmod>2023-01-05T10:17:37+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/master/ostst/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/sabrina-speich/</loc>
     <lastmod>2023-03-08T08:34:06+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/author/mickael-lalande/</loc>
     <lastmod>2023-10-11T16:10:32-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/tag/ost/st/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mickaellalande.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
-  
 </urlset>

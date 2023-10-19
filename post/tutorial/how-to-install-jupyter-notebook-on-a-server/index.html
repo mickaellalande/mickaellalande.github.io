@@ -255,8 +255,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_3.png">
 
   <link rel="canonical" href="https://mickaellalande.github.io/post/tutorial/how-to-install-jupyter-notebook-on-a-server/">
 
@@ -329,7 +329,7 @@
     "name": "Mickaël Lalande",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png"
+      "url": "https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_3.png"
     }
   },
   "description": "First of all, I recommend you to look at what your server proposes as a method to launch Jupyter Notebooks. If however their method does not suit your needs and you want to install your own environment, here is the method I use (it works from a Linux workstation, you have to adapt if you are under another OS)."
@@ -908,7 +908,8 @@ conda activate project_v0
 </code></pre>
 <div class="alert alert-note">
   <div>
-    Here is an example of an environment I created for my Ph.D.: <a href="https://github.com/mickaellalande/PhD/tree/master/envs/phd">https://github.com/mickaellalande/PhD/tree/master/envs/phd</a>
+    Here is an example of an environment I created for my Ph.D.: 
+<a href="https://github.com/mickaellalande/PhD/tree/master/envs/phd" target="_blank" rel="noopener">https://github.com/mickaellalande/PhD/tree/master/envs/phd</a>
   </div>
 </div>
 <p>To save and manage your environment, see at the end of this tutorial.</p>
@@ -934,8 +935,10 @@ c.NotebookApp.open_browser = False
 </code></pre>
 <p>More informations:</p>
 <ul>
-<li><a href="https://jupyter-notebook.readthedocs.io/en/stable/public_server.html">https://jupyter-notebook.readthedocs.io/en/stable/public_server.html</a></li>
-<li><a href="https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server">https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server</a></li>
+<li>
+<a href="https://jupyter-notebook.readthedocs.io/en/stable/public_server.html" target="_blank" rel="noopener">https://jupyter-notebook.readthedocs.io/en/stable/public_server.html</a></li>
+<li>
+<a href="https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server" target="_blank" rel="noopener">https://stackoverflow.com/questions/42848130/why-i-cant-access-remote-jupyter-notebook-server</a></li>
 </ul>
 <h3 id="report-errors-optionnal">Report errors (optionnal)</h3>
 <p>Optionally you can also send automatically report to Anaconda in case of errors:</p>
@@ -951,7 +954,8 @@ c.NotebookApp.open_browser = False
 <p>Then you need to make a tunnel from your own terminal (on your PC, not the server), which is usually a command as:</p>
 <pre><code class="language-bash">ssh -L XXXX:hostname:XXXX login@server
 </code></pre>
-<p>with possible other flags as <code>-fNL</code> (but I&rsquo;m not familiar with that, so go and look what you need, ex: <a href="https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l">https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l</a>)</p>
+<p>with possible other flags as <code>-fNL</code> (but I&rsquo;m not familiar with that, so go and look what you need, ex: 
+<a href="https://explainshell.com/explain?cmd=ssh&#43;-L&#43;-N&#43;-f&#43;-l" target="_blank" rel="noopener">https://explainshell.com/explain?cmd=ssh+-L+-N+-f+-l</a>)</p>
 <p>Then you can open the link directly given from Jupyter on the server, which will open on your browser.</p>
 <p>Here is an example of a script, to get automatically the <code>ssh</code> tunnel from one of the servers I use and run jupyter lab (you can inspire yourself from that and adapt it to your needs): <a href="/post/tutorial/how-to-install-jupyter-notebook-on-a-server/jupyterlab.sh" target="_blank">jupyterlab.sh</a>.</p>
 <h2 id="8-save-your-environment">8. Save your environment</h2>
@@ -962,8 +966,10 @@ conda env export &gt; projet_v0.yml
 conda env export --from-history &gt; projet_v0_fh.yml
 </code></pre>
 <p>The first one allows you to have the exact version of packages on the machine you are using and their dependencies, which will allow you to have exactly the same environment (however it might not work on some other machines). The second one is similar to the first one but with the yaml format. The last one allows you to only have the names of the packages you installed with their version number if specified (what I advise you to add otherwise it might not work in the future). This last one allows sharing your environment across different platforms/OS, but without a guaranty that it will work (knowing that some packages are not always available across all platforms) and even on your own machine/server if you didn&rsquo;t specify all version numbers, it&rsquo;s possible that you won&rsquo;t succeed to make it work in the future. Hence I recommend saving your environment under different format/version.</p>
-<p>To get more information, go and check the conda documentation: <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html">https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html</a></p>
-<p>I also recommend you to document your environment with a README, so you know how you set it up, what&rsquo;s inside, etc., here is an example from my environment: <a href="https://github.com/mickaellalande/PhD/tree/master/envs/phd">https://github.com/mickaellalande/PhD/tree/master/envs/phd</a>.</p>
+<p>To get more information, go and check the conda documentation: 
+<a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html" target="_blank" rel="noopener">https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html</a></p>
+<p>I also recommend you to document your environment with a README, so you know how you set it up, what&rsquo;s inside, etc., here is an example from my environment: 
+<a href="https://github.com/mickaellalande/PhD/tree/master/envs/phd" target="_blank" rel="noopener">https://github.com/mickaellalande/PhD/tree/master/envs/phd</a>.</p>
 <p>I hope this will help you! I&rsquo;m not an expert with conda myself, but this is a sharing of the experience I&rsquo;ve gained over the past few years. Feel free to ask questions in the comments and/or fill in any points that I haven&rsquo;t explained well or that are missing!</p>
 
     </div>
@@ -976,11 +982,11 @@ conda env export --from-history &gt; projet_v0_fh.yml
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/linux/">Linux</a>
-  
   <a class="badge badge-light" href="/tag/python/">Python</a>
   
   <a class="badge badge-light" href="/tag/server/">Server</a>
+  
+  <a class="badge badge-light" href="/tag/linux/">Linux</a>
   
 </div>
 
@@ -1100,7 +1106,7 @@ conda env export --from-history &gt; projet_v0_fh.yml
     <div class="media author-card content-widget-hr">
       
         
-        <img class="avatar mr-3 avatar-circle" src="/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_2.png" alt="Mickaël Lalande">
+        <img class="avatar mr-3 avatar-circle" src="/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_3.png" alt="Mickaël Lalande">
       
 
       <div class="media-body">
@@ -1414,7 +1420,7 @@ conda env export --from-history &gt; projet_v0_fh.yml
     
     
     
-    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+    <script src="/js/academic.min.cd45a9c0bbdd3dfb1c126917c601c9f2.js"></script>
 
     
 

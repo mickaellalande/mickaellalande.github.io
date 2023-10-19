@@ -7,7 +7,7 @@
     <description>Work</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 10:45:00 +0100</lastBuildDate>
     <image>
-      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
       <title>Work</title>
       <link>https://mickaellalande.github.io/category/work/</link>
     </image>
@@ -28,7 +28,8 @@
 &lt;p&gt;&lt;strong&gt;Click on&lt;/strong&gt; the map bellow to access the interactive page ⤵️&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;HMASR_validation_with_TPDC_SD_stations.html&#34;&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;All scripts and data can be found here: &lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All scripts and data can be found here: 
+&lt;a href=&#34;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mickaellalande/PhD/tree/master/SCF_parameterizations/1_validation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
