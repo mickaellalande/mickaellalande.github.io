@@ -148,19 +148,20 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
     </item>
     
     <item>
-      <title>How to Create an Academic/Wowchemy GitHub Page With Hugo?</title>
+      <title>How to Create an Academic/Wowchemy/Hugo Blox GitHub Page With Hugo?</title>
       <link>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</link>
       <pubDate>Tue, 19 May 2020 11:38:58 +0200</pubDate>
       <guid>https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/</guid>
       <description>&lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
-    Be aware that Academic theme seems to have become Wowchemy, hence this tutorial might be outdated. Nevertheless, it can be used as a basis, but please refer to the Wowchemy documentation first. I updated all the links below to refer to their new websites.
+    Be aware that Academic theme seems to have become &lt;del&gt;Wowchemy&lt;/del&gt; 
+&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox&lt;/a&gt; (definitely it keeps changing&amp;hellip;), hence this tutorial might be outdated. Nevertheless, it can be used as a basis, but please refer to the Wowchemy documentation first. I updated all the links below to refer to their new websites.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;I guess you are wondering how to make an academic website on your GitHub with the address &lt;em&gt;.github.io&lt;/em&gt;. There are, of course, the solutions proposed directly by 
-&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub page&lt;/a&gt;, however, it looks a bit &lt;em&gt;&amp;ldquo;old school&amp;rdquo;&lt;/em&gt; in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. I finally came across 
-&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for 
-&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; that suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.&lt;/p&gt;
+&lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub page&lt;/a&gt;, however, it looks a bit &lt;em&gt;&amp;ldquo;old school&amp;rdquo;&lt;/em&gt; in my opinion. Another option is to make the site by yourself in markdown, but it seemed quite long and tedious. I finally came across &lt;del&gt;Wowchemy&lt;/del&gt; 
+&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox&lt;/a&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; for 
+&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;^2 which suits my needs and is the purpose of this tutorial! Feel free to leave a comment if you have any questions and/or additional information.&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     You need to be a bit familiar with the basics of GitHub, but you don&amp;rsquo;t need any knowledge of html/css.
@@ -169,12 +170,11 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
 &lt;h2 id=&#34;1-make-a-github-page&#34;&gt;1. Make a GitHub page&lt;/h2&gt;
 &lt;p&gt;You can directly follow the instructions on their page: 
 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pages.github.com/&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2MsN8gpT6jY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;The important is to create the repository &lt;code&gt;your-name.github.io&lt;/code&gt;, then we will update the content of this repository automatically with a 
-&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; Academic template.&lt;/p&gt;
+&lt;p&gt;The important is to create the repository &lt;code&gt;your-name.github.io&lt;/code&gt;, and then we will update the content of this repository automatically with a &lt;del&gt;Wowchemy&lt;/del&gt; 
+&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox&lt;/a&gt; Academic template.&lt;/p&gt;
 &lt;h2 id=&#34;2-install-academic-theme-and-hugo&#34;&gt;2. Install Academic Theme and Hugo&lt;/h2&gt;
 &lt;p&gt;Again you&amp;rsquo;ll find the steps on their website: 
-&lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://docs.hugoblox.com/reference/deployment/#github-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.hugoblox.com/reference/deployment/#github-pages&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&amp;rsquo;t find a way to link it to the GitHub page later, so I recommend following the Git installation from the link above.
@@ -186,11 +186,11 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
 &lt;a href=&#34;https://gohugo.io/getting-started/installing/#snap-package&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;snap version&lt;/strong&gt;&lt;/a&gt; (don&amp;rsquo;t install it with &lt;strong&gt;apt-get&lt;/strong&gt; because the version is not updated: see this 
 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues/703&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;issue&lt;/a&gt;). All this Academic theme is based on the 
 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Framework&lt;/a&gt; so it is necessary to install it.&lt;/p&gt;
-&lt;h3 id=&#34;forkhttpsgithubcomwowchemystarter-hugo-academicfork-destination-box-the-academic-kickstart-repository&#34;&gt;
-&lt;a href=&#34;https://github.com/wowchemy/starter-hugo-academic#fork-destination-box&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository&lt;/h3&gt;
+&lt;h3 id=&#34;forkhttpsgithubcomhugobloxtheme-academic-cvfork-destination-box-the-academic-kickstart-repository&#34;&gt;
+&lt;a href=&#34;https://github.com/HugoBlox/theme-academic-cv#fork-destination-box&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository&lt;/h3&gt;
 &lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
-    The new repository name is: &lt;code&gt;wowchemy/starter-hugo-academic&lt;/code&gt;, so replace &lt;code&gt;academic-kickstart&lt;/code&gt; by &lt;code&gt;starter-hugo-academic&lt;/code&gt; in the following paragraph.
+    The new repository name is: &lt;del&gt;&lt;code&gt;wowchemy/starter-hugo-academic&lt;/code&gt;&lt;/del&gt; &lt;code&gt;HugoBlox/theme-academic-cv&lt;/code&gt;, so replace &lt;code&gt;academic-kickstart&lt;/code&gt; by &lt;del&gt;&lt;code&gt;starter-hugo-academic&lt;/code&gt;&lt;/del&gt; &lt;code&gt;theme-academic-cv&lt;/code&gt; in the following paragraph.
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -224,7 +224,7 @@ conda env export --from-history &amp;gt; projet_v0_fh.yml
 
 &lt;/figure&gt;
 
-&lt;p&gt;It will automatically create a new repository &lt;code&gt;academic-kickstart&lt;/code&gt; in your GitHub account. This repository will allow you to manage your website, and then to publish it into the previously create repository &lt;code&gt;your-name.github.io&lt;/code&gt;. Finally, you just need to clone and initialize the theme on your computer:&lt;/p&gt;
+&lt;p&gt;It will automatically create a new repository &lt;code&gt;academic-kickstart&lt;/code&gt; in your GitHub account. This repository will allow you to manage your website, and then publish it into the previously created repository `your-name.github.io``. Finally, you just need to clone and initialize the theme on your computer:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/your-name/academic-kickstart.git
 cd academic-kickstart
 git submodule update --init --recursive
@@ -234,7 +234,7 @@ git submodule update --init --recursive
 &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/deployment/#github-pages&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&#34;alert alert-warning&#34;&gt;
   &lt;div&gt;
-    The method bellow seems outdated, so follow the link above.
+    The method below seems outdated, so follow the link above.
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule add -f -b master https://github.com/your-name/your-name.github.io.git public
@@ -267,9 +267,6 @@ cd ..
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;Source Themes Academic 4.8.0&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;Hugo Static Site Generator v0.70.0/extended linux/amd64 BuildDate: 2020-05-13T17:30:34Z&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
