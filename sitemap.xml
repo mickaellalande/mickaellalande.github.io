@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mickaellalande.github.io/author/alexandre-roy/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
-  </url><url>
     <loc>https://mickaellalande.github.io/tag/arctic/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/authors/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/talk/snowc2/esa-cci/cci-colocation-2024/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/tag/classic/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/tag/model/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/tag/snow/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/tags/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/talk/snowc2/esa-cci/midterm-review-meeting/</loc>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
+  </url><url>
+    <loc>https://mickaellalande.github.io/author/alexandre-roy/</loc>
     <lastmod>2024-05-23T09:56:39-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/talk/snowc2/cgu-classic/2024/</loc>
     <lastmod>2024-05-23T09:56:39-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/author/christophe-kinnard/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
-  </url><url>
-    <loc>https://mickaellalande.github.io/tag/classic/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
-  </url><url>
-    <loc>https://mickaellalande.github.io/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
-  </url><url>
-    <loc>https://mickaellalande.github.io/tag/model/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
-  </url><url>
-    <loc>https://mickaellalande.github.io/tag/snow/</loc>
-    <lastmod>2024-05-23T09:56:39-04:00</lastmod>
-  </url><url>
-    <loc>https://mickaellalande.github.io/tags/</loc>
     <lastmod>2024-05-23T09:56:39-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/talk/snowc2/classic-meeting/20240410/</loc>
@@ -90,19 +96,19 @@
     <lastmod>2023-11-30T14:16:57-05:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/categories/</loc>
-    <lastmod>2023-12-04T12:19:08-05:00</lastmod>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/tag/climate/</loc>
-    <lastmod>2023-11-30T14:16:57-05:00</lastmod>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/category/postdoc/</loc>
-    <lastmod>2023-11-30T14:16:57-05:00</lastmod>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/project/</loc>
-    <lastmod>2023-11-30T14:16:57-05:00</lastmod>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/project/snowc2/</loc>
-    <lastmod>2023-11-30T14:16:57-05:00</lastmod>
+    <lastmod>2024-10-07T09:24:17-04:00</lastmod>
   </url><url>
     <loc>https://mickaellalande.github.io/talk/phd/orchidee-dev/2023-09-26/</loc>
     <lastmod>2023-10-10T16:34:58-04:00</lastmod>
