@@ -5,12 +5,34 @@
     <link>https://mickaellalande.github.io/</link>
       <atom:link href="https://mickaellalande.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mickaël Lalande</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2024 09:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 09:40:00 -0500</lastBuildDate>
     <image>
       <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
       <title>Mickaël Lalande</title>
       <link>https://mickaellalande.github.io/</link>
     </image>
+    
+    <item>
+      <title>Colloque CEN 2025: Improvement of the CLASSIC Snow Model to Better Simulate Arctic Snowpacks</title>
+      <link>https://mickaellalande.github.io/talk/snowc2/cen/colloque-2025/</link>
+      <pubDate>Thu, 13 Feb 2025 09:40:00 -0500</pubDate>
+      <guid>https://mickaellalande.github.io/talk/snowc2/cen/colloque-2025/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTzq523hUNVPbX1QGM2vrTvLdKUzMA24xKZS3Y0bfWwzb6XZXPRPSarNoHKoGerJf9jeDZfVtc-CuiF/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Planning du Colloque du CEN 2025 : 
+&lt;a href=&#34;https://www.cen.ulaval.ca/documents/107/Programme_court_2025_VF.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cen.ulaval.ca/documents/107/Programme_court_2025_VF.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AGU24: Improvement of the CLASSIC Snow Model to Better Simulate Arctic Snowpacks</title>
+      <link>https://mickaellalande.github.io/talk/snowc2/agu/agu24/</link>
+      <pubDate>Tue, 10 Dec 2024 10:20:00 -0500</pubDate>
+      <guid>https://mickaellalande.github.io/talk/snowc2/agu/agu24/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQ7dGwMtDWqxGAYW-r6Jm2dO_e_tQb9wRpfuwDQakIHpobbttkf8Yh8Cfu7YmnpwvlUGHI0iNtcnDZG/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;2079&#34; height=&#34;1201&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;AGU planning: 
+&lt;a href=&#34;https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1507414&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1507414&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CCI Colocation 2024: Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions (SnowC2)</title>
