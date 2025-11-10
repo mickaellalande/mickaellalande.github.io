@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ERA5 | Mickaël Lalande</title>
+    <link>https://mickaellalande.github.io/tag/era5/</link>
+      <atom:link href="https://mickaellalande.github.io/tag/era5/index.xml" rel="self" type="application/rss+xml" />
+    <description>ERA5</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
+      <title>ERA5</title>
+      <link>https://mickaellalande.github.io/tag/era5/</link>
+    </image>
+    
+    <item>
+      <title>Impact of topography and meteorological forcing on snow simulation in the Canadian Land Surface Scheme Including Biogeochemical Cycles (CLASSIC)</title>
+      <link>https://mickaellalande.github.io/publication/snowc2/impact-of-topography-and-meteorological-forcing-on-snow-simulation-in-classic/</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0100</pubDate>
+      <guid>https://mickaellalande.github.io/publication/snowc2/impact-of-topography-and-meteorological-forcing-on-snow-simulation-in-classic/</guid>
+      <description>&lt;p&gt;Link: 
+&lt;a href=&#34;https://doi.org/10.5194/gmd-18-6597-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-18-6597-2025&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
