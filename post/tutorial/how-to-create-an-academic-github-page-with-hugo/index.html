@@ -255,8 +255,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/">
 
@@ -329,7 +329,7 @@
     "name": "Mickaël Lalande",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_3.png"
+      "url": "https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": " "
@@ -478,7 +478,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#experience"><span>Experience</span></a>
+          <a class="nav-link " href="/#featured_publications"><span>Publications</span></a>
         </li>
 
         
@@ -563,29 +563,18 @@
         
 
         
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>More</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
             
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+              <a class="dropdown-item" href="/#experience"><span>Experience</span></a>
+            
+              <a class="dropdown-item" href="/project/medias"><span>Media</span></a>
+            
+              <a class="dropdown-item" href="/project/tutorials"><span>Tutorials</span></a>
+            
+          </div>
         </li>
 
         
@@ -607,51 +596,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/project/medias"><span>Medias</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/project/tutorials"><span>Tutorials</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/files/CV_LALANDE_2025_v1.0.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/files/CV_LALANDE_2026_v2.2.pdf"><span>CV</span></a>
         </li>
 
         
@@ -886,8 +831,7 @@
     <div class="article-style">
       <div class="alert alert-warning">
   <div>
-    Be aware that Academic theme seems to have become <del>Wowchemy</del> 
-<a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox</a> (definitely it keeps changing&hellip;), hence this tutorial might be outdated. Nevertheless, it can be used as a basis, but please refer to the Wowchemy documentation first. I updated all the links below to refer to their new websites.
+    Be aware that Academic theme seems to have become <del>Wowchemy</del> <a href="https://hugoblox.com/">Hugo Blox</a> (definitely it keeps changing&hellip;), hence this tutorial might be outdated. Nevertheless, it can be used as a basis, but please refer to the Wowchemy documentation first. I updated all the links below to refer to their new websites.
   </div>
 </div>
 <p>I guess you are wondering how to make an academic website on your GitHub with the address <em>.github.io</em>. There are, of course, the solutions proposed directly by 
@@ -900,13 +844,11 @@
   </div>
 </div>
 <h2 id="1-make-a-github-page">1. Make a GitHub page</h2>
-<p>You can directly follow the instructions on their page: 
-<a href="https://pages.github.com/" target="_blank" rel="noopener">https://pages.github.com/</a>.</p>
+<p>You can directly follow the instructions on their page: <a href="https://pages.github.com/">https://pages.github.com/</a>.</p>
 <p>The important is to create the repository <code>your-name.github.io</code>, and then we will update the content of this repository automatically with a <del>Wowchemy</del> 
 <a href="https://hugoblox.com/" target="_blank" rel="noopener">Hugo Blox</a> Academic template.</p>
 <h2 id="2-install-academic-theme-and-hugo">2. Install Academic Theme and Hugo</h2>
-<p>Again you&rsquo;ll find the steps on their website: 
-<a href="https://docs.hugoblox.com/reference/deployment/#github-pages" target="_blank" rel="noopener">https://docs.hugoblox.com/reference/deployment/#github-pages</a></p>
+<p>Again you&rsquo;ll find the steps on their website: <a href="https://docs.hugoblox.com/reference/deployment/#github-pages">https://docs.hugoblox.com/reference/deployment/#github-pages</a></p>
 <div class="alert alert-note">
   <div>
     There are different ways to install the Academic theme. The recommended installation will automatically deploy it on a free server, and I didn&rsquo;t find a way to link it to the GitHub page later, so I recommend following the Git installation from the link above.
@@ -994,14 +936,14 @@ cd ..
 <p>you will be able to have an instant preview in your browser before uploading it to GitHub. If you don&rsquo;t know any editing software, I can advise you 
 <a href="https://atom.io/" target="_blank" rel="noopener">Atom</a> in combination with 
 <a href="https://www.typora.io/" target="_blank" rel="noopener">typora</a> which is convenient for directly editing the content with markdown.</p>
-<div class="footnotes" role="doc-endnotes">
+<section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1">
-<p>Source Themes Academic 4.8.0&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1" role="doc-endnote">
+<p>Source Themes Academic 4.8.0 <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>
+</section>
 
     </div>
 
@@ -1013,9 +955,9 @@ cd ..
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/website/">Website</a>
-  
   <a class="badge badge-light" href="/tag/github/">GitHub</a>
+  
+  <a class="badge badge-light" href="/tag/website/">Website</a>
   
 </div>
 
@@ -1135,7 +1077,7 @@ cd ..
     <div class="media author-card content-widget-hr">
       
         
-        <img class="avatar mr-3 avatar-circle" src="/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_3.png" alt="Mickaël Lalande">
+        <img class="avatar mr-3 avatar-circle" src="/author/mickael-lalande/avatar_hu209bcf91415fe5904f53eb4786dc5ff8_5314538_270x270_fill_lanczos_center_2.png" alt="Mickaël Lalande">
       
 
       <div class="media-body">
@@ -1239,6 +1181,21 @@ cd ..
     <li>
       <a href="https://orcid.org/0000-0001-5014-5249" target="_blank" rel="noopener">
         <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.webofscience.com/wos/author/record/PYW-1434-2026" target="_blank" rel="noopener">
+        <i class="ai ai-researcherid"></i>
       </a>
     </li>
   
@@ -1449,7 +1406,7 @@ cd ..
     
     
     
-    <script src="/js/academic.min.cd45a9c0bbdd3dfb1c126917c601c9f2.js"></script>
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
 
     
 

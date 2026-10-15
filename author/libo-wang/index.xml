@@ -5,20 +5,41 @@
     <link>https://mickaellalande.github.io/author/libo-wang/</link>
       <atom:link href="https://mickaellalande.github.io/author/libo-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Libo Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0500</lastBuildDate>
     <image>
-      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
       <title>Libo Wang</title>
       <link>https://mickaellalande.github.io/author/libo-wang/</link>
     </image>
+    
+    <item>
+      <title>Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks</title>
+      <link>https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0500</pubDate>
+      <guid>https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read the full article:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.5194/gmd-19-9581-2026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lalande et al. (2026) – Geoscientific Model Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://doi.org/10.5194/gmd-19-9581-2026-supplement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary material (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/mickaellalande/SnowC2-CLASSIC-1D-model&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLASSIC model code (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/mickaellalande/SnowC2-CLASSIC-1D-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysis and figure scripts (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;publication-announcement&#34;&gt;Publication announcement&lt;/h3&gt;
+&lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:share:7515895128264347650&#34; width=&#34;100%&#34; height=&#34;1911&#34; style=&#34;max-width: 504px; border: 0;&#34; loading=&#34;lazy&#34; title=&#34;LinkedIn publication announcement&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Impact of topography and meteorological forcing on snow simulation in the Canadian Land Surface Scheme Including Biogeochemical Cycles (CLASSIC)</title>
       <link>https://mickaellalande.github.io/publication/snowc2/impact-of-topography-and-meteorological-forcing-on-snow-simulation-in-classic/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0100</pubDate>
       <guid>https://mickaellalande.github.io/publication/snowc2/impact-of-topography-and-meteorological-forcing-on-snow-simulation-in-classic/</guid>
-      <description>&lt;p&gt;Link: 
-&lt;a href=&#34;https://doi.org/10.5194/gmd-18-6597-2025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/gmd-18-6597-2025&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Link: &lt;a href=&#34;https://doi.org/10.5194/gmd-18-6597-2025&#34;&gt;https://doi.org/10.5194/gmd-18-6597-2025&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>

@@ -1,0 +1,1347 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Mickaël Lalande">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This study enhances a snow model for Arctic environments by improving the heat exchanges within the snowpack and at its interfaces, revising the compaction scheme, and adding consideration of blowing snow sublimation losses. Simulations at ten Arctic, mid-latitude, and Alpine sites show significant reductions in simulated soil and snow temperature biases and improved simulated snow depth and density, which are key features to improve simulated energy, water, and carbon budgets in the Arctic.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167118572-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-167118572-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@LalandeMickael">
+  <meta property="twitter:creator" content="@LalandeMickael">
+  
+  <meta property="og:site_name" content="Mickaël Lalande">
+  <meta property="og:url" content="https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/">
+  <meta property="og:title" content="Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks | Mickaël Lalande">
+  <meta property="og:description" content="This study enhances a snow model for Arctic environments by improving the heat exchanges within the snowpack and at its interfaces, revising the compaction scheme, and adding consideration of blowing snow sublimation losses. Simulations at ten Arctic, mid-latitude, and Alpine sites show significant reductions in simulated soil and snow temperature biases and improved simulated snow depth and density, which are key features to improve simulated energy, water, and carbon budgets in the Arctic."><meta property="og:image" content="https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/featured.png">
+  <meta property="twitter:image" content="https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2026-10-12T00:00:00&#43;05:00">
+    
+    <meta property="article:modified_time" content="2026-10-12T00:00:00&#43;05:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/"
+  },
+  "headline": "Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks",
+  
+  "image": [
+    "https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/featured.png"
+  ],
+  
+  "datePublished": "2026-10-12T00:00:00+05:00",
+  "dateModified": "2026-10-12T00:00:00+05:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Mickaël Lalande"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Mickaël Lalande",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "This study enhances a snow model for Arctic environments by improving the heat exchanges within the snowpack and at its interfaces, revising the compaction scheme, and adding consideration of blowing snow sublimation losses. Simulations at ten Arctic, mid-latitude, and Alpine sites show significant reductions in simulated soil and snow temperature biases and improved simulated snow depth and density, which are key features to improve simulated energy, water, and carbon budgets in the Arctic."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks | Mickaël Lalande</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Mickaël Lalande</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Mickaël Lalande</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-center" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured_publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Projects</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/#projects"><span>All</span></a>
+            
+              <a class="dropdown-item" href="/project/snowc2"><span>SnowC2 (2023-2025)</span></a>
+            
+              <a class="dropdown-item" href="/project/phd"><span>PhD (2019-2022)</span></a>
+            
+              <a class="dropdown-item" href="/project/science-et-climat"><span>Science et Climat</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>More</span><span class="caret"></span>
+          </a>
+          <div class="dropdown-menu">
+            
+              <a class="dropdown-item" href="/#experience"><span>Experience</span></a>
+            
+              <a class="dropdown-item" href="/project/medias"><span>Media</span></a>
+            
+              <a class="dropdown-item" href="/project/tutorials"><span>Tutorials</span></a>
+            
+          </div>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/CV_LALANDE_2026_v2.2.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span>Mickaël Lalande</span>, <span>Alexandre Roy</span>, <span>Libo Wang</span>, <span>Diana Verseghy</span>, <span>Vincent Vionnet</span>, <span>Florent Dominé</span>, <span>and Christophe Kinnard</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    October 2026
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/#disqus_thread"></a>
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/mickaellalande/SnowC2" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/snowc2/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.5194/gmd-19-9581-2026" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 496px;">
+  <div style="position: relative">
+    <img src="/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/featured_hu2dc57f6f200a4cca858348c7f1d0e1e8_409622_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">This study enhances the snow model of the Canadian Land Surface Scheme including Biogeochemical Cycles (CLASSIC), with a particular focus on Arctic environments. Key snow model physics improvements include adjustments to the thermal conductivity at the top of the first soil layer, a revised computation of the temperature at the snow–soil interface (hereafter, bottom snow temperature), and the addition of a windless exchange coefficient in sensible heat flux calculations. Arctic-specific adaptations include blowing-snow sublimation losses, a new snow compaction scheme, and snow thermal conductivity parameterization. Evaluations at seven mid-latitude and alpine sites (SnowMIP sites) and three Arctic sites (Bylot Island, Umiujaq, and Trail Valley Creek) show that these enhancements improve the overall simulated snowpack characteristics and soil temperatures across both SnowMIP and Arctic sites. The revised bottom snow temperature yields better agreement between simulated and observed snow and bottom snow temperatures. The new windless exchange coefficient reduced the surface temperature RMSE from 3.50 to 1.93 °C on average across all sites. The improved snow compaction scheme reduces the snow depth biases from 12.0 to 0.1 cm on average across the Arctic sites and improves the simulated snow densities while not degrading the overall model performance at the SnowMIP sites. Blowing-snow sublimation had a negligible effect at most sites, except at the wind-exposed sites of Umiujaq, Trail Valley Creek, and Senator Beck, decreasing snow depth on average by 2–4 cm. Adding a new snow thermal conductivity parameterization – combined with all previous developments – reduces the RMSE of the simulated soil temperatures from 5.3 to 3.0 °C on average at all Arctic sites. Our new developments demonstrate the ability of a single-layer snow model to reasonably reproduce Arctic bulk snowpack characteristics, while maintaining good performance at the SnowMIP sites. Inherent uncertainties remain in the forcing datasets, especially due to the harsh Arctic environment characterized by strong winds, snow redistribution, frost, and polar night. Future model developments will focus on spatial-scale simulations across the whole Arctic, with particular attention to snow cover fraction parameterizations to better capture sub-grid-scale spatial heterogeneity in Arctic environments.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Geoscientific Model Development</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p><strong>Read the full article:</strong> 
+<a href="https://doi.org/10.5194/gmd-19-9581-2026" target="_blank" rel="noopener">Lalande et al. (2026) – Geoscientific Model Development</a></p>
+<p><strong>Additional resources:</strong></p>
+<ul>
+<li>
+<a href="https://doi.org/10.5194/gmd-19-9581-2026-supplement" target="_blank" rel="noopener">Supplementary material (PDF)</a></li>
+<li>
+<a href="https://github.com/mickaellalande/SnowC2-CLASSIC-1D-model" target="_blank" rel="noopener">CLASSIC model code (GitHub)</a></li>
+<li>
+<a href="https://github.com/mickaellalande/SnowC2-CLASSIC-1D-analysis" target="_blank" rel="noopener">Analysis and figure scripts (GitHub)</a></li>
+</ul>
+<hr>
+<h3 id="publication-announcement">Publication announcement</h3>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7515895128264347650" width="100%" height="1911" style="max-width: 504px; border: 0;" loading="lazy" title="LinkedIn publication announcement"></iframe>
+</div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/arctic/">Arctic</a>
+  
+  <a class="badge badge-light" href="/tag/blowing-snow/">Blowing Snow</a>
+  
+  <a class="badge badge-light" href="/tag/classic/">CLASSIC</a>
+  
+  <a class="badge badge-light" href="/tag/lsm/">LSM</a>
+  
+  <a class="badge badge-light" href="/tag/model/">Model</a>
+  
+  <a class="badge badge-light" href="/tag/parameterization/">Parameterization</a>
+  
+  <a class="badge badge-light" href="/tag/snow/">Snow</a>
+  
+  <a class="badge badge-light" href="/tag/snow-compaction/">Snow Compaction</a>
+  
+  <a class="badge badge-light" href="/tag/swe/">SWE</a>
+  
+  <a class="badge badge-light" href="/tag/thermal-conductivity/">Thermal Conductivity</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/&amp;text=Improving%20the%20CLASSIC%20%28v1.8%29%20snow%20model%20to%20better%20simulate%20Arctic%20snowpacks" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/&amp;t=Improving%20the%20CLASSIC%20%28v1.8%29%20snow%20model%20to%20better%20simulate%20Arctic%20snowpacks" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Improving%20the%20CLASSIC%20%28v1.8%29%20snow%20model%20to%20better%20simulate%20Arctic%20snowpacks&amp;body=https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/&amp;title=Improving%20the%20CLASSIC%20%28v1.8%29%20snow%20model%20to%20better%20simulate%20Arctic%20snowpacks" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Improving%20the%20CLASSIC%20%28v1.8%29%20snow%20model%20to%20better%20simulate%20Arctic%20snowpacks%20https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/&amp;title=Improving%20the%20CLASSIC%20%28v1.8%29%20snow%20model%20to%20better%20simulate%20Arctic%20snowpacks" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+    
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+<section id="comments">
+  
+    
+<div id="disqus_thread"></div>
+<script>
+  let disqus_config = function () {
+    
+    
+    
+  };
+  (function() {
+    if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+      document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+      return;
+    }
+    var d = document, s = d.createElement('script'); s.async = true;
+    s.src = 'https://' + "https-mickaellalande-github-io" + '.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+  
+</section>
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/talk/snowc2/classic-meeting/20240410/">CLASSIC biweekly meeting: Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions</a></li>
+      
+      <li><a href="/publication/snowc2/impact-of-topography-and-meteorological-forcing-on-snow-simulation-in-classic/">Impact of topography and meteorological forcing on snow simulation in the Canadian Land Surface Scheme Including Biogeochemical Cycles (CLASSIC)</a></li>
+      
+      <li><a href="/talk/snowc2/egu/egu25/">EGU25: Improving the CLASSIC Snow Model to Better Simulate Arctic Snowpacks</a></li>
+      
+      <li><a href="/talk/snowc2/ige/ige25/">IGE seminar: Improving the CLASSIC Snow Model to Better Simulate Arctic Snowpacks</a></li>
+      
+      <li><a href="/talk/snowc2/agu/agu24/">AGU24: Improvement of the CLASSIC Snow Model to Better Simulate Arctic Snowpacks</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r,%20bash.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    <script id="dsq-count-scr" src="https://https-mickaellalande-github-io.disqus.com/count.js" async></script>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -5,12 +5,34 @@
     <link>https://mickaellalande.github.io/tag/arctic/</link>
       <atom:link href="https://mickaellalande.github.io/tag/arctic/index.xml" rel="self" type="application/rss+xml" />
     <description>Arctic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 May 2025 13:30:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0500</lastBuildDate>
     <image>
-      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mickaellalande.github.io/images/icon_hufd1911cbb3842b7aa3f7704753c9d65c_649189_512x512_fill_lanczos_center_2.png</url>
       <title>Arctic</title>
       <link>https://mickaellalande.github.io/tag/arctic/</link>
     </image>
+    
+    <item>
+      <title>Improving the CLASSIC (v1.8) snow model to better simulate Arctic snowpacks</title>
+      <link>https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0500</pubDate>
+      <guid>https://mickaellalande.github.io/publication/snowc2/improving-the-classic-v1-8-snow-model-to-better-simulate-arctic-snowpacks/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Read the full article:&lt;/strong&gt; 
+&lt;a href=&#34;https://doi.org/10.5194/gmd-19-9581-2026&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lalande et al. (2026) – Geoscientific Model Development&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Additional resources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://doi.org/10.5194/gmd-19-9581-2026-supplement&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Supplementary material (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/mickaellalande/SnowC2-CLASSIC-1D-model&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLASSIC model code (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/mickaellalande/SnowC2-CLASSIC-1D-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Analysis and figure scripts (GitHub)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;publication-announcement&#34;&gt;Publication announcement&lt;/h3&gt;
+&lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:share:7515895128264347650&#34; width=&#34;100%&#34; height=&#34;1911&#34; style=&#34;max-width: 504px; border: 0;&#34; loading=&#34;lazy&#34; title=&#34;LinkedIn publication announcement&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>IGE seminar: Improving the CLASSIC Snow Model to Better Simulate Arctic Snowpacks</title>
@@ -36,8 +58,7 @@
       <pubDate>Thu, 13 Feb 2025 09:40:00 -0500</pubDate>
       <guid>https://mickaellalande.github.io/talk/snowc2/cen/colloque-2025/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTzq523hUNVPbX1QGM2vrTvLdKUzMA24xKZS3Y0bfWwzb6XZXPRPSarNoHKoGerJf9jeDZfVtc-CuiF/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;Planning du Colloque du CEN 2025 : 
-&lt;a href=&#34;https://www.cen.ulaval.ca/documents/107/Programme_court_2025_VF.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cen.ulaval.ca/documents/107/Programme_court_2025_VF.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Planning du Colloque du CEN 2025 : &lt;a href=&#34;https://www.cen.ulaval.ca/documents/107/Programme_court_2025_VF.pdf&#34;&gt;https://www.cen.ulaval.ca/documents/107/Programme_court_2025_VF.pdf&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -96,10 +117,8 @@
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQJL5Dwb-dwBHOwKQj0fe5-_EjoUnf20mZDNQWf8buvjC1YCdgxcKGYMMrwkFtmQRo2IdqLS_rRbKah/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;CLASSIC webpage: 
-&lt;a href=&#34;https://cccma.gitlab.io/classic_pages/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://cccma.gitlab.io/classic_pages/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CLASSIC code: 
-&lt;a href=&#34;https://gitlab.com/cccma/classic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gitlab.com/cccma/classic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CLASSIC webpage: &lt;a href=&#34;https://cccma.gitlab.io/classic_pages/&#34;&gt;https://cccma.gitlab.io/classic_pages/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CLASSIC code: &lt;a href=&#34;https://gitlab.com/cccma/classic&#34;&gt;https://gitlab.com/cccma/classic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -143,8 +162,7 @@
       <guid>https://mickaellalande.github.io/project/snowc2/</guid>
       <description>&lt;h2 id=&#34;snow-cover-heterogeneity-and-its-impact-on-the-climate-and-carbon-cycle-of-arctic-regions&#34;&gt;Snow cover heterogeneity and its impact on the Climate and Carbon cycle of Arctic regions&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;ESA Climate Change Initiative Fellowship: 
-&lt;a href=&#34;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ESA Climate Change Initiative Fellowship: &lt;a href=&#34;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&#34;&gt;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Durantion: 2-years postdoc project (from 01/10/2023 to 30/09/2025)&lt;/li&gt;
 &lt;li&gt;Supervised by: 
 &lt;a href=&#34;https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw045a.afficher_detail_form_reponse?owa_no_site=5528&amp;amp;owa_bottin=&amp;amp;owa_no_fiche=3&amp;amp;owa_no_form_reponse=221924&amp;amp;owa_apercu=N&amp;amp;owa_imprimable=N&amp;amp;owa_brouillon=N&amp;amp;owa_fenetre_surgissante=N&amp;amp;owa_lettre=%25&amp;amp;owa_no_page=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christophe Kinnard&lt;/a&gt; and 
@@ -164,8 +182,7 @@
 &lt;p&gt;To that purpose, we improved the CLASSIC snow model, with a particular focus on Arctic environments. Key snow model improvements include the addition of blowing snow sublimation losses, a new snow compaction scheme, and parameterization of snow thermal conductivity. Evaluations at seven mid-latitude and alpine sites  (SnowMIP sites) and three Arctic sites (Bylot Island, Umiujaq, and Trail Valley Creek) demonstrate that these enhancements improve the overall simulated snowpack characteristics and soil temperatures across both SnowMIP and Arctic sites (Lalande et al., &lt;em&gt;in prep&lt;/em&gt;).&lt;/p&gt;
 &lt;p&gt;Future model developments will focus on spatial scale simulation across the entire Arctic, with particular attention to snow cover fraction parameterizations to better account for spatial heterogeneities. The influence of these new developments will be assessed against the evolution of the Snow CCI variables for different land types and for the simulated surface energy and carbon fluxes. This work is being done in collaboration with ECCC.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Project link: 
-&lt;a href=&#34;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Project link: &lt;a href=&#34;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&#34;&gt;https://climate.esa.int/en/about-us-new/fellowships/esa-cci-research-fellowship-Mickael-Lalande/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
